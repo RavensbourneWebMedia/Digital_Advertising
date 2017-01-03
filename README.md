@@ -1,6 +1,6 @@
 <!--# Web Design principles-->
 
-### During this project you will learn the principles of visual communication by researching and designing *objects that communicate*. 
+### During this project you will produce an integrated advertising campaign that will champion your ideas, intelligence, communication and web media skills. 
 
 In particular, you will:
 
@@ -19,16 +19,16 @@ In particular, you will:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Thursday<br>12.01](sessions/01)| <ul><li>Welcome <li>Whats the plan. Course intro. <li>Lecture: [**A Brief History of Advertising**](#eyebombing) <li> Intro: DA&D Briefs 2017<li>Workshop: [**Breaking Down The Brief**](http://www.dandad.org/en/d-ad-how-to-break-down-a-brief-new-blood-advice/) | <ul><li>Create 20 ideas in reply to your chosen DA&D brief.<li>Choose your to 5, explain why and develop these concepts.  | *Undecided*
-[Thursday<br>19.01](sessions/02)| <ul><li>Lecture: Advertising Principles and Practices <li>Tutorials: DA&D concepts / Ideation <li>Project: [**OneTweet**](#onetweet) | <ul><li>Peer learning research on *typography* <li>Work on *OneTweet* | *Undecided*
-[Thursday<br>26.01](sessions/03)| <ul><li>Peer learning: *typography*  <li>Tutorials on *OneTweet* <li>Team project: [**The Union Hack**](#the-union-hack)  | <ul><li>Peer learning research: *symbols and brands* <li>Work on *The Union Hack* | *The Union Hack*
-[Thursday<br>02.01](sessions/04)|  **Formative assessment** with special guest |  | Reflection blog
-[Thursday<br>09.01](sessions/04)|  <li> Lecture:  |  | Reflection blog
-[Monday<br>07.11](sessions/05)| <ul><li>Peer learning: *symbols and brands* <li>Tutorials on *The Union Hack* | Peer learning
-[Monday<br>14.11](sessions/07)| Guest lecturer: [Metod](https://twitter.com/metodb) <ul><li>Visual design theory for the win! <li>Workshop: grid systems  <li>Project: [**Code in your plate**](#code-in-your-plate) | Work on *Code in your plate* | The Web's Grain
-[Monday<br>21.11](sessions/08)| <ul><li>Workshop: HTML & CSS <li>Tutorials on *Code in your plate* |  <ul><li>Peer learning research: CSS tricks <li>Work on *Code in your plate* | *Code in your plate*
-[Monday<br>28.11](sessions/09)| <ul><li>Peer learning: CSS tricks <li>Workshop: Responsive Web Design<li>Tutorials on *Code in your plate* | Prepare summative (tweak your work) | CSS tricks
-[Monday<br>05.12](sessions/10)| **Summative assessment**
+[Thursday<br>12.01](sessions/01)| <ul><li>Welcome <li>Whats the plan. Course intro. <li>Lecture: [**A Brief History of Advertising**](#eyebombing) <li> Intro: DA&D Briefs 2017<li>Workshop: [**Breaking Down The Brief**](http://www.dandad.org/en/d-ad-how-to-break-down-a-brief-new-blood-advice/) | <ul><li>Create 20 ideas in reply to your chosen DA&D brief.<li>Choose your top 5, explain why and develop these concepts.  | *Undecided*
+[Thursday<br>19.01](sessions/02)| <ul><li>Lecture: Advertising Principles and Practices <li>Tutorials: DA&D concepts / Ideation <li>Project: [**Undecided**](#onetweet) | <ul><li>Undecided <li>Undecided | *Undecided*
+[Thursday<br>26.01](sessions/03)| <ul><li>Peer learning: *typography*  <li>Tutorials on *OneTweet* <li>Team project: [**The Union Hack**](#the-union-hack)  | <ul><li>Peer learning research: *symbols and brands* <li>Work on *The Union Hack* | Undecided.
+[Thursday<br>02.02](sessions/04) Sunday |  <ul> <li> Lecture: |<ul> <li> | Undecided. 
+[Thursday<br>09.02](sessions/05) Sunday 12.02| <ul><li>**Formative assessment**: In class.<li>Formative Assessment: Moodle submission. | <ul> <li> Gather and reflect on your formative feedback.<li> Make a plan showing how you will modify your project over the next 4 weeks. | Formative Assessment. 
+Thursday<br>16.02| <ul><li>**Enhancement Week**| 
+[Thursday<br>23.02](sessions/07)|  <ul><li>Lecture: | <ul><li> | Undecided. 
+[Thursday<br>02.03](sessions/08)| <ul><li>Lecture <li>Tutorials |  <ul><li>  | Undecided
+[Thursday<br>09.03](sessions/09)| <ul><li>Recap of Summative Submissions<li>How to submit a DA&D project.<li> Summative Prep / last tutorials | <ul><li>Prepare summative (tweak your work) | Undecided
+[Thursday<br>16.03](sessions/10) Sunday 19.03| <ul><li>**Summative assessment**: In class. <li> Summative assessment: Moodle submission. | <ul><li>Prepare and tweak your written submissions based on summative assessment. | Check all blog posts are complete.
 
 <!-- <li>Workshop: how to present your work -->
 
@@ -65,20 +65,19 @@ All the project material is [here](projects/code-in-your-plate).
 
 By the end of this course, you will be able to:
 
-1. Use **principles of visual perception** to make informed design decisions.
-* Experiment with framing, lighting and colour to create and manipulate **photographic images**.
-* Tinker with fonts, sizes and layout (aka **typography**) to create meaning and evoke emotions with text.
-* Play with ideas and turn them into visual **symbols** and shapes.
-* Turn unstructured data into structured, aesthetically cohesive and accessible information using **HTML** and **CSS**.
-* **Document** your creative process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
-* Adapt your **communication** to different audiences and contexts (eg: team meeting vs presentation).
-* Use the Git version-control system (through GitHub) to **collaborate** with your team and **back-up** your project files.
+1. Use your web-skills to make a **whole marketing campaign** conveying one strong storytelling message. 
+* Extend initial knowledge of advertising and marketing to create integratied ideas and concepts for conventional and new media applications.
+* Show self-initiative and develop good judgement in the presentation of work to a high professional standard that balances academic and competition requirements.
+* Develop editorial judgement on the selection of ideas, platform and approach for commercial use.
+* Ability to design an integrated solution that combines ideas with cross-media strategies, Web 2.0 and traditional technologies in a compelling integrated campaign.
+* Apply art-direction and copywriting skills associated with advertising and marketing to your web based projects.
+
 
 
 # Rules of the road
 
-* **Be present**. If you happen to be late or absent, make sure you email me about it before a session starts. We'll deduct 2% from your grade for each uncommunicated tardiness or absence (aka the *2% Tardiness Tax*).
-* **Participate** in class debates and workshops. We'll make sure that your ideas have space to be heard and that nobody makes you feel uncomfortable about sharing them.
+* **Be present**. If you happen to be late or absent, make sure you email me about it before a session starts. 
+* **Participate** in class lectures, tutorials and workshops. We'll make sure that your ideas have space to be heard and that nobody makes you feel uncomfortable about sharing them.
 * **Present** your work during formative and summative assessments. If you can't make it those days then you'll record your presentation and upload it to YouTube (or similar).
 * **Be responsible** for what happens in class. Organise with your peers to get class information and material that you may have missed.
 * **Meet the deadlines**. If you submit your work after a deadline, your grade will be capped at D- (bare pass).
