@@ -19,11 +19,11 @@ In particular, you will:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Thursday<br>12.01](sessions/01)| <ul><li>Welcome <li>Whats the plan. Course intro. <li>Lecture: [**A Brief History of Advertising**](#eyebombing) <li>Workshop: GitHub and MarkDown | <ul><li>Create 20 ideas in reply to your chosen DA&D brief.<li>Choose your to 5, explain why and develop these concepts.  | *Undecided*
-[Thursday<br>19.01](sessions/02)| <ul><li>Peer learning: teams mini-lessons on *visual perception principles* <li>Tutorials on *EyeBombing* <li>Project: [**OneTweet**](#onetweet) | <ul><li>Peer learning research on *typography* <li>Work on *OneTweet* | *OneTweet*
-[Monday<br>17.10](sessions/03)| <ul><li>Peer learning: *typography*  <li>Tutorials on *OneTweet* <li>Team project: [**The Union Hack**](#the-union-hack)  | <ul><li>Peer learning research: *symbols and brands* <li>Work on *The Union Hack* | *The Union Hack*
-[Monday<br>27.10](sessions/04)|  **Formative assessment** with special guest |  | Reflection blog
-Week 6<br>Mozfest|
+[Thursday<br>12.01](sessions/01)| <ul><li>Welcome <li>Whats the plan. Course intro. <li>Lecture: [**A Brief History of Advertising**](#eyebombing) <li> Intro: DA&D Briefs 2017<li>Workshop: [**Breaking Down The Brief**](http://www.dandad.org/en/d-ad-how-to-break-down-a-brief-new-blood-advice/) | <ul><li>Create 20 ideas in reply to your chosen DA&D brief.<li>Choose your to 5, explain why and develop these concepts.  | *Undecided*
+[Thursday<br>19.01](sessions/02)| <ul><li>Lecture: Advertising Principles and Practices <li>Tutorials: DA&D concepts / Ideation <li>Project: [**OneTweet**](#onetweet) | <ul><li>Peer learning research on *typography* <li>Work on *OneTweet* | *Undecided*
+[Thursday<br>26.01](sessions/03)| <ul><li>Peer learning: *typography*  <li>Tutorials on *OneTweet* <li>Team project: [**The Union Hack**](#the-union-hack)  | <ul><li>Peer learning research: *symbols and brands* <li>Work on *The Union Hack* | *The Union Hack*
+[Thursday<br>02.01](sessions/04)|  **Formative assessment** with special guest |  | Reflection blog
+[Thursday<br>09.01](sessions/04)|  <li> Lecture:  |  | Reflection blog
 [Monday<br>07.11](sessions/05)| <ul><li>Peer learning: *symbols and brands* <li>Tutorials on *The Union Hack* | Peer learning
 [Monday<br>14.11](sessions/07)| Guest lecturer: [Metod](https://twitter.com/metodb) <ul><li>Visual design theory for the win! <li>Workshop: grid systems  <li>Project: [**Code in your plate**](#code-in-your-plate) | Work on *Code in your plate* | The Web's Grain
 [Monday<br>21.11](sessions/08)| <ul><li>Workshop: HTML & CSS <li>Tutorials on *Code in your plate* |  <ul><li>Peer learning research: CSS tricks <li>Work on *Code in your plate* | *Code in your plate*
