@@ -19,8 +19,8 @@ In particular, you will:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Monday<br>03.10](sessions/01)| <ul><li>Welcome <li>*Ways of seeing* <li>Team project: [**EyeBombing**](#eyebombing) <li>Workshop: GitHub and MarkDown | <ul><li>Peer learning: choose a *visual perception principle* to research and teach next week <li>Work on *EyeBombing* | *EyeBombing*
-[Monday<br>10.10](sessions/02)| <ul><li>Peer learning: teams mini-lessons on *visual perception principles* <li>Tutorials on *EyeBombing* <li>Project: [**OneTweet**](#onetweet) | <ul><li>Peer learning research on *typography* <li>Work on *OneTweet* | *OneTweet*
+[Thursday<br>12.01](sessions/01)| <ul><li>Welcome <li>Whats the plan. Course intro. <li>Lecture: [**A Brief History of Advertising**](#eyebombing) <li>Workshop: GitHub and MarkDown | <ul><li>Create 20 ideas in reply to your chosen DA&D brief.<li>Choose your to 5, explain why and develop these concepts.  | *Undecided*
+[Thursday<br>19.01](sessions/02)| <ul><li>Peer learning: teams mini-lessons on *visual perception principles* <li>Tutorials on *EyeBombing* <li>Project: [**OneTweet**](#onetweet) | <ul><li>Peer learning research on *typography* <li>Work on *OneTweet* | *OneTweet*
 [Monday<br>17.10](sessions/03)| <ul><li>Peer learning: *typography*  <li>Tutorials on *OneTweet* <li>Team project: [**The Union Hack**](#the-union-hack)  | <ul><li>Peer learning research: *symbols and brands* <li>Work on *The Union Hack* | *The Union Hack*
 [Monday<br>27.10](sessions/04)|  **Formative assessment** with special guest |  | Reflection blog
 Week 6<br>Mozfest|
