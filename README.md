@@ -4,14 +4,13 @@
 
 In particular, you will:
 
-* Examine how people **make sense of visual perceptions**, which will help you make informed design decisions.
-* Explore different ways of looking at and framing everyday objects through **photography** and **image manipulation**.
-* Experiment with **typography** and **graphic layout** to turn data into information and evoke meaning.
-* Use **HTML** and **CSS** to turn unstructured data into structured, aesthetically cohesive and accessible information.
-* Get familiar with the edgeless medium of the Web and **Responsive Web Design** methods.
-* Work in **teams**, learning from your peers and teaching them what you learned.
-* **Document** your work regularly and **reflect** on your creative process.
-
+* Examine the history behind and operational structure of an advertising agecy and understand the different roles and skills that go into making a campaign.  
+* Explore best practices when researching markets, clients and products to ensure the creation of targeted campaigns.
+* Learn how to pull apart and understand a brief under a time constraint and produce a number of creative responses quickly. 
+* How to develop your ideas from an elevator pitch (one liner) into a pitch document and then into a creative visualisation.
+* How to ulitise story telling to enhance a product story and add authenticity to your pitch. 
+* How to evaluate and refine your ideas into a creatively compelling and clearly communicated campaign. 
+* How the use of the web and social media can help to spread creative ideas quickly around the globe. 
 
 # Plan
 
@@ -66,10 +65,10 @@ All the project material is [here](projects/code-in-your-plate).
 By the end of this course, you will be able to:
 
 1. Use your web-skills to make a **whole marketing campaign** conveying one strong storytelling message. 
-* Extend initial knowledge of advertising and marketing to create integratied ideas and concepts for conventional and new media applications.
-* Show self-initiative and develop good judgement in the presentation of work to a high professional standard that balances academic and competition requirements.
-* Develop editorial judgement on the selection of ideas, platform and approach for commercial use.
-* Ability to design an integrated solution that combines ideas with cross-media strategies, Web 2.0 and traditional technologies in a compelling integrated campaign.
+* Use your knowledge of advertising and marketing to create integratied concepts for conventional and new media applications.
+* Use self-initiative and good judgement to produce work to a high professional standard that balances academic and competition requirements.
+* Use editorial judgement to select strong ideas, the correct platform and approach for commercial advertising campaigns.
+* Design an integrated solutions that combine ideas with cross-media strategies, Web 2.0 and traditional technologies in a compelling integrated campaign.
 * Apply art-direction and copywriting skills associated with advertising and marketing to your web based projects.
 
 
