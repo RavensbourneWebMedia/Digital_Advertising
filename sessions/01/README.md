@@ -3,7 +3,7 @@
 ### Thursday 12th January 2017
 
 1. [Welcome](#welcome) :)
-* Lecture & Discussion: [A Brief History of Advertising](#A-Brief-History-of-Advertising)
+* Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
 * Intro: [D&AD Briefs](#Intro-D&AD-Briefs)  
 * Workshop: [Breaking Down A Brief](#workshop)
 
