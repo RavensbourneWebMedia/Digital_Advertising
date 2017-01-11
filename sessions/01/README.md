@@ -5,7 +5,7 @@
 1. [Welcome](#welcome) :)
 * Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
 * Intro: [D&AD New Blood Briefs](#d&ad-new-blood-briefs)  
-* Workshop: [Breaking Down A Brief](#workshop)
+* Workshop: [Breaking Down A Brief](#workshop:-breaking-down-a-brief)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
