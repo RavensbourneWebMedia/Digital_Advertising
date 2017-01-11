@@ -124,38 +124,10 @@ Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 
 # Intro D&AD Briefs
 
-[![](assets/DAD_Award_New-Blood.jpg)](https://en.wikipedia.org/wiki/Camera_obscura)
+[![](assets/DAD_Award_New-Blood.jpg)](assets/DAD_Award_New-Blood.jpg)
 
 
 
-### EyeBombing 
-
-This **team project** is about *looking* and *creating images*. Looking at everyday objects and our surroundings with different eyes and using **photography** to frame them, so that others can see what we want them to see.
-
-All the project material is [here](../../projects/eye-bombing).
-
-Today:
-
-1. Form teams.
-* Start photographing objects around Ravensbourne.
-* Set up a GitHub repository for your team project.
-
-Between today and next week:
-
-1. Continue capturing images, both individually and as a team. You may want to borrow a DSLR camera from the CLR...
-* Edit images (optional). 
-* Record your creative process in your blogs.
-
-Next week:
-
-1. Review your work in class
-* What have you made?
-* How can you improve it?
-
-Formative presentation (24.10):
-
-1. Present your work as a team, both process and results.
-* Reflect on what you learned from it.
 
 
 # Workshop
