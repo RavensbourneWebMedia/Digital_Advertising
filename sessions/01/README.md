@@ -122,11 +122,15 @@ Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 * What is the relationship between what you see and what you make? What you make and how you are seen?-->
 
 
-# Intro D&AD Briefs
+# Intro: D&AD New Bloog Briefs
 
 ![alt text](assets/DAD_Award_New-Blood.jpg)
 
+What does D&AD stand for? 
 
+1. Digital and Analogue Design?
+* Design and Art Direction?
+* 
 
 
 
@@ -159,6 +163,8 @@ What does **marking up** mean?
 ### Brief Breakdown and Ideation
 
 Working on your own or in your chosen group of 2:
+
+Sign up to take part in the 2017 [D&AD New Blood Competition] (http://www.dandad.org/?next=/). Ravensbourne will pay for your entries if you want to make a submission at the end of the course :).
 
 Choose an **vD&AD Brief** set by industry from the list below:
 
