@@ -55,6 +55,8 @@ Key Dates:
 
 ##The Briefs
 
+![alt text](DAD-New-Blood.jpg) 
+
 This year there are 16 briefs put forward by the following industy leaders:
 
 1. Adobe
