@@ -136,7 +136,45 @@ What does D&AD stand for?
 
 # Workshop
 
-Let's get started by choosing one of the 16 D&AD briefs and leaning how to deconstuct or break down the brief. 
+Let's get started by choosing one of the 16 D&AD briefs and leaning how to break down the brief. 
+
+![alt text](assets/How_To_Break_Down_A_Brief.jpg)
+
+Briefs are essential but they can be overwhelming, so lets deconstruct our brief so get to the **heart** of what we're being asked for. 
+
+Before we start, read your brief one more time so it's fresh in your mind. 
+
+Task 1: 5 Mins
+
+Reread your brief but think about the **essential** points are, what **specific words communicate** and key pieces of info that **stand out**. Highlight them.
+
+You are not going to break down the brief into just 16 words. These 16 words should communicate what the brief is asking you to do. Imagine you are giving this to someone instead of the full brief. How can you get them to understand what the task is in the same way but in only 16 words? Pull in any of the specific info or words you highlighted to help you.
+
+Note down your 16 words only. 
+
+Task 2: 2 Mins
+
+From your 16 words, really think again about what the **crucial points** are.
+
+How many words could you shave and still communicate what the brief is asking you to do?
+
+Let's try do it in 8? Ok, let's do it. 
+
+In 8 words, what is the brief asking you to do? Rearrange the ones you have, use 8 new words or mix it up.
+
+Step 3: 1 Mins
+
+So now you've got it down to the bare bones right? Those 8 words are all gold and they are completely vital. But which ones could you do without?
+
+Try and get it down to just 4 words. Remember, you are trying to communicate as much of the information from the full brief as possible. 
+
+Think about which words carry the most meaning.
+
+Step 4: 1 Mins
+
+What next? Let's slim it down to 2 words.
+
+
 
 ### GitHub 
 
