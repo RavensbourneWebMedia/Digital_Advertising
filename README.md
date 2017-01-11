@@ -5,12 +5,12 @@
 In particular, you will:
 
 * Examine the history behind and operational structure of an advertising agecy and understand the different roles and skills that go into making a campaign.  
-* Explore best practices when researching markets, clients and products to ensure the creation of targeted campaigns.
-* Learn how to pull apart and understand a brief under a time constraint and produce a number of creative responses quickly. 
-* How to develop your ideas from an elevator pitch (one liner) into a pitch document and then into a creative visualisation.
-* How to ulitise story telling to enhance a product story and add authenticity to your pitch. 
-* How to evaluate and refine your ideas into a creatively compelling and clearly communicated campaign. 
-* How the use of the web and social media can help to spread creative ideas quickly around the globe. 
+* Explore best practices when **researching markets**, clients and products to ensure the creation of targeted campaigns.
+* Learn how to pull apart and **understand a brief** under a time constraint and produce a number of creative responses quickly. 
+* Learn how to develop your ideas from an **elevator pitch** (one liner) into a **pitch document** and then into a **creative visualisation**.
+* Learn how to ulitise **story telling** to enhance a product story and add authenticity to your pitch. 
+* Learn how to **evaluate and refine** your ideas into a creatively compelling and clearly communicated campaign. 
+* Leanr how the use of the web and social media can help to **spread creative ideas** quickly around the globe. 
 
 # Plan
 
