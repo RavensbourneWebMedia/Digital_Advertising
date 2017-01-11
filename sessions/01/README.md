@@ -176,10 +176,13 @@ Choose the **D&AD Brief** that you will respond to for this unit from the list b
 
 Or write your own brief and:
 
-<li>Create 20 concepts / ideas for a campaign that responds to your chosen brief. 
-<li>Choose the 5 strongest ideas and explain how they "stand out". 
-<li>Detail how these 5 respond to the "heart" of the brief that you've chosen. 
-<li>Bring your 5 ideas ready to explain to the class next week (bearing in mind you will have max 2 minute to explain each idea). 
+<li>Create **20 concepts / ideas** for a campaign that responds to your chosen brief. 
+
+<li>Choose the **5 strongest** ideas and explain how they "stand out". 
+
+<li>Detail how these 5 respond to the **heart** of the brief that you've chosen. 
+
+<li>Bring your 5 ideas ready to explain to the class next week. You will have **max 2 minutes** to explain each idea. 
 
 ### Blog 
 
