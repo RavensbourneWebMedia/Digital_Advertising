@@ -1,12 +1,11 @@
 # Week 1
 
-### Today, Monday 3rd October 2016
+### Thursday 12th January 2017
 
 1. [Welcome](#welcome) :)
-* Design Thinking Mini Lecture. 
-* Discussion: [Ways of seeing](#ways-of-seeing)
-* Team project: [EyeBombing](#team-project)  
-* Workshop: [GitHub and MarkDown](#workshop)
+* Discussion: [A Brief History of Advertising](#A-Brief-History-of-Advertising)
+* Intro: [D&AD Briefs](#Intro-D&AD-Briefs)  
+* Workshop: [Breaking Down A Brief](#workshop)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -17,11 +16,10 @@
 * [What's the plan?](../../README.md#plan) Make sure you subscribe to the [calendar feed](https://www.google.com/calendar/ical/rave.ac.uk_agop0ff7kdgdc289jdrl5021gs%40group.calendar.google.com/public/basic.ics)! 
 * [What can you learn?](../../README.md#learning-goals)
 * Keeping a **journal** to record your creative process is *extremely* important. Don't let your ideas and thoughts fade away! Think of your project blog as your **digital sketchbook**. More on that [here](https://github.com/RavensbourneWebMedia/Blogging#why-blogging).
-* Reading lists and perusing the library (we'll also share some PDFs).
-* **Peer learning**: [one of the most effective ways](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/) to learn something is to teach it to someone else. During this course you'll be sharing your skills and knowledge in class, leading mini-tutorials and moderating debates. Starting with [your homework for next week](#peer-learning-research)! 
+* Reading lists and perusing the library (I'll also share some PDFs).
 
 
-# Ways of seeing
+# A Brief History of Advertising
 
 ### Looking before creating
 
@@ -124,7 +122,11 @@ Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 * What is the relationship between what you see and what you make? What you make and how you are seen?-->
 
 
-# Team project
+# Intro D&AD Briefs
+
+[![](assets/DAD_Award_New-Blood.jpg)](https://en.wikipedia.org/wiki/Camera_obscura)
+
+
 
 ### EyeBombing 
 
@@ -158,7 +160,7 @@ Formative presentation (24.10):
 
 # Workshop
 
-Let's get started with a couple of tools that are widely used in the industry.
+Let's get started by choosing one of the 12 D&AD briefs and leaning how to deconstuct or break down the brief. 
 
 ### GitHub 
 
@@ -268,42 +270,39 @@ Use person `A` if you're only two
 
 # Homework
 
-### Peer-learning research
+### Brief Breakdown and Ideation
 
-8 **teams** of ~3 people each. You may want to stick to the same *EyeBombing* team.
+Working on your own or in your chosen group of 2:
 
-Choose a **visual perception principle** to *research* and *teach* next week (one per team):
+Choose an **vD&AD Brief** set by industry from the list below:
 
-1. Closure
-* Symmetry
-* Figure/ground relationship
-* Connectedness 
-* Proximity
-* Continuation
-* Similarity
-* Past experience
+1. Adobe
+* Amazon
+* Arjowiggins
+* BBC 
+* Crowne Plazaa
+* Desperados
+* Hasbro
+* John Lewis
+* Monotype
+* MUBI
+* Nationwide
+* Pearson
+* Respect for Animals
+* Squarespace
+* The British Army
+* The National Autistic Society
 
-Your team **mini-lesson** (bear in mind, *mini-lesson* does not mean PowerPoint slides.. be creative) should be **~15 minutes** and you may include:
+Or write your own brief and:
 
-* Summary of main ideas
-* Links, images or videos of projects / products / things referenced in your research
-* Other relevant things you've read, heard or seen
-* Examples and demonstrations
-* Personal experiences
-
-Each team should also prepare **1-2 questions for the class**. After your mini-lesson, we will have a short group discussion around these questions.
-
-Make sure your mini-lesson and any other relevant material is **published online** (for instance on GitHub.. but it could be elsewhere as long as it's accessible by anyone). You can publish *after* you've presented next week.
-
-
-### Project 
-
-Work on *EyeBombing* **with your team**.
+1. Create 20 concepts / ideas for a campaign that responds to your chosen brief. 
+* Choose the 5 strongest ideas and explain how they "stand out". 
+* Detail how these 5 respond to the "heart" of the brief that you've chosen. 
+* Bring your 5 ideas ready to explain to the class next week (bearing in mind you will have max 2 minute to explain each idea). 
 
 ### Blog 
 
-**Individually**, write about *EyeBombing*. 
+1. Watch Seth Godin’s TED talk on [**How to get your ideas to spread.**] (https://www.ted.com/talks/seth_godin_on_sliced_bread) and reflect on the content of the lecture and key themes. Note your thoughts on the lecture and how this might relate to your own work. 
+* Choose 3 "stand out" digital advertising campaigns and explain what makes them "remarkable" in comparison to other campaigns. 
 
-Reflect on the concept and document **your** thought process. 
 
-You can post pictures of scribbled notes, or jot down notes digitally. It doesn't need to be fleshed out and well written. The main goal here is to record your flow of ideas, not to make it beautiful!
