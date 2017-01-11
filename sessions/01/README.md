@@ -189,7 +189,7 @@ Or write your own brief and:
 
 ### Blog 
 
-<ul><li> Watch Seth Godin’s TED talk on [**How to get your ideas to spread.**] (https://www.ted.com/talks/seth_godin_on_sliced_bread) and reflect on the content of the lecture and key themes. Note your thoughts on the lecture and how this might relate to your own work. 
+<li> Watch Seth Godin’s TED talk on [**How to get your ideas to spread.**] (https://www.ted.com/talks/seth_godin_on_sliced_bread) and reflect on the content of the lecture and key themes. Note your thoughts on the lecture and how this might relate to your own work. 
 <li>Choose 3 "stand out" digital advertising campaigns and explain what makes them "remarkable" in comparison to other campaigns. 
 
 
