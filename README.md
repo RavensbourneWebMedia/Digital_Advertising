@@ -31,34 +31,6 @@ Thursday<br>16.02| <ul><li>**Enhancement Week**|
 
 <!-- <li>Workshop: how to present your work -->
 
-# Projects
-
-### EyeBombing
-
-This **team project** is about *looking* and *creating images*. Looking at everyday objects and our surroundings with different eyes and using **photography** to frame them, so that others can see what we want them to see.
-
-All the project material is [here](projects/eye-bombing).
-
-### OneTweet
-
-This project is about about **typography** and creating *meaning with text*.
-
-All the project material is [here](projects/one-tweet).
-
-### The Union Hack
-
-This **team project** is about about **symbols** and **brands**. By designing flags, you will devise symbols to represent identities and convert ideas into shapes. 
-
-All the project material is [here](projects/union-hack).
-
-### Code in your plate
-
-This project introduces you to **coding** as a process of *translation*: from ideas to words, from words to sketches, from sketches to technical descriptions in various languages. 
-
-You will get familiar with 2 of the 3 languages of the Web: **HTML** and **CSS** (JavaScript next term).
-
-All the project material is [here](projects/code-in-your-plate).
-
 
 # Learning goals
 
