@@ -124,7 +124,7 @@ Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 
 # Intro D&AD Briefs
 
-[![](assets/DAD_Award_New-Blood.jpg)](assets/DAD_Award_New-Blood.jpg)
+![alt text](assets/DAD_Award_New-Blood.jpg)
 
 
 
