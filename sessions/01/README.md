@@ -111,7 +111,7 @@ Briefs are essential but they can be overwhelming, so lets deconstruct our brief
 
 Before we start, read your brief one more time so it's fresh in your mind. 
 
-Task 1: 5 Mins
+##Task 1: 5 Mins
 
 Reread your brief but think about the **essential** points are, what **specific words communicate** and key pieces of info that **stand out**. Highlight them.
 
@@ -119,7 +119,7 @@ You are not going to break down the brief into just 16 words. These 16 words sho
 
 Note down your 16 words only. 
 
-Task 2: 2 Mins
+##Task 2: 2 Mins
 
 From your 16 words, really think again about what the **crucial points** are.
 
@@ -129,7 +129,7 @@ Let's try do it in 8? Ok, let's do it.
 
 In 8 words, what is the brief asking you to do? Rearrange the ones you have, use 8 new words or mix it up.
 
-Step 3: 1 Mins
+##Step 3: 1 Mins
 
 So now you've got it down to the bare bones right? Those 8 words are all gold and they are completely vital. But which ones could you do without?
 
@@ -137,11 +137,15 @@ Try and get it down to just 4 words. Remember, you are trying to communicate as 
 
 Think about which words carry the most meaning.
 
-Step 4: 1 Mins
+##Step 4: 1 Mins
 
 What next? Let's slim it down to 2 words.
 
+Now you have your whole brief squeezed down into 2 words. You have identified the **heart** of your brief. 
 
+It wouldn't be a good idea to use only these words when building your concepts, but now the other words and context of the brief should feel like a luxury. 
+
+As you work on ideas for your brief, refer back and ask, "Is my idea / campaign communicating the 2 word, **heart** of my brief?"
 
 # Homework
 
