@@ -21,11 +21,11 @@
 
 # A Brief History of Advertising
 
- [Advertising Presentation](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/Brief_History_of_Advertising_2016_Morning_Session.pdf)
-
 ### What is [Advertising?] (https://en.wikipedia.org/wiki/Advertising)
 
 What are **your thoughts?**
+
+ [Advertising Presentation](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/Brief_History_of_Advertising_2016_Morning_Session.pdf)
 
 
 # D&AD New Blood Briefs
