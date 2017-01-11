@@ -90,6 +90,16 @@ Now that we have heard each brief, which will you choose? Consider:
 <li> Which briefs call for a digial response? Are there any breifs that rules this out? 
 <li> Which briefs speak to you? Which will encourage your creative thinking? 
 
+**Words of Wisdon**
+
+Wise words from previous judges on D&AD awards (Advertising industry professionals) looking at students work are:
+
+<ul><li> **The idea is King.** Spent time thinking about what to suggest for your brief. 
+<li>**Treat Tech with Caution.** This will be key for us as our responses will be digital. Let's make sure we have good reasons for using the web / mobile app / online platforms. Explain these clearly. 
+<li> **Tell A Story** Stories are a powerful tool in human communication. Tap into this wherever possible with your campaign. 
+
+We will touch on these points in more depth later in the course but using these early to help craft your concepts will be useful. 
+
 
 # Workshop: Breaking Down A Brief
 
@@ -143,22 +153,22 @@ Sign up to take part in the 2017 [D&AD New Blood Competition] (http://www.dandad
 
 Choose the **vD&AD Brief** that you will respond to for this unit from the list below:
 
-1. Adobe
-* Amazon
-* Arjowiggins
-* BBC 
-* Crowne Plazaa
-* Desperados
-* Hasbro
-* John Lewis
-* Monotype
-* MUBI
-* Nationwide
-* Pearson
-* Respect for Animals
-* Squarespace
-* The British Army
-* The National Autistic Society
+<ul><li>Adobe
+<li>Amazon
+<li>Arjowiggins
+<li>BBC 
+<li>Crowne Plazaa
+<li>Desperados
+<li>Hasbro
+<li>John Lewis
+<li>Monotype
+<li>MUBI
+<li>Nationwide
+<li>Pearson
+<li>Respect for Animals
+<li>Squarespace
+<li>The British Army
+<li>The National Autistic Society
 
 Or write your own brief and:
 
