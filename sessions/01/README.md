@@ -144,7 +144,7 @@ Why enter the D&AD awards?
 
 Key Dates:
 
-1 March 22nd 2017: D&AD Submission deadline (Note this is after summative and you will need to enter through Rave to have your entry paid by the course.)
+* March 22nd 2017: D&AD Submission deadline (Note this is after summative and you will need to enter through Rave to have your entry paid by the course.)
 * 6th July: Awards announced. 
 
 
