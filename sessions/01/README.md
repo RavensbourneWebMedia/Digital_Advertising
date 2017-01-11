@@ -132,6 +132,23 @@ What does D&AD stand for?
 - [ ] Design and Art Direction?
 - [ ] Directors and Assistant Directors? 
 
+The [D&AD New Blood Awards](http://www.dandad.org/en/d-ad-new-blood-awards/) are for new talent entering the advertising and creative industries. Each year 16 briefs are supplied by industry and students (as well as under 24's) are invited to respond. 
+
+Why enter the D&AD awards?
+
+* Industy recognised award in creative advertising. 
+* High standard of entries. 
+* Shows savey and ambition to enter. 
+* Great opportunity to show work on live industry brief. 
+* Good opportunity to make a project of a high standard for the degree show. 
+
+Key Dates:
+
+1 March 22nd 2017: D&AD Submission deadline (Note this is after summative and you will need to enter through Rave to have your entry paid by the course.)
+* 6th July: Awards announced. 
+
+
+
 
 
 # Workshop
