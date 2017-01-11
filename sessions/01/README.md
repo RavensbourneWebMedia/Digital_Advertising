@@ -21,7 +21,9 @@
 
 # A Brief History of Advertising
 
-### Looking before creating
+ ![alt text](Brief_History_of_Advertising_2016_Morning_Session.pdf)
+
+### What is [Advertising?] (https://en.wikipedia.org/wiki/Advertising)
 
 
 
