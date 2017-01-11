@@ -128,9 +128,9 @@ Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 
 What does D&AD stand for? 
 
-1. Digital and Analogue Design?
-* Design and Art Direction?
-* 
+- [ ] Digital and Analogue Design?
+- [ ] Design and Art Direction?
+- [ ] Directors and Assistant Directors? 
 
 
 
