@@ -19,7 +19,7 @@ In particular, you will:
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
 [Thursday<br>12.01](sessions/01)| <ul><li>Welcome <li>Whats the plan. Course intro. <li>Lecture: [**A Brief History of Advertising**](#eyebombing) <li> Intro: DA&D Briefs 2017<li>Workshop: [**Breaking Down The Brief**](http://www.dandad.org/en/d-ad-how-to-break-down-a-brief-new-blood-advice/) | <ul><li>Select or write the brief that you will respond to.<li>Create 20 ideas in reply to your chosen DA&D brief.<li>Choose your top 5, explain why they are "remarkable" and how they respond to the "heart" of your brief.  | Watch Seth Godin’s TED talk on [**How to get your ideas to spread.**] (https://www.ted.com/talks/seth_godin_on_sliced_bread) 
-[Thursday<br>19.01](sessions/02)| <ul><li>Lecture: Advertising Principles and Practices <li>Tutorials: DA&D concepts / Ideation <li>Project: [**Undecided**](#onetweet) | <ul><li>Undecided <li>Undecided | *Undecided*
+[Thursday<br>19.01](sessions/02)| <ul><li>Lecture: Advertising Principles and Practices <li>Tutorials: DA&D concepts / Ideation | <ul><li>*TBC* | *TBC*
 [Thursday<br>26.01](sessions/03)| <ul><li>Peer learning: *typography*  <li>Tutorials on *OneTweet* <li>Team project: [**The Union Hack**](#the-union-hack)  | <ul><li>Peer learning research: *symbols and brands* <li>Work on *The Union Hack* | Undecided.
 [Thursday<br>02.02](sessions/04) Sunday |  <ul> <li> Lecture: |<ul> <li> | Undecided. 
 [Thursday<br>09.02](sessions/05) Sunday 12.02| <ul><li>**Formative assessment**: In class.<li>Formative Assessment: Moodle submission. | <ul> <li> Gather and reflect on your formative feedback.<li> Make a plan showing how you will modify your project over the next 4 weeks. | Formative Assessment. 
