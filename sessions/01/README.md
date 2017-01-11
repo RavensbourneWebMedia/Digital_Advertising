@@ -122,7 +122,7 @@ Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 * What is the relationship between what you see and what you make? What you make and how you are seen?-->
 
 
-# Intro: D&AD New Bloog Briefs
+# Intro: D&AD New Blood Briefs
 
 ![alt text](assets/DAD_Award_New-Blood.jpg)
 
