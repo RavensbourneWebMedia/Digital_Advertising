@@ -151,7 +151,7 @@ Working on your own or in your chosen group of 2:
 
 Sign up to take part in the 2017 [D&AD New Blood Competition] (http://www.dandad.org/?next=/). Ravensbourne will pay for your entries if you want to make a submission at the end of the course :).
 
-Choose the **vD&AD Brief** that you will respond to for this unit from the list below:
+Choose the **D&AD Brief** that you will respond to for this unit from the list below:
 
 <ul><li>Adobe
 <li>Amazon
