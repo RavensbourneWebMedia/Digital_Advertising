@@ -103,85 +103,37 @@ It typically includes:
 * Your elevator pitch (answers to the questions above)
 * a visualisation of the idea (not necessarily your complete creative but something to contextualise your idea)
 
-Some examples by your fellow students from 2016:
+An example from a 2016 student:
 
-![](assets/one-pager-Ade-Kieran.jpg)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/George_webb.png)
 
-![](assets/one-pager-Ade-Rana-Jack.jpg)
-
-![](assets/one-pager-Harry-Johnny.jpg)
-
-![](assets/one-pager-Ollie-Aidan-Ryder-Johan.jpg)
-
-![](assets/one-pager-Rana-Luke-Sanj.jpg)
-
-<!--
-![](assets/one-pager-Ollie-Aidan-Ryder.pdf)
-![](assets/one-pager-Tom-Harry-Johnny.pdf)
--->
 
 ### Your turn
 
-1. Individually, sketch out a concept one-pager (15 minutes).
-* Discuss it  with your team mates (15 minutes).
-* For next week's session, put together the best bits of your sketches into a team's concept one-pager.
-* Share both your sketches and the team one-pager on Slack in the `#ux-design` channel. 
+1. Individually, or in your small groups, sketch out a concept one-pager (15 minutes).
+* Discuss it with your team mate or the person sitting next to you. How does your sketch illustrate your idea? (15 minutes).
+* Share both your sketches with me via email. 
 
 # Homework
 
-### Visual perception principles
+### Develop your Concept one-pager
 
-1. **Publish** your mini-lesson and any other relevant material from today. We recommend GitHub (we :green_heart: :octocat:) but you can publish elsewhere as long as it's accessible by anyone.
+1. Continue to **develop** your concept one pager or start again with a different sketch if you chnage direction. 
 
-2. Add the link to your mini-lesson (and any other relevant material) to the Google document I emailed you.
+2. Digitise your concept one pager, add detail and try to communicate your idea consisely.
 
-### Peer learning research
+3. Bring this ready for tutorials on your idea next week. 
 
-#### Typography
-
-On the Google document I emailed you (you can also find it on Slack), there's a new table with topics around **typography** for you to learn and teach next week.
-
-We'll do this again in *teams*, but not the same people you worked with this week.
-
-Your team **mini-lesson** should be **~15 minutes** and you may include:
-
-* **2-3 key ideas**
-* **Examples** and demonstrations
-* Personal **experiences**
-* Other relevant things you've read, heard or seen
-
-
-Prepare **1-2 open questions to ask the class**. After your mini-lesson, we will have a short group discussion around these questions.
-
-Topics:
-
-1. How do people **read**? 
-* **Typography vocabulary**: anatomy of a letter  
-* **Fonts**: serif, sans-serif etc, weights and styles (also check out the [type shape game](http://shape.method.ac/)) 
-* The personality of fonts: **expressive typography**
-* Horizontal and vertical **motion**: alignments, kerning, tracking and leading (also check out the [kerning game](http://type.method.ac/))
-* **Proportion**: typographic scales
-* [Web design 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period)
-* How to **choose the right font** (among other things, check out [WhatFont](http://chengyinliu.com/whatfont.html))
-
-For everyone: check out [Thinking with Type](http://www.thinkingwithtype.com/)! 
-
-### Project 
-
-Work on *OneTweet*.
 
 ### Blog 
 
-Write about *OneTweet*.
+Read [How to Make a Moodboard] (https://blog.filestage.io/make-brilliant-mood-board/) ! and reflect on the article.  
 
-Reflect on the concept and document your **creative process**.
+What you think creatives can acheive by presenting moodboards to clients? 
 
-You can post pictures of scribbled notes, or jot down notes digitally. It doesn't need to be fleshed out and well written. The main goal here is to record your flow of ideas, not to make it beautiful!
+Now create a moodboard to accompany your concept one pager. 
 
-<!-- Pair up with another team and **give each other feedback** on your peer learning mini-lessons. 
+How does your selection of images / video help contextualise your concept? 
 
-Use the feedback questions above to give / get feedback on your [mini-lessons' content](#mini-lesson-content) and [delivery](#delivery).
+How does it speak your audience and the brand that you are working with?
 
-Then write down a *summary* of the feedback you received and a *list of action points* in response to the question: 
-
-> What can be **improved**? -->
