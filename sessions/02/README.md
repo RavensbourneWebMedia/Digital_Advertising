@@ -129,6 +129,8 @@ An example from a 2016 student:
 
 ### Blog 
 
+[] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/moodboard.jpg) !
+
 Read [How to Make a Moodboard] (https://blog.filestage.io/make-brilliant-mood-board/) ! and reflect on the article.  
 
 What you think creatives can acheive by presenting moodboards to clients? 
