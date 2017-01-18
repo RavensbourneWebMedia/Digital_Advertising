@@ -1,6 +1,6 @@
 # Week 2
 
-### Today, Monday 10th October 2016
+### Today, Thursday 19th January 2017
 
 1. [Peer learning](#peer-learning) 
 * Tutorials on [EyeBombing](#team-project)   
