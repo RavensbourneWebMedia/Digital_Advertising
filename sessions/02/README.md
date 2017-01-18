@@ -26,7 +26,7 @@ If you want to have **good ideas** you must [have **many ideas**](https://medium
 
 **Most** of them will not be *good*. Even bad ideas can be useful to spark good ones. See the [McDonald's theory](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d).
 
-> We’ve broken the ice with the worst possible idea for where to go for lunch, and now that the discussion has started, people suddenly get very creative about places to eat. I call it the *McDonald’s Theory*: people are inspired to come up with good ideas to ward off bad ones.
+> We’ve broken the ice with the worst possible idea, and now that the discussion has started, people suddenly get very creative. I call it the *McDonald’s Theory*: people are inspired to come up with good ideas to ward off bad ones.
 
 This is why I've asked you to come up with at least 20 throw away ideas, and whittle them down to a half-decent 5 :)
 
