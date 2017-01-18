@@ -2,8 +2,9 @@
 
 ### Today, Thursday 19th January 2017
 
-1. [Peer learning](#peer-learning) 
-* Tutorials on [EyeBombing](#team-project)   
+1. [Project Overview](#one-tweet) 
+* [Lecture: Advertising Principles & Practicecs](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects)!
+* Show and Tell: Brief Selections & Top 3 concepts 
 * Project: [OneTweet](#project)
 
 ### Your [homework](#homework) and [blog](#blog)!
