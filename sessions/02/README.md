@@ -76,7 +76,7 @@ First we are going to define:
 * **Who** is it for?
 * **Why** is it needed or wanted? / What problem does it solve?
 
-Your pitches don't have to be statements, the could start with questions or scenarios like, 
+Your pitches don't have to be statements, they could start with questions or scenarios like, 
 
 * Don't you hate it when...
 * You are traveling to a new city...
