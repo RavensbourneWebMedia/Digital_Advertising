@@ -6,12 +6,33 @@
 * [Why 20 concepts: McDonald's theory.](#why-20-concepts-mcdonalds-theory) 
 * Show and Tell: Top 3 brief concepts.  
 * Creative Concepts: Some pointers from Industry.
-* 
+* [Elevator pitch](#elevator-pitch)
+* [Concept one-pager](#concept-one-pager)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
 
 # Lecture Advertising Practices and Principles
+
+This weeks lecture will focus on [Advertising Practices and Principles.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/Week%202%20Advertising%20Principles%20%20Practices.pdf)!
+
+Lets take a break. 
+
+# Why 20 Concepts?
+
+### How do we generate quality ideas?
+
+If you want to have **good ideas** you must [have **many ideas**](https://medium.com/founder-stories/9bd554bedce0).
+
+**Most** of them will not be *good*. Even bad ideas can be useful to spark good ones. See the [McDonald's theory](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d).
+
+> We’ve broken the ice with the worst possible idea for where to go for lunch, and now that the discussion has started, people suddenly get very creative about places to eat. I call it the *McDonald’s Theory*: people are inspired to come up with good ideas to ward off bad ones.
+
+This is why I've asked you to come up with at least 20 throw away ideas, and whittle them down to a half-decent 5 :)
+
+Here are some of my own throw away ideas for interactive events concepts. 
+
+![Interactive events concepts](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/Ideation.JPG "Logo Title Text 1")
 
 
 # Peer learning
