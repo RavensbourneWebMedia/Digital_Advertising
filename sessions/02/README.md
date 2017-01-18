@@ -124,6 +124,8 @@ An example from a 2016 student:
 
 3. Bring this ready for tutorials on your idea next week. 
 
+4. You are free to bring more than one version if you wish but you will be capped at 3. 
+
 
 ### Blog 
 
