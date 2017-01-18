@@ -1,23 +1,8 @@
-<!--
-# Matteo's TODO
 
-NEXT TIME: Play with ideas rather than principles
-What are the **key ideas** that you can distill in your poster? Eg: for @snowden you could use: jail, eagle, typewriter (classified documents), danger.. 
 
-Cultural references: blue screen of death
+# DigitalAdvertisingCampaign
 
-- [ ] I heart NY
-- Rodchenko
-- Do some variations in black and white only?
-- http://fffff.at/friendflop > scrambles tweets and their authors  
-  
-Be fundamentalist about the brief: disqualify posters that use images (iconoclasm)
-
--->
-
-# OneTweet
-
-This project is about about **typography** and creating *meaning with text*.
+This is an individual or 2 member team project where you will create a digial **advertising campaign** in response to an idustry brief.
 
 1. Choose a `tweet` (short text of up to 140 characters) from the [list below](#tweets).
 * Use your chosen tweet to create a **poster**. Your poster must follow these rules:
