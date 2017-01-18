@@ -112,7 +112,7 @@ An example from a 2016 student:
 
 1. Individually, or in your small groups, sketch out a concept one-pager (15 minutes).
 * Discuss it with your team mate or the person sitting next to you. How does your sketch illustrate your idea? (15 minutes).
-* Share both your sketches with me via email. 
+* Share your sketches with me via email. 
 
 # Homework
 
