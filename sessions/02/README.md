@@ -2,12 +2,16 @@
 
 ### Today, Thursday 19th January 2017
 
-1. [Project Overview](#one-tweet) 
-* [Lecture: Advertising Principles & Practicecs](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects)!
-* Show and Tell: Brief Selections & Top 3 concepts 
-* Project: [OneTweet](#project)
+1. [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) 
+* [Why 20 concepts: McDonald's theory.](#why-20-concepts-mcdonalds-theory) 
+* Show and Tell: Top 3 brief concepts.  
+* Creative Concepts: Some pointers from Industry.
+* 
 
 ### Your [homework](#homework) and [blog](#blog)!
+
+
+# Lecture Advertising Practices and Principles
 
 
 # Peer learning
