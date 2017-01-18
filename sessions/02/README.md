@@ -32,170 +32,100 @@ This is why I've asked you to come up with at least 20 throw away ideas, and whi
 
 Here are some of my own throw away ideas for interactive events concepts. 
 
-![Interactive events concepts](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/Ideation.JPG "Logo Title Text 1")
+![Interactive events concepts 1](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/Ideation.JPG "Logo Title Text 1")
 
+![Interactive events concepts 2](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/ideation_2.JPG "Logo Title Text 1")
 
-# Peer learning
+### Your turn: Show and Tell: Top 3 brief concepts
 
-### What is peer learning?
+Individually or with your team mate, come to the front of the class and explain your top 3 concepts / responses to your brief. 
 
-Learning from *each other, together*. It's a form of **cooperative** learning. 
+Also show us your sketches/scribbled concepts for your 20 ideas. Tell us how your top 3 are the most remarkable of your 20. 
 
-In peer learning, everybody plays both the **teacher** and the **learner**.
+You will have 6 minutes per team / individual. 
 
-<!-- > Docendo discimus [By teaching, we learn] -->
+Reflection: 
 
-<!-- teaching forces you to dig deep and truly learn -->
+What was the most challenging thing about describing your ideas? 
 
-By teaching to your peers, you reinforce your own learning. [It works](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects)!
+What was the most challenging part of coming up with your concepts? 
 
-Also, you get to practice and build confidence in your **communication skills**.
+#Creative Concepts: Some pointers from Industry.
 
-### This is not a formal presentation
+Some words of wisdom from creative advertising professionals:
 
-You're not being tested. 
+* Always refer back to the brief to avoid creative misjudgement and make sure you answer it. Have your concepts answered the **heart** of your brief that we discovered last session?
+* Don't go with the obvious idea. Other people will go the same way.
+* Insight or rich understanding of the target audience should be a core factor in your work. Will your idea appeal to them? through which channels?
+* Know what has been done before by the brand and its competitors.
+* Test your idea on people to see if they would actually do it / react to it. 
+* Focus on distilling the idea and explaining it succinctly. Then elaborate.
+* Brevity and clarity are key. What's the core concept in a sentence?
 
-You're not here to please me. 
+We are going to focus on the last 2 pieces of this advice and work on clear communication of our concepts. 
 
-You're here to teach to your peers and learn from them. 
+# Elevator pitch
 
-#### We're here to become *co-learners*.
+### What are the next steps?
 
-At the end of your mini-lessons we'll give each other **feedback**. *Honest* feedback can hurt but it's through that (and practice) that we improve.
+You would think it's time to elaborate on your ideas and turn them into visuals. Not quite!
+
+First we are going to define:
+
+1. **What** is your idea?
+* **Who** is it for?
+* **Why** is it needed or wanted? / What problem does it solve?
+
+Your pitches don't have to be statements, the could start with questions or scenarios like, 
+
+* Don't you hate it when...
+* You are traveling to a new city...
+* When walking down a road...
+
+Be imaginative. 
+
+### Your turn
+
+Develop your answers to the 3 questions above into an *[elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)*: a short and sharp communication that shouldn't take more than 30 seconds to tell!
+
+Write your elevator pitch(es) the GDocs that I have shared with the class under your name. 
+
+Now that we have condensed your ideas so they are crystal clear, we are going to get visual. 
+
+# Concept one-pager
+
+A one page document summarising your idea visually, so that you can talk about it to *anyone*. 
+
+It typically includes:
+
+* a catchy title
+* a strapline
+* Your elevator pitch (answers to the questions above)
+* a visualisation of the idea (not necessarily your complete creative but something to contextualise your idea)
+
+Some examples by your fellow students from 2016:
+
+![](assets/one-pager-Ade-Kieran.jpg)
+
+![](assets/one-pager-Ade-Rana-Jack.jpg)
+
+![](assets/one-pager-Harry-Johnny.jpg)
+
+![](assets/one-pager-Ollie-Aidan-Ryder-Johan.jpg)
+
+![](assets/one-pager-Rana-Luke-Sanj.jpg)
 
 <!--
-**Intellectual scaffolding** should be provided by the teacher. Simply placing students in groups and telling them to *work together* is not going to automatically yield results. The teacher must consciously *orchestrate* the learning exercise and choose the *appropriate vehicle* for it. For instance:
-
-* picking subjects for teams, raising questions/issues that prompt students towards more sophisticated levels of thinking
-*  structuring the tasks that learners are going to perform, both independently and in class
-* watching for and correcting mistakes 
-* providing positive feedback and encouragement
-
-**Affinity Groups**: groups of 4–5 students are each assigned particular tasks to work on outside of formal contact time. At the next formal meeting with the teacher, the sub-group, or a group representative, presents the sub-group’s findings to the whole tutorial group.
-
-**Positive interdependence** emphasises the importance and uniqueness of each group member’s efforts while important cognitive activities and interpersonal dynamics are quietly at work. As students communicate with one another, they inevitably assume leadership roles, acquire conflict-managing skills, discuss and clarify concepts, and unravel the complexities of human relationships within a given context; this process enhances their learning outcomes.
-
-Beware of *freeloaders*.
+![](assets/one-pager-Ollie-Aidan-Ryder.pdf)
+![](assets/one-pager-Tom-Harry-Johnny.pdf)
 -->
 
-### Let the peer learning begin
+### Your turn
 
-#### 4 teams
-
-~3 people per team 
-
-#### 15 minutes per team
-
-* ~10 for mini-lesson 
-* ~5 for questions and debate
-
-#### Mini-lessons topics
-
-1. Closure
-* Symmetry
-* Figure/ground relationship
-* Connectedness 
-* Proximity
-* Continuation
-* Similarity
-* Past experience 
-
-### Let's give each other *honest* **feedback**
-
-#### Mini-lesson **content**   
-	
-1. How did you **plan** your mini-lesson?
-* What were the **key points** you wanted to get across?
-* How did you decide to communicate them?
-* What **assumptions** have you made about what we already know?
-* How **interactive** was your mini-lesson? How was the audience meant to *participate*? 
-* What **questions** have you planned to ask your audience? How *open* were those questions? What type of questions (*Right-there*, *Between-the-lines* or *Opinion-needed* questions)?
-	
-#### **Delivery**
-	
-1. What role did **visuals** (eg: slides) play in your mini-lesson?
-* What role did each **team member** play in delivering the mini-lesson? 
-* How did you **practice** your mini-lesson?
-* How did your mini-lesson start? How did you *hook* your audience?
-* What was your **body language** like? Consider facial expressions, movements of the arms, eye contact with the audience, and posture.
-* What was your **voice** like? Consider speed of delivery, pausing, volume and pitch
-	
-#### What can be **improved**?
-
-### A few tips and tricks
-
-#### **FACT** 
-
-Generally, people remember **2-3 ideas** from a talk. Which ones you want them to remember? 
-
-#### **PLANNING** 
-
-Don't try to explain everything. Pick out 2-3 **key ideas** from your topic and explain them in the simplest way you can. 
-
-#### **INTRO** 
-
-Explain the *background* of your talk and give a quick *summary* of what you're going to talk about. People will pay more attention if they have a sense of what's coming next
-
-#### **SLIDES** are not a necessity. 
-
-Ask yourself: is a slideshow the most effective way to communicate this? **How else** could I get this point across?
-	
-For instance, asking your audience a few *open* questions, getting them to play a game, break them out into small groups to discuss a scenario..
-
-#### **SLIDES AGAIN**	 
-
-If you *must* use slides, then:
-	
-* One **point** per slide.
-	
-* Don't cram long texts in your slides. Keep them down to a few *keywords* and one image or two..
-
-#### **DELIVERY** 
-
-Don't read out slides. 
-
-It's distracting both for you and for your audience.
-
-#### **TOP TIP** 
-
-Use **examples** and **stories** from your experience. They will make your points more **relatable**: more interesting to listen to and easier to learn.
-
-
-# Team project
-
-### EyeBombing tutorials
-
-This **team project** is about *looking* and *creating images*. Looking at everyday objects and our surroundings with different eyes and using **photography** to frame them, so that others can see what we want them to see.
-
-All the project material is [here](../../projects/eye-bombing).
-
-### 4 teams
-
-### 10 minutes per team
-
-
-1. Let's see your **images** and **edits**.  
-	* What have you made?
-	* How can you improve them? Quality vs quantity, **visual perception** principles you could apply...
-* What has your **creative process** been so far?
-	
-	<!-- -->
-* What's your team **GitHub repository**? 
-
-	You may want to [create an *organisation*](https://github.com/organizations/new) (a GitHub group) for that. 
-
-
-<!--# Typography 
-
-Quiz: what's wrong with these pictures? eg kerning, line-height, too many fonts, wrong messages..-->
-
-# Project
-
-### OneTweet
-
-This project is about **typography** and creating *meaning with text*.
-
-All the project material is [here](../../projects/one-tweet).
+1. Individually, sketch out a concept one-pager (15 minutes).
+* Discuss it  with your team mates (15 minutes).
+* For next week's session, put together the best bits of your sketches into a team's concept one-pager.
+* Share both your sketches and the team one-pager on Slack in the `#ux-design` channel. 
 
 # Homework
 
