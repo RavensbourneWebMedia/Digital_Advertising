@@ -35,6 +35,8 @@ Let's take a break!
 
 # Advertising Agency Structure
 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/870da9848fc31d087826c9a719305977.jpg)
+
 Our second mini lecture will outline the main departments, job roles and key responsibilities undertaken within most advertising agencies. 
 
 [The Advertising Agency](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/The%20Advertising-Agency.pdf)
