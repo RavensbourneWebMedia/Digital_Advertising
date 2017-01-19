@@ -7,7 +7,7 @@
 * Show and Tell: Top 3 brief concepts.  
 * Creative Concepts: Some pointers from Industry.
 * [Elevator pitch](#elevator-pitch)
-* [Concept one-pager](#concept-one-pager)
+* [Pitch Document / one-pager]
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -92,7 +92,7 @@ Write your elevator pitch(es) the GDocs that I have shared with the class under 
 
 Now that we have condensed your ideas so they are crystal clear, we are going to get visual. 
 
-# Concept one-pager
+# Pitch Document / one-pager
 
 A one page document summarising your idea visually, so that you can talk about it to *anyone*. 
 
@@ -110,21 +110,23 @@ An example from a 2016 student:
 
 ### Your turn
 
-1. Individually, or in your small groups, sketch out a concept one-pager (15 minutes).
+1. Individually, or in your small groups, sketch out a one-page pitch document (15 minutes).
 * Discuss it with your team mate or the person sitting next to you. How does your sketch illustrate your idea? (15 minutes).
 * Share your sketches with me via email. 
 
 # Homework
 
-### Develop your Concept one-pager
+### Develop your Pitch Document / one-pager
 
-1. Continue to **develop** your concept one pager or start again with a different sketch if you chnage direction. 
+1. Continue to **develop** your pitch document or start again with a different sketch if you chnage direction. 
 
-2. Digitise your concept one pager, add detail and try to communicate your idea consisely.
+2. Research your target audience and ensure your pitch document is tailored to them. 
 
-3. Bring this ready for tutorials on your idea next week. 
+3. Digitise your concept one pager, add detail and try to communicate your idea consisely.
 
-4. You are free to bring more than one version if you wish but you will be capped at 3. 
+4. Bring this ready for tutorials on your idea next week. 
+
+5. You are free to bring more than one version if you wish but you will be capped at 3. 
 
 
 ### Blog 
