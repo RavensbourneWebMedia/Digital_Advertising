@@ -24,7 +24,7 @@ Examples of stands 2015/2016. **Add presentation here.**
 
 # The Creative Process
 
-![](https://dribbble.com/shots/1826840--lunchtimedrawings-The-Creative-Process)
+[![](assets/the-creative-process.jpg)](https://dribbble.com/shots/1826840--lunchtimedrawings-The-Creative-Process)
 
 This weeks lecture will take us through the typical creative process followed in advertising agencies. 
 
