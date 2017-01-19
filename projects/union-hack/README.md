@@ -34,7 +34,7 @@ Students will use the moodle links to submit:
 * Technical specifications of the **web solution** and how it integrates with the whole campaign: How have you integrated the web/web technologies into your campaign. What is this functionality. 
 * Campaign plan: What media/experience will go out in which channel? How does your apprach to multiple channels make sense as a whole campaign. 
 
-##2. A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will include:
+###2. A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will include:
 
 * Concise documentation outlining the research stages and physical/online reading and campaign references that have contributed to the project.
 
