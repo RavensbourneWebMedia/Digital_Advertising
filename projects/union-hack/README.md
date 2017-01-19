@@ -21,6 +21,14 @@ First you will *mash up* existing flags, and then *make your own* flag.
 	
 	Produce minimum **4 variations** of your flag mash-up.
 
+
+
+##**FOR SUMMATIVE PRESENTATION: THURSDAY 16TH MARCH IN LECTURE HOURS**
+
+Students/teams will give their final pitch in a presentation form.
+
+Those not presenting will note feedback for their peers. 
+
 ##**FOR SUMMATIVE HAND IN: SUNDAY 19TH MARCH 2017 BEFORE 23:50PM**
 
 Students will use the moodle links to submit: 
@@ -38,19 +46,21 @@ Students will use the moodle links to submit:
 
 * Concise documentation outlining the research stages and physical/online reading and campaign references that have contributed to the project.
 
-###3. Your Pitch Presentation (Supplied as **both** PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT). 
+###3. A Pitch Presentation (Supplied as **both** PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT). 
 
 > This may be modified after summative presentation to reflect any feedback received in the session. 
 
 > Please remember to supply versions of your presentations that are easily opened for unit assessment. It is your responsibility to make sure that markers can see your work. 
 
+###4. A Blog Log (1 x A4 PDF Only) containing links to the blog posts that you have published each week for the course. 
 
-###3. Inspirations
+This blog log will contain posts on:
 
-* Mark Napier's [**net.flag**](http://marknapier.com/netflag) is a participatory piece of art, in which visitors  mash up national flags to create a *flag for the Internet*. 
-
- 	> Every nation on earth has a flag that identifies the territory of that nation, and the flag is a symbol of conquest of new territory. 
- 	
- 	> An online software interface makes the visual language of international flags available to anyone with Web access. The visitor to *net.flag* not only views the flag but can change it to reflect their own nationalist, political, apolitical or territorial agenda.
-
-	[![](assets/net-flag.gif)](http://marknapier.com/netflag)
+* Week 1: Seth Godin's How to Get Your Ideas to Spread.
+* Week 2: Moodboards. 
+* Week 3: TBC
+* Week 4: TBC
+* Week 5: TBC
+* Week 6: TBC
+* Week 7: TBC
+* Week 8: TBC
