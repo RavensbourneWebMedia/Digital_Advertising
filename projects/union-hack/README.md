@@ -12,7 +12,7 @@ During the course you will choose an industry brief and produce a creative campa
 
 **Optimised:** You will use methods to find out (and measure) the most effective methods of communication with a targeted audience, users or customers.
 
-**Integrated:** research and choose the best (online, offline, traditional or new) methods to reach the audience you are targeting. 
+**Integrated:** You will research and choose the best (online, offline, traditional or new) methods to reach the audience you are targeting. 
 
 ##Choosing a brief
 
