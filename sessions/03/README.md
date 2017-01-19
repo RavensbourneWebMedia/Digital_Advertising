@@ -1,12 +1,24 @@
 # Week 3
 
-### Today, Monday 17th October 2016
+### Today, Thursday 26th January 2017
 
-1. [Peer learning](#peer-learning) on **typography** 
+1. Mini Presenation: [The Degree Show](#the-degree-show)
 * Tutorials on [OneTweet](#project)   
 * Team project: [The Union Hack](#team-project)
 
 ### Your [homework](#homework) and [blog](#blog)!
+
+# The Degree Show
+
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Degree_Show_1_Small.png)
+
+The Ravensbourne Degree Show 2017 will be between XX XX June. The Web Media private view will be on XXX. 
+
+In previous years the web media room has looked a little inconsistant whereas the degree show standard is very high. 
+
+There is Ravensbourne budget to help put up your stands and set up the room so I would like to propose that we work together to design the room for this year. 
+
+Examples of stands 2015/2016. **Add presentation here.** 
 
 
 # Peer learning
