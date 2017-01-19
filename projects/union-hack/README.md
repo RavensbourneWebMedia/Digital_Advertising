@@ -16,7 +16,9 @@ During the course you will choose an industry brief and produce a creative campa
 
 ##Choosing a brief
 
-For this project it is recommended that you respond to one of the 16 D&AD New Blood Briefs but you are also welcome to respond to a brief that you have from an industry contact or write one yourself. If you would like to respond to a bespoke industry brief or write your own please work with your tutor to finalise your brief before the third session of the course. If not discussed in this time frame, please select one of the D&AD briefs below. 
+For this project it is recommended that you respond to one of the 16 D&AD New Blood Briefs but you are also welcome to respond to a brief that you have from an industry contact or write one yourself. 
+
+If writing your own or using a bespoke brief, please finalise first with your tutor. 
 
 ##D&AD New Blood Briefs 
 
