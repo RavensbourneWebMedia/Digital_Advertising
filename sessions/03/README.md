@@ -5,6 +5,7 @@
 1. Mini Presenation: [The Degree Show](#the-degree-show)
 * Mini Lecture: [The Creative Process](#the-creative-process)   
 * Mini Lecture: [Advertising Agency Structure](#advertising-agency-structure)
+* Tutorials: Pitch Document/One Pager and Moodboard. 
 
 ### Your [homework](#homework) and [blog](#blog)!
 
