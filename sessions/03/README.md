@@ -35,100 +35,25 @@ Let's take a break!
 
 # Advertising Agency Structure
 
+Our second mini lecture will outline the main departments, job roles and key responsibilities undertaken within most advertising agencies. 
 
+[The Advertising Agency](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/The%20Advertising-Agency.pdf)
 
-<!-- 
+Are any of these roles positions that you would consider for the future? 
 
-Talk about transferable life skills?
+### Tutorials: Elevator Pitches, Pitch Documents and Moodboards. 
 
-Have a quick convo about feedback from last week (they should have blogged about this)
+For the rest of the session I will do one on one tutorials for everyone working on a separate brief. 
 
--->
+Please have the following ready for your tutorial:
 
-<!--### Let the peer learning begin-->
+* Your chosen Brief (locked down now)
+* Your top 3 concepts from last week. 
+* Your elevator pitches.
+* Your Pitch Documents/One Pagers. 
+* Your Moodboards. 
 
-#### 4 teams
-
-~3 people per team 
-
-#### 15 minutes per team
-
-* ~10 for mini-lesson 
-* ~5 for questions and debate
-
-#### Mini-lessons topics
-
-1. How do people read? 
-* Typography vocabulary: anatomy of a letter
-* Fonts: serif, sans-serif etc, weights and styles 
-* The personality of fonts: expressive typography
-* Horizontal and vertical motion: alignments, kerning, tracking and leading 
-* Proportion: typographic scales
-* [Web design is 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period) 
-* How to choose the right font
-
-
-# Project
-
-### OneTweet tutorials
-
-This project is about about **typography** and creating *meaning with text*.
-
-All the project material is [here](../../projects/one-tweet).
-
-This is *not a team project* but we'll see people in groups of 2-3, possibly grouping people who are working on the same tweet.
-
-### 4 groups
-
-### 15 minutes per group 
-
-That is, ~5 minutes per person.
-
-1. Let's see your **posters**.
-* Which tweet did you choose and why?
-* What variations did you produce? 
-* Which visual perception principles have you explored (either alone or in combos)?
-* What fonts and colours did you pick?
-* What ideas could you *steal* (ehm, `fork`) from your peers?
-
-
-# Team project
-
-![](../../projects/union-hack/assets/net-flag.gif)
-
-### The Union Hack 
-
-This **team project** is about about **symbols** and **brands**. By designing flags, you will devise symbols to represent identities and convert ideas into shapes. 
-
-All the project material is [here](../../projects/union-hack).
-
-Today:
-
-1. Form teams.
-* Set up a GitHub repository for your team project.
-
-Between today and next week:
-
-1. Mash up existing flags.
-* Jot down ideas for places (real or imaginary) and the flag(s) you could design for them. 
-* Record your creative process in your blogs.
-
-Next week:
-
-Formative Assessment
-
-The Week After:
-
-1. We'll review your work in class
-	
-	* What have you made?
-	* How can you improve it?
-* Continue mashing up existing flags and designing new flags.	
-
-Formative presentation (28.10):
-
-1. Present your work as a team, both process and results.
-* Reflect on what you learned from it.* 
+If would like some more time to work on these docs, let me know any you can have your tutorial in one of the later slots. 
  
 
 # Homework
