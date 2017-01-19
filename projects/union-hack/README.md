@@ -20,7 +20,7 @@ For this project it is recommended that you respond to one of the 16 D&AD New Bl
 
 ##D&AD New Blood Briefs 
 
-![alt text](DAD-New-Blood.jpg) 
+![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/assets/DAD_Award_New-Blood.jpg) 
 
 This year there are 16 briefs put forward by the following industy leaders:
 
