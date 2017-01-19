@@ -3,8 +3,8 @@
 ### Today, Thursday 26th January 2017
 
 1. Mini Presenation: [The Degree Show](#the-degree-show)
-* Tutorials on [OneTweet](#project)   
-* Team project: [The Union Hack](#team-project)
+* Mini Lecture: [The Creative Process](#the-creative-process)   
+* Mini Lecture: [Advertising Agency Structure](#advertising-agency-structure)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
