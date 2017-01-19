@@ -1,6 +1,6 @@
-# The Union Hack
+# Digital Advertising Campaign
 
-This **team project** is about *symbols* and *brands*.
+This is a **individual** or **team project for two** about creating a *digital advertising campaign*.
 
 Flags are powerful visual symbols, brands before *branding* was even a discipline. By designing flags, you will devise symbols to represent *identities* and convert ideas into shapes. 
 
@@ -20,29 +20,29 @@ First you will *mash up* existing flags, and then *make your own* flag.
 	* Any of the above in combination 
 	
 	Produce minimum **4 variations** of your flag mash-up.
-* **MAKE YOUR OWN FLAG**
+* **FOR SUMMATIVE HAND IN: SUNDAY 19TH MARCH 2017 BEFORE 23:50PM**
 
-	Pick a place, real or imaginary, and design one or more flags for it, following these criteria (the *five basic principles of flag design* by [Ted Kaye](http://portlandflag.org/good-flag-bad-flag/), cited in the TED talk above):	
-	
-	* **Keep it simple**. The flag should be so simple that a child can draw it from memory.
-	
-	* **Use meaningful symbolism**. The flag’s images, colours, or patterns should relate to what it symbolises.
-	
-	* **Use 2 or 3 basic colours**. Limit the number of colours on the flag to three which contrast well and come from the standard colour set.
-	
-	* **No lettering or seals**. Never use writing on any kind or an organisation’s seal.
-	
-	* **Be distinctive or be related**. Avoid duplicating other flags, but use similarities to show connections.
-* Create a *GitHub repository* for your team project and **submit** all your work there. 
+Students will use the moodle links to submit: 
 
-<!--
+1. A Campaign Proposal (4 x A4 PDF Max) that will include:
 
-* Colour palette + explain choices
-* Show them [Santa's rebranding](http://www.quietroom.co.uk/santa_brandbook/)
-* Interesting post: [Countries with similar flags](https://www.quora.com/What-countries-have-very-similar-looking-flags)  
-* Recommend Illustrator
+* The finished client-brief: A condensed online of the problem that you are being asked to solve. No full D&AD briefs please ;)
+* Your Campaign Proposal: What is the **creative idea**. 
+* Concept visuals: How will you communicate this with **images/typography**. 
+* Outline of solutions: How is this designed to address your **target market**.
+* Technical specifications of the **web solution** and how it integrates with the whole campaign: How have you integrated the web/web technologies into your campaign. What is this functionality. 
+* Campaign plan: What media/experience will go out in which channel? How does your apprach to multiple channels make sense as a whole campaign. 
 
--->	
+2. A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will include:
+
+* Concise documentation outlining the research stages and physical/online reading and campaign references that have contributed to the project.
+
+3. Your Pitch Presentation (Supplied as **both** PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT). 
+
+> This may be modified after summative presentation to reflect any feedback received in the session. 
+
+> Please remember to supply versions of your presentations that are easily opened for unit assessment. It is your responsibility to make sure that markers can see your work. 
+
 
 ### Inspirations
 
@@ -53,15 +53,3 @@ First you will *mash up* existing flags, and then *make your own* flag.
  	> An online software interface makes the visual language of international flags available to anyone with Web access. The visitor to *net.flag* not only views the flag but can change it to reflect their own nationalist, political, apolitical or territorial agenda.
 
 	[![](assets/net-flag.gif)](http://marknapier.com/netflag)
-
-* [What’s in a flag?](http://www.theguardian.com/commentisfree/2015/aug/11/flag-new-zealand-designs) **New Zealand** is drawing up a shortlist from an open competition to design a new national flag. 
-
-	[![](assets/nz-flags.jpg)](http://www.theguardian.com/commentisfree/2015/aug/11/flag-new-zealand-designs)
-
-* [**Citizen Ex**](http://shorttermmemoryloss.com/portfolio/project/citizen-ex/) is an extension for Web browsers which makes visible the physical infrastructure that underlies the internet, mapping the location of web sites, and visualising the user's *algorithmic citizenship*.
-
-	[![](assets/citizen-x.jpg)](http://shorttermmemoryloss.com/portfolio/project/citizen-ex/)
-		
-* [Draw flags with code](http://art.kano.me/challenge/1), by Kano.
-
-	![](assets/kano-flags.png)	
