@@ -15,7 +15,7 @@ During the course you will choose an industry brief and produce a creative campa
 **Integrated:** research and choose the best (online, offline, traditional or new) methods to reach the audience you are targeting. 
 
 
-##**FOR FORMATIVE PRESENTATION: Thursday 9TH FEB 2017 IN LECTURE HOURS**
+##**For Formative Presentation: Thursday 9th Feb 2017 in Lecture hours**
 
 Students/teams will outline their chosen brief, their target audience insights and pitch their idea in presentation form.
 
@@ -28,20 +28,20 @@ This should incude:
 
 Students will then have some time to modify their projects to reflect any feedback before the formative online submission. 
 
-##**FOR FORMATIVE HAND IN: SUNDAY 12TH FEB 2017 BEFORE 23:50PM**
+##**For Formative Hand In: Sunday 12th Feb 2017 before 23:50PM**
 
 * A finished client-brief (A4 PDF/DOC)
 * Initial concept boards and mood-boards that outline the market (A3 PDF/PowerPoint)
 * Outline campaign plan (A3 PDF/PowerPoint)
 * Presentation (A4 PDF/PowerPoint)
 
-##**FOR SUMMATIVE PRESENTATION: THURSDAY 16TH MARCH 2017 IN LECTURE HOURS**
+##**For Summative Presentation: Thursday 16th March 2017 in Lecture hours**
 
 Students/teams will give their final pitch in a presentation form.
 
 Those not presenting will note feedback for their peers. 
 
-##**FOR SUMMATIVE HAND IN: SUNDAY 19TH MARCH 2017 BEFORE 23:50PM**
+##**For Summative Hand in: Sunday 19th March 2017 before 23:50PM**
 
 Students will use the moodle links to submit: 
 
