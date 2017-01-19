@@ -24,7 +24,7 @@ First you will *mash up* existing flags, and then *make your own* flag.
 
 Students will use the moodle links to submit: 
 
-1. A Campaign Proposal (4 x A4 PDF Max) that will include:
+##1. A Campaign Proposal (4 x A4 PDF Max) that will include:
 
 * The finished client-brief: A condensed online of the problem that you are being asked to solve. No full D&AD briefs please ;)
 * Your Campaign Proposal: What is the **creative idea**. 
@@ -33,11 +33,11 @@ Students will use the moodle links to submit:
 * Technical specifications of the **web solution** and how it integrates with the whole campaign: How have you integrated the web/web technologies into your campaign. What is this functionality. 
 * Campaign plan: What media/experience will go out in which channel? How does your apprach to multiple channels make sense as a whole campaign. 
 
-2. A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will include:
+##* A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will include:
 
 * Concise documentation outlining the research stages and physical/online reading and campaign references that have contributed to the project.
 
-3. Your Pitch Presentation (Supplied as **both** PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT). 
+##* Your Pitch Presentation (Supplied as **both** PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT). 
 
 > This may be modified after summative presentation to reflect any feedback received in the session. 
 
