@@ -45,15 +45,15 @@ This year there are 16 briefs put forward by the following industy leaders:
 
 You will need to sign up for the [D&AD New Blood Competition] (http://www.dandad.org/?next=/) to enter and view the briefs from home before you make a submission at the end of term. 
 
-Ravensbourne will be able to cover the cost of your entry if you choose to submit and entry. 
+Ravensbourne will be able to cover the cost of your entry if you choose to submit an entry. 
 
-**Note**, some may be more relevant than others as we will be working toward making a **digital campaign or product** as a response. 
+**Note**, some briefs may be more relevant than others as we will be working toward making a **digital campaign or product** as a response. 
 
 ##The Process
 
 * Decide on a brief. Research the target market. 
 * Breaking down your work into the following sections; Art-direction, concepting and copywriting, produce several solutions for brief. 
-* Develop the best solutions that address the brief and the demographic so that you have the following outlines for assessments.
+* Develop the best solutions that address the brief and the demographic so that you have the following documents for assessments.
 
 ##**For Formative Presentation: Thursday 9th Feb 2017 in Lecture hours**
 
@@ -70,10 +70,10 @@ Students will then have some time to modify their projects to reflect any feedba
 
 ##**For Formative Hand In: Sunday 12th Feb 2017 before 23:50PM**
 
-* A finished client-brief (A4 PDF/DOC)
-* Initial concept boards and mood-boards that outline the market (A3 PDF/PowerPoint)
-* Outline campaign plan (A3 PDF/PowerPoint)
-* Presentation (A4 PDF/PowerPoint)
+* A finished client-brief (A single A4 PDF)
+* Initial concept boards and mood-boards that outline the market (Max 3 xA4 PDF)
+* Outline campaign plan (A4 PDF/keynote/PowerPoint)
+* Presentation (A4 PDF/Keynote/PowerPoint)
 
 ##**For Summative Presentation: Thursday 16th March 2017 in Lecture hours**
 
