@@ -5,7 +5,7 @@
 1. Mini Presenation: [The Degree Show](#the-degree-show)
 * Mini Lecture: [The Creative Process](#the-creative-process)   
 * Mini Lecture: [Advertising Agency Structure](#advertising-agency-structure)
-* Tutorials: Pitch Document/One Pager and Moodboard. 
+* Tutorials: Elevator Pitches, Pitch Documents and Moodboards. 
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -22,7 +22,20 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 Examples of stands 2015/2016. **Add presentation here.** 
 
 
-# Peer learning
+# The Creative Process
+
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/The%20Creative%20Process.jpg)
+
+This weeks lecture will take us through the typical creative process followed in advertising agencies. 
+
+[Advertising Agencies: The Creative Process] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Digital%20Advertising%202016%20Lecture%203%20Creative%20Process.pdf)
+
+
+Let's take a break!
+
+# Advertising Agency Structure
+
+
 
 <!-- 
 
