@@ -1,4 +1,4 @@
-# Digital Advertising Campaign
+# Union Hack
 
 This is a **individual** or **team project for two** about creating a *digital advertising campaign*.
 
