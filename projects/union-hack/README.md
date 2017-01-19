@@ -1,16 +1,18 @@
 # Digital Advertising Campaign
 
+[](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Think_Small.jpg) !
+
 This is a **individual** or **team project for two** about creating a *digital advertising campaign*.
 
 During the course you will choose an industry brief and produce a creative campaign that is...
 
-**Targeted:** to a specific audience. Your project cannot be for everyone or a general audience. 
+**Targeted:** Your campaign will target a specific audience. Your project cannot be for everyone or a general audience. 
 
-**Editorialised:** you will determine and develop the most appropriate ideas to the market/product/client. 
+**Editorialised:** You will determine and develop the most appropriate ideas to the market/product/client. 
 
-**Optimised:** you will use methods to find out (and measure) the most effective methods of communication with a targeted audience, users or customers.
+**Optimised:** You will use methods to find out (and measure) the most effective methods of communication with a targeted audience, users or customers.
 
-**Integrated:** 
+**Integrated:** research and choose the best (online, offline, traditional or new) methods to reach the audience you are targeting. 
 
 
 ##**FOR FORMATIVE PRESENTATION: Thursday 9TH FEB 2017 IN LECTURE HOURS**
