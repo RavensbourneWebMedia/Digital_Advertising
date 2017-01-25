@@ -20,7 +20,9 @@ In previous years the web media room has looked a little inconsistant whereas th
 
 There is Ravensbourne budget to help put up your stands and set up the room so I would like to propose that we work together to design the room for this year. 
 
-[Examples of stands 2015/2016.] (**Add presentation here.** )
+[![IMAGE ALT TEXT HERE](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/The_degree_show.jpg)](https://www.youtube.com/watch?v=d2dykZFiHmo)
+
+[Examples of stands 2015/2016.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Web_Media_Degree_Show_Mini_Lecture.pdf)
 
 
 # The Creative Process
