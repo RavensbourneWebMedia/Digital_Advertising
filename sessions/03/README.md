@@ -67,6 +67,8 @@ It’s time to start researching your target market (if you haven’t already) a
 
 Each brief set by industry should have some insight into who they want you to target. If not, now is your time to decide who you will make your campaigns for. 
 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Magritte_TheSonOfMan.jpg )
+
 ####Some useful pointers / questions to ask yourself might be: 
 
 1. **Understand the problem that you solve.** Take another look at your campaign or product and ask, “what problem does this solve?” Once you have this, then start to think about who might be suffering from that problem? In what scenarios?
