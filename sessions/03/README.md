@@ -63,32 +63,24 @@ If would like some more time to work on these docs, let me know any you can have
 
 # Homework
 
-Prepare to present your **ideas**, **experiments** and **creative process** to your colleagues and a special guest next week (28th of October, **formative presentations**).
+It’s time to start researching your target market (if you haven’t already) and to extend your research further if you already have some insights. 
 
-You'll be presenting your work on:
+Each brief set by industry should have some insight into who they want you to target. If not, now is your time to decide who you will make your campaigns for. 
 
-1. EyeBombing
-2. OneTweet
-3. The Union Hack
+####Some useful pointers / questions to ask yourself might be: 
 
-Just to clarify: the **final deadline** for all projects is the **5th of December**, so you can continue working on it throughout November. However, we will be starting another project after the formative, so the more you do before the formative, the better.
+1. **Understand the problem that you solve.** Take another look at your campaign or product and ask, “what problem does this solve?” Once you have this, then start to think about who might be suffering from that problem? In what scenarios?
+* **Paint a picture of the customer.** Start to list all of the different types of people who might suffer from your problem and then try and build up a picture of those people. Do they play golf? **nope** Do they live in a flat share in Bristol? **Yep** Are they married? Do they shop at Asda? Ect...
+* Now you have a few people with characteristics, think **to whom will this problem be the most troublesome?** **who will loose the most by not solving this problem?** Start to write scenarios for these people. 
+* Now you know a little about your audience on the outside, think about the inside. How do these people think about themselves? Are they money conscious? Fashion conscious? What motivates them? 
 
-### Typography
+By answering these questions we should be able to build up an idea of who our target market are as people. Now think...
 
-1. **Publish** your mini-lesson and any other relevant material from today. We recommend GitHub (we :green_heart: :octocat:) but you can publish elsewhere as long as it's accessible by anyone.
-
-2. Add the link to your mini-lesson and any other relevant material to the Google document I emailed you (it's also on Slack).
-
-### Peer learning research ( due for the week after next, Friday 4th Nov)
-
-### Project 
-
-Work on *The Union Hack* with your **team**.
-
-1. Set up a GitHub repository for your team project.
-* Mash up existing flags.
-* Jot down ideas for places (real or imaginary) and the flag(s) you could design for them.
-
+1. Where can i find these people? Physically in the world.. Where might they work or hang out? 
+* What magazines, online forums or newspapers might they read? In paper form? Or online? 
+* What applications might they have on their phone? 
+* What shops might they go to? 
+* **How will you reach them with your campaign?**
 
 ### Blog 
 
