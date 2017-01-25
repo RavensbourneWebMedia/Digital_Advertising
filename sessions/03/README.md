@@ -72,7 +72,7 @@ Each brief set by industry should have some insight into who they want you to ta
 1. **Understand the problem that you solve.** Take another look at your campaign or product and ask, “what problem does this solve?” Once you have this, then start to think about who might be suffering from that problem? In what scenarios?
 * **Paint a picture of the customer.** Start to list all of the different types of people who might suffer from your problem and then try and build up a picture of those people. Do they play golf? **nope** Do they live in a flat share in Bristol? **Yep** Are they married? Do they shop at Asda? Ect...
 * Now you have a few people with characteristics, think **to whom will this problem be the most troublesome?** **who will loose the most by not solving this problem?** Start to write scenarios for these people. 
-* Now you know a little about your audience on the outside, think about the inside. How do these people think about themselves? Are they money conscious? Fashion conscious? What motivates them? 
+* Now you know a little about your audience on the outside, think about the inside. **How do these people think about themselves?** Are they money conscious? Fashion conscious? What motivates them? 
 
 By answering these questions we should be able to build up an idea of who our target market are as people. Now think...
 
