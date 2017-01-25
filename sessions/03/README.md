@@ -2,7 +2,8 @@
 
 ### Today, Thursday 26th January 2017
 
-1. Mini Presenation: [The Degree Show](#the-degree-show)
+1. Overview of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
+* Mini Presenation: [The Degree Show](#the-degree-show)
 * Mini Lecture: [The Creative Process](#the-creative-process)   
 * Mini Lecture: [Advertising Agency Structure](#advertising-agency-structure)
 * Tutorials: Elevator Pitches, Pitch Documents and Moodboards. 
@@ -13,13 +14,13 @@
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Degree_Show_1_Small.png)
 
-The Ravensbourne Degree Show 2017 will be between XX XX June. The Web Media private view will be on XXX. 
+The Ravensbourne Degree Show 2017 will be June. There will be a Web Media private view as part of the degree show. 
 
 In previous years the web media room has looked a little inconsistant whereas the degree show standard is very high. 
 
 There is Ravensbourne budget to help put up your stands and set up the room so I would like to propose that we work together to design the room for this year. 
 
-Examples of stands 2015/2016. **Add presentation here.** 
+[Examples of stands 2015/2016.] (**Add presentation here.** )
 
 
 # The Creative Process
