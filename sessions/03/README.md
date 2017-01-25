@@ -86,10 +86,4 @@ By answering these questions we should be able to build up an idea of who our ta
 
 ### Blog 
 
-**Individually**, write about *The Union Hack*. 
-
-Reflect on the concept and document **your** creative process. 
-
-You can post pictures of scribbled notes, or jot down notes digitally. It doesn't need to be fleshed out and well written. The main goal here is to record your flow of ideas, not to make it beautiful!
-
-[![](assets/the-creative-process.jpg)](https://dribbble.com/shots/1826840--lunchtimedrawings-The-Creative-Process)
+**Individually**, watch the TED talk [Rory Sutherland's Life lessons from an ad man] (https://www.ted.com/talks/rory_sutherland_life_lessons_from_an_ad_man#t-15415) and blog about the value that advertising can add to products without changing the products themselves. 
