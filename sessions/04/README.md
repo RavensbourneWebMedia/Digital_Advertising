@@ -5,6 +5,7 @@
 1. Recap of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
 * Lecture: [Multi Channel vs Omni Channel Advertising](#multi-channel-vs-omni-channel-advertising)
 * Workshop: [Creating a Campaign Plan](#creating-a-campaign-plan) <sup>teams</sup> **10 minutes** / team
+* Mini Presenation: [The Degree Show](#the-degree-show)
 
 ### Your [homework](#homework) and [blog](#blog)
 
@@ -18,21 +19,30 @@ All deliverables for this course can be found on the [Digital Advertising Campai
 
 ###  Multi Channel vs Omni Channel Advertising
 
-* 21 people
-* **5 minutes** / person
+This weeks lecture will focus around the differnt types of advertising campagin that include delivery to lots of separate channels. 
 
-This project is about about **typography** and creating *meaning with text*.
+To contextualise these practices we will look at two Burberry campaigns and talk though:
 
-All the project material is [here](../../projects/one-tweet).
+1. Their target audiences. 
+* Their campaign ideas. The core creative concept including the campaign slogan. 
+* Their digital touch points. 
+* How to map/communicate ideas for digital touch points. 
+* how their campaign plans work across platforms against time. 
 
-###  The Union Hack 
 
-* 7-8 teams
-* **10 minutes** / team
+# The Degree Show
 
-This **team project** is about about **symbols** and **brands**. By designing flags, you will devise symbols to represent identities and convert ideas into shapes. 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Degree_Show_1_Small.png)
 
-All the project material is [here](../../projects/union-hack).
+The Ravensbourne Degree Show 2017 will be June. There will be a Web Media private view as part of the degree show. 
+
+In previous years the web media room has looked a little inconsistant whereas the degree show standard is very high. 
+
+There is Ravensbourne budget to help put up your stands and set up the room so I would like to propose that we work together to design the room for this year. 
+
+[![IMAGE ALT TEXT HERE](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/The_degree_show.jpg)](https://www.youtube.com/watch?v=d2dykZFiHmo)
+
+[Examples of stands 2015/2016.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Web_Media_Degree_Show_Mini_Lecture.pdf)
 
 
 # Homework
