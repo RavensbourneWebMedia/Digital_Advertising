@@ -33,6 +33,10 @@ To contextualise these practices we will look at two Burberry campaigns and talk
 
 ## Creating a Campaign Plan
 
+An campaign or advertising plan lays out exactly how and when a business will reach out to potential customers through various types of media.
+
+As we are planning advertising campaigns that will appraoch customers through a variety of channels ( multiple digital, digital and physical, digiatl and print) it's important that we communicate how these threads will pull together to make an integrated campaign. 
+
 
 
 
@@ -50,4 +54,11 @@ Everything need to know is detailed on the [Digital Advertising Campaign page.] 
 
 ### Blog 
 
-**Individually**, reflect on the feedback you received during the formative assessment, as well as your experience in this unit so far, and write about it.
+Blog post: Reflect on the the work that you have created so far for the course touching on:
+
+1. Your **20 concepts** and your top 3. Then how you chose your leading idea from your shortlisted 3. 
+* The creation of your **elevator pitches:** Did you make more than one revision before reaching your final version? What are you pitches? 
+* The creation of your **pitch document / one pager.** How you worked to digitise this after creating a paper sketch. 
+* The creation of your **moodboard** and whether this has helped steer the look and feel of your campaign. 
+* The **research** that you have gathered on your **target market.** 
+* The creation of your **campaign plan.** 
