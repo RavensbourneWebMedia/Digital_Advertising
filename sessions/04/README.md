@@ -10,7 +10,7 @@
 ### Your [homework](#homework) and [blog](#blog)
 
 
-### Looking back to last week
+## Looking back to last week
 
 As there was a tube strike last week, I thought that I would quickly go over the deliverables for the course so that we all know what is expected for formative **next week** and summative at the end of term. 
 
