@@ -1,53 +1,22 @@
 # Week 4
 
-### Today, Monday 24th October 2016
+### Today, Thursday 2nd February 2017
 
-[Formative assessment](#formative-assessment):
-
-1. [EyeBombing](#eyebombing) <sup>teams</sup> **10 minutes** / team
-* [OneTweet](#onetweet) <sup>individual</sup> **5 minutes** / person
-* [The Union Hack](#the-union-hack) <sup>teams</sup> **10 minutes** / team
+1. Recap of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
+* Lecture: [Multi Channel vs Omni Channel Advertising](#multi-channel-vs-omni-channel-advertising)
+* Workshop: [Creating a Campaign Plan](#creating-a-campaign-plan) <sup>teams</sup> **10 minutes** / team
 
 ### Your [homework](#homework) and [blog](#blog)
 
 
-# Formative assessment
+#### Looking back to last week
 
-<!--- [ ] Why do we do this?-->
+As there was a tube strike last week, I thought that I would quickly go over the deliverables for the course so that we all know what is expected for formative **next week** and summative at the end of term. 
 
-#### Today
+All deliverables for this course can be found on the [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) page. 
 
-You will present both your team projects ([EyeBombing](#eyebombing) and [Union Hack](#the-union-hack)) and your individual project ([OneTweet](#onetweet)). 
 
-This means that you will present **three times** throughout the day.
-
-We will give you **verbal feedback** after each round of presentations. That is, after all *EyeBombing* presentations, after all *OneTweet* presentations and after all *Union Hack* presentations. 
-
-#### After today
-
-We will type up the feedback and share it with you (via Google docs / Slack).
-
-You will get feedback both on your team projects and your individual work.
-
-You will reflect on this feedback (*self-assessment*) and write your thoughts in a blog post. See [more details below]().
-
-### EyeBombing
-
-* 8 teams
-* **10 minutes** / team
-
-This **team project** is about *looking* and *creating images*. Looking at everyday objects and our surroundings with different eyes and using **photography** to frame them, so that others can see what we want them to see.
-
-All the project material is [here](../../projects/eye-bombing).
-
-<!--When presenting your work, you may highlight: 
-
-* **Originality** of your subject, the less *in-your-face* (obvious / common) a subject the better.
-* **Manipulation**, the less you interfered with a subject the better. For instance, drawing a face on a dusty surface is not the point of this project. Arranging objects to resemble a face is ok, but we prefer *ready-made* subjects, which you simply found and framed, rather than manipulated.
-* **Framing**, the point(s) of view you chose for your subject to highlight its *faceyness*. Framing an image has as much to do with what you include as what you exclude. 
-* **Interpretation**, how your subject is cropped (or otherwise edited) to highlight its *faceyness*.-->
-
-###  OneTweet
+###  Multi Channel vs Omni Channel Advertising
 
 * 21 people
 * **5 minutes** / person
