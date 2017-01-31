@@ -46,25 +46,6 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 
 
 # Homework
-
-### Blog 
-
-**Individually**, reflect on the feedback you received during the formative assessment, as well as your experience in this unit so far, and write about it.
-
-Your post should address these questions (in no particular order):
-
-* **ME**:
-	* How and what did I learn?
-	* What worked and what didn't?
-	* Did I reach my goals, why or why not?  
-	* How did I feel during the process?  
-
-* My **TEAM**:
-	* How did the team perform?
-	* What worked and what didn't?
-	* What can we do better next time?
-	* Did the team reach the goal?
-	* Was there conflict, how do we fix it?
     
     #### Symbols and brands
 
@@ -125,13 +106,21 @@ Your team **mini-lesson** should be **~10 minutes** and you may include:
   
 	During your mini-lesson, first ask the class what their thoughts are and then present your findings.
 
-<!--
+### Blog 
 
-**Semiotics 101**: sign, signifier and signified
+**Individually**, reflect on the feedback you received during the formative assessment, as well as your experience in this unit so far, and write about it.
 
-**Communication**: sender (with intentions), message (through media) and receiver (with interpretations).
+Your post should address these questions (in no particular order):
 
-* [Teaching to see](https://vimeo.com/45232468): design thinking by Inge Druckrey
-* [Comic Sans is bad](http://designforhackers.com/blog/comic-sans-hate/), or is it?
+* **ME**:
+	* How and what did I learn?
+	* What worked and what didn't?
+	* Did I reach my goals, why or why not?  
+	* How did I feel during the process?  
 
--->
+* My **TEAM**:
+	* How did the team perform?
+	* What worked and what didn't?
+	* What can we do better next time?
+	* Did the team reach the goal?
+	* Was there conflict, how do we fix it?
