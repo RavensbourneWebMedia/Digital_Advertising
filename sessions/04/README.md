@@ -35,11 +35,15 @@ To contextualise these practices we will look at two Burberry campaigns and talk
 
 ## Creating a Campaign Plan
 
-An campaign or advertising plan lays out exactly how and when a business will reach out to potential customers through various types of media.
+An campaign or advertising plan lays out exactly how and when a business will reach out to potential customers through various types of media and how they are connected. 
 
 As we are planning advertising campaigns that will appraoch customers through a variety of channels ( multiple digital, digital and physical, digiatl and print) it's important that we communicate how these threads will pull together to make an integrated campaign. 
 
+Some good questions to ask might be:
 
+1. What media/experience will go out in which channel? 
+* How will this work over time? (Will one lead to another? Will they all reinforce each other at the same time? Will there be seasonal variations?) 
+* How does your apprach to multiple channels make sense as a whole campaign?
 
 
 ## The Degree Show
