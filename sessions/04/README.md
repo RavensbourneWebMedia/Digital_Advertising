@@ -19,6 +19,8 @@ All deliverables for this course can be found on the [Digital Advertising Campai
 
 ## Multi Channel vs Omni Channel Advertising
 
+![] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/04/Omni-channel_image.jpg)
+
 This weeks lecture will focus around the differnt types of advertising campagin that include delivery to lots of separate channels. 
 
 To contextualise these practices we will look at two Burberry campaigns and talk though:
