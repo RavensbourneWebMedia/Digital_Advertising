@@ -25,15 +25,15 @@ All deliverables for this course can be found on the [Digital Advertising Campai
 
 This weeks lecture will focus around the differnt types of advertising campagin that include delivery to lots of separate channels. 
 
-To contextualise these practices we will look at two Burberry campaigns and talk though:
+To contextualise this practice we will look at a Burberry campaign and talk though:
 
-1. Their target audiences. 
-* Their campaign ideas. The core creative concept including the campaign slogan. 
-* Their digital touch points. 
+1. The target audiences. 
+* The campaign idea. The core creative concept including the campaign slogan. 
+* The digital touch points. 
 * How to map/communicate ideas for digital touch points. 
-* how their campaign plans work across platforms against time. 
+* How the campaign plan works across platforms holistically. 
 
-[Full lecture notes found here.] (ToDo: Add lecture notes here)
+[Full lecture notes found here.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/04/Multi-Channel_Omni_Channel_Advertising.pdf)
 
 ## Creating a Campaign Plan
 
@@ -46,6 +46,7 @@ Some good questions to ask might be:
 1. What media/experience will go out in which channel? 
 * How will this work over time? (Will one lead to another? Will they all reinforce each other at the same time? Will there be seasonal variations?) 
 * How does your apprach to multiple channels make sense as a whole campaign?
+* How will I visualise the above points? 
 
 
 ## The Degree Show
@@ -58,7 +59,7 @@ Continue to work on [Creating a Campaign Plan](#creating-a-campaign-plan).
 
 Add your campaign plan to the other pieces you have created and prepair for formative presentations next week. 
 
-Everything need to know is detailed on the [Digital Advertising Campaign page.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
+Everything you need to know is detailed on the [Digital Advertising Campaign page.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
 
 ### Blog 
 
