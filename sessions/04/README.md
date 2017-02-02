@@ -12,6 +12,8 @@
 
 ## Looking back to last week
 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Think_Small.jpg)
+
 As there was a tube strike last week, I thought that I would quickly go over the deliverables for the course so that we all know what is expected for formative **next week** and summative at the end of term. 
 
 All deliverables for this course can be found on the [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) page. 
