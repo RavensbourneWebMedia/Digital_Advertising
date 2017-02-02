@@ -33,7 +33,7 @@ To contextualise this practice we will look at a Burberry campaign and talk thou
 * How to map/communicate ideas for digital touch points. 
 * How the campaign plan works across platforms holistically. 
 
-[Full lecture notes found here.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/04/Multi-Channel_Omni_Channel_Advertising.pdf)
+[Full lecture notes found here.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/04/Multi-Channel_Omni_Channel_Advertising.pdf)
 
 ## Creating a Campaign Plan
 
