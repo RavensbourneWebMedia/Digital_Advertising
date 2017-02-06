@@ -1,12 +1,12 @@
 # Week 4
 
-### Today, Monday 24th October 2016
+### Today, Thursday 9th February 2017
 
 [Formative assessment](#formative-assessment):
 
-1. [EyeBombing](#eyebombing) <sup>teams</sup> **10 minutes** / team
-* [OneTweet](#onetweet) <sup>individual</sup> **5 minutes** / person
-* [The Union Hack](#the-union-hack) <sup>teams</sup> **10 minutes** / team
+Everyone will present their digital advertising project and receive feedback from the group. 
+
+Feedback on presentations will be recorded on the [digital advertising google doc.](https://docs.google.com/document/d/1YLvNO6PSzHLUitCzTJX9EclrltAGnBiOaG2gW9MT9x0/edit#)
 
 ### Your [homework](#homework) and [blog](#blog)
 
