@@ -34,6 +34,14 @@ You will reflect on this feedback (*self-assessment*) and write your thoughts in
 
 # Homework
 
+As part of your hand in you will need to make:
+
+A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will include:
+
+Concise documentation outlining the research stages and physical/online reading and campaign references that have contributed to the project.
+
+Over enhancement week, read two articles or book extracts about digital advertising in preparation for this part of your submission. 
+
 ### Blog 
 
 1. Reflect on the feedback you received during the formative assessment and write about it. 
