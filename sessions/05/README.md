@@ -46,7 +46,7 @@ Your post should address these questions (in no particular order):
 
 * My **WORK**:
 	* What worked and what didn't?
-	* What needs improvement for next time?
+	* What should I improve for next time?
 	* Did the campaign grab the attention of people in the room?
 	* How can I make my campaign and pitch have greater impact for summative? 
 
