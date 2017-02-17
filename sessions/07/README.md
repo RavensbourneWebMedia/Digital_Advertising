@@ -18,6 +18,8 @@ Burberry Brit Rhythm. [TO DO: Add presentation here...]
 
 ## D&AD Winners 2016
 
+Let's take a look at some examples of sucessful projects from last year to judge presentation style and overall project standard. These are just a chosen few, but you will look further at these projects for your blog post this week. 
+
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/2016-awards-campaign.jpg)
 
 [Made In: Know Where Your Clothes Are Made](https://www.dandad.org/awards/new-blood/2016/amnesty-international/2866/made-in-know-where-your-clothes-are-made/) - for Amnesty International.
@@ -40,11 +42,13 @@ Elevator Pitch: We follow the story of Cece, an ambitious young creative embarki
 
 ## Presentation & Workshop: Prototyping in Invison
 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/mockup-8.png)
+
 Before enhancement week we spoke about [Invision](https://www.invisionapp.com/). Has anyone used it before or been using it over enhancement week? 
 
 We need to make visualisations quickly and be able to demonstrate our ideas to people on the device we intent them to use when experiencing the final product **without** reinventing the wheel. 
 
-Let's do a mini [lecture](TO DO - Add Lecture) and workshop on prototyping in [Invision.](https://www.invisionapp.com/)
+Let's do a mini [lecture](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Ux_%26_Prototyping_Digital_Advertising.pdf) and workshop on prototyping in [Invision.](https://www.invisionapp.com/)
 
 # Homework
 
