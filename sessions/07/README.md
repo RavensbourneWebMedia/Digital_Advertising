@@ -34,7 +34,7 @@ Elevator Pitch: Crimewatch 'Eye' works within the maps application and existing 
 
 [Cece's Journey](https://www.dandad.org/awards/new-blood/2016/adobe/2959/ceces-journey/) - for Adobe
 
-![]https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Ceesys_Journey.png)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Ceesys_Journey.png)
 
 Elevator Pitch: We follow the story of Cece, an ambitious young creative embarking on her biggest challenge yet: the Creative Cloud mountain. Without her tools, Cece’s task is impossible.
 
