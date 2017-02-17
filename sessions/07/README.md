@@ -36,7 +36,9 @@ Elevator Pitch: Crimewatch 'Eye' works within the maps application and existing 
 
 Before enhancement week we spoke about [Invision](https://www.invisionapp.com/). Has anyone used it before or been using it over enhancement week? 
 
+We need to make visualisations quickly and be able to demonstrate our ideas to people on the device we intent them to use when experiencing the final product **without** reinventing the wheel. 
 
+Let's do a mini [lecture](TO DO - Add Lecture) and workshop on prototyping in [Invision.](https://www.invisionapp.com/)
 
 # Homework
 
