@@ -2,58 +2,33 @@
 
 ### Today, Thursday 23rd February 2017
 
-1. Lecture: An Omnichannel Advertising Campaign. 
-*  Lecture: 2016 D&AD Winners
+1. Lecture: [Omnichannel Advertising Campaigns.](#OmnichannelAdvertisingCampaigns.)
+*  Lecture: D&AD Winners 2016
 *  Presentation & Workshop: Prototyping in Invison
 
 ### Your [homework](#homework) and [blog](#blog)
 
-# Workshop
+## Omnichannel Advertising Campaigns. 
 
-Look around you at all the things that are organised in grids... 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Burberry-Brit-Rhythm.jpeg)
 
-### What is a grid system?
+In the last lecture we looked at the My Burberry campaign as an example of omnichannle advertising. This week we'll look at a men's fragrance, Brit Rhythm to further our understanding of co-ordinated cross channel advertising. 
 
-It's a structure comprising a series of **horizontal and vertical lines** which intersect and are then used to **organise** space, text, images, and any other element placed in a design.
+Burberry Brit Rhythm. [TO DO: Add presentation here...]
 
-![](assets/grid-lover.gif)
+## D&AD Winners 2016
 
-### Pick 3 sites you like and draw their grids on paper!
+Made In: Know Where Your Clothes Are Made - for [Amnesty International.](https://www.amnesty.org.uk/) 
 
-![](http://www.interfacesketch.com/previews/web-browser-template.png)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Made_In_Know_Where_Your_Clothes_Are_Made.jpg)
 
-![](http://www.interfacesketch.com/previews/iphone6.png)
 
-Printable templates from [InterfaceSketch](http://www.interfacesketch.com)
 
-### Why grids?
+## Presentation & Workshop: Prototyping in Invison
 
-> Designers solve problems. Web designers are faced with finding solutions to visual and organisational problems and one approach to solving these problems is the grid. It’s not the only approach you might take, but it’s one with several important benefits.
+Before enhancement week we spoke about [Invision](https://www.invisionapp.com/). Has anyone used it before or been using it over enhancement week? 
 
-From [Why grids?](http://www.vanseodesign.com/web-design/why-grids/)
 
-#### **Order** 
-
-Grids can bring order to a layout and make it easier for users to find and navigate through information.
-	
-#### **Consistency** 
-
-Consistent layouts can help users absorb the information we’re trying to communicate (they learn where to find it, consistently) and build a sense of familiarity
-	
-#### **Proportion** 
-
-Grids offer a guide to the placement of information and help generate visual hierarchy. They promote rhythm and consistency in a design and help you develop relationships between elements based on rational proportions.
-
-#### **Efficiency** 
-
-Grids allow designers to quickly add elements to a layout because many layout decisions are addressed while building the grid structure.
-
-### Useful tools when designing grid systems
-
-* [Gridpak](http://gridpak.com/)
-* [GridLover](http://www.gridlover.net/)
-* [ ] [jQuery grid plugins from UnHeap](http://www.unheap.com/?s=grid)
-* [ ] [MediaQuery bookmarklet](http://seesparkbox.com/foundry/media_query_bookmarklet)
 
 # Homework
 
@@ -83,32 +58,26 @@ One thing the example projects have in common is a clear visual identity.
 
 * Will there be sound? 
 
-* How will 
+* How will this identity play out across different channels. 
+
+For each of your campaign touch points, design a visual, prototype, diagram or video story board to explain your idea. We will review these next week in tutorials and make a plan for their further development. 
 
 ### Blog 
 
-Read and blog about [The Web's Grain](http://frankchimero.com/writing/the-webs-grain/).
+Navigate to the [D&AD New Blood 2016 Winners](https://www.dandad.org/en/d-ad-new-blood-awards-pencil-winners/) and find **two** projects that have relevance to your project. They could:
 
-When dealing with a *new* medium, we tend to use *old* metaphors in order to make sense of it. Cars were initially thought of as *horseless carriages*. The first photographs tried to replicate paintings.
+* Be written by the same company that issued your brief. 
 
-Likewise, things on the Web were initially called *pages* (as if they were flippable sheets of printed paper), organised into *sites* etc.
+* Be from a similar type of company to the one that set your brief (eg, a non profit or charity). 
 
-What makes Web things **different** from other media?
+* Have made a similar type of response to their brief as you are making to yours (eg, a technical piece of design like a website or app). 
 
-How can we use the unique properties of the Web medium to our advantage (for instance, to make a **recipe** that doesn't look just like a printed page)?
+* Be visually inspiring or use media in an interesting new way that you intend to apply your project. 
 
-![](http://frankchimero.com/writing/the-webs-grain/seabig.jpg)
+Now that you have your two projects, analyse and comment on the way in which the ideas have been presented. 
 
-# Review of Summative
+* What was the core message or elevator pitch? 
 
-What will you need to hand in for [summative?] (https://github.com/RavensbourneWebMedia/Web-Design-principles/tree/2016/sessions/10#hand-in-package)
+* What media was used to explain the project? 
 
-# Class Open Time
-
-An afternoon session to work on any areas of the course so far that you think may need improvement. 
-
-This weeks project involves writing Mark Up. If you haven't had time to go through the [mark up tutorial] (http://www.markdowntutorial.com/), this would be a good use of the afternoon session.  
-
-Each week you should have been hosting and supplying links to your mini lessons. If you haven't done this yet, this would be a good use of this afternoons time. 
-
-If you need more time to practice photoshop and illustrator, now would be a good time. 
+* 
