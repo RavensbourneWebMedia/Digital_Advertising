@@ -18,6 +18,8 @@ Burberry Brit Rhythm. [TO DO: Add presentation here...]
 
 ## D&AD Winners 2016
 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/2016-awards-campaign.jpg)
+
 [Made In: Know Where Your Clothes Are Made](https://www.dandad.org/awards/new-blood/2016/amnesty-international/2866/made-in-know-where-your-clothes-are-made/) - for [Amnesty International.](https://www.amnesty.org.uk/) 
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Made_In_Know_Where_Your_Clothes_Are_Made.jpg)
