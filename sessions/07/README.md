@@ -28,7 +28,7 @@ Elevator Pitch: A browser extension similar to AdBlock that shows shoppers where
 
 [BBC Crimewatch 'Eye'](https://www.dandad.org/awards/new-blood/2016/crimewatch/2833/bbc-crimewatch-eye/)
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Made_In_Know_Where_Your_Clothes_Are_Made.jpg)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/bbc_Crimewatch_eye.jpg)
 
 Elevator Pitch: Crimewatch 'Eye' works within the maps application and existing location technology within our phones to bring up to date and locate relevant crime alerts, based on your recent places.Using a simple text based system, information can be reported directly to the Crimewatch team with optional anonymity, for a fast, secure and discrete experience.
 
