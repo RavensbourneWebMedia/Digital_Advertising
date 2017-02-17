@@ -22,6 +22,7 @@ Burberry Brit Rhythm. [TO DO: Add presentation here...]
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Made_In_Know_Where_Your_Clothes_Are_Made.jpg)
 
+Elevator Pitch: A browser extension similar to AdBlock that shows shoppers where products are made and who by, making users aware of the stories behind their clothes.
 
 
 ## Presentation & Workshop: Prototyping in Invison
