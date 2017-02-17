@@ -20,7 +20,7 @@ Burberry Brit Rhythm. [TO DO: Add presentation here...]
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/2016-awards-campaign.jpg)
 
-[Made In: Know Where Your Clothes Are Made](https://www.dandad.org/awards/new-blood/2016/amnesty-international/2866/made-in-know-where-your-clothes-are-made/) - for [Amnesty International.](https://www.amnesty.org.uk/) 
+[Made In: Know Where Your Clothes Are Made](https://www.dandad.org/awards/new-blood/2016/amnesty-international/2866/made-in-know-where-your-clothes-are-made/) - for Amnesty International.
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Made_In_Know_Where_Your_Clothes_Are_Made.jpg)
 
@@ -31,6 +31,12 @@ Elevator Pitch: A browser extension similar to AdBlock that shows shoppers where
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/bbc_Crimewatch_eye.jpg)
 
 Elevator Pitch: Crimewatch 'Eye' works within the maps application and existing location technology within our phones to bring up to date and locate relevant crime alerts, based on your recent places.Using a simple text based system, information can be reported directly to the Crimewatch team with optional anonymity, for a fast, secure and discrete experience.
+
+[Cece's Journey](https://www.dandad.org/awards/new-blood/2016/adobe/2959/ceces-journey/) - for Adobe
+
+![]https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Ceesys_Journey.png)
+
+Elevator Pitch: We follow the story of Cece, an ambitious young creative embarking on her biggest challenge yet: the Creative Cloud mountain. Without her tools, Cece’s task is impossible.
 
 ## Presentation & Workshop: Prototyping in Invison
 
