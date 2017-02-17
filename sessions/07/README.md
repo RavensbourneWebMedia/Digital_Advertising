@@ -1,10 +1,10 @@
 # Week 7
 
-### Today, Monday 14th November 2015
+### Today, Thursday 23rd February 2017
 
-1. Workshop: [gridz](#workshop)! 
-*  Review of Summative Assesmet
-*  Open Class Time - Let's work on any areas that need improvement (Mark Up, Hosting your projects, linking your mini lessons ect). 
+1. Lecture: An Omnichannel Advertising Campaign. 
+*  Lecture: 2016 D&AD Winners
+*  Presentation & Workshop: Prototyping in Invison
 
 ### Your [homework](#homework) and [blog](#blog)
 
@@ -57,21 +57,33 @@ Grids allow designers to quickly add elements to a layout because many layout de
 
 # Homework
 
-### There's code in your plate
+### Telling Visual Campaign Stories 
 
-Write the **recipe** for your favourite dish in *MarkDown* (`.md` file).
+This weeks homework will focus around the question: 
 
-* Decide what **information** to include, so that someone else can prepare the dish you chose.
+**How will you illustrate your digial advertising campaign ideas?**
 
-* Make thoughtful decisions about how to **structure** your recipe. 
+Ealier we saw that some 2016 D&AD winners used video to explain their ideas. What will you use to show yours? 
 
-	For instance, what structure is appropriate for the ingredients *list*? And which is appropriate for the preparation steps *list*? Don't just use paragraphs everywhere.. 
+* Making a digital product as part of your pitch? Could you make an **invision prototype?** Or could you use **Keynote?** Will this sit on the relevant device? An iOS app on an iPhone?
 
-	[![](assets/md-cheatsheet.png)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Making an omnichannel campagin? Could you produce a **video** piece?
 
-* Use **images** to enhance your recipe, but not to be the only carrier of important information. For example: use images to visualise something that you've already explained through text.
+* Have you pitched an installation or art work? Could you make a **3D diagram** of the space? 
 
-**Push** your `recipe.md` to a new repository on your GitHub.
+One thing the example projects have in common is a clear visual identity. 
+
+**Does your campaign have an identity?**
+
+* What font/fonts will you use? 
+
+* What colours will you use to communicate to your audience? 
+
+* What type of imagery will you need to shoot or produce? 
+
+* Will there be sound? 
+
+* How will 
 
 ### Blog 
 
