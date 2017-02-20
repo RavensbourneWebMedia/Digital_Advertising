@@ -14,7 +14,7 @@
 
 In the last lecture we looked at the My Burberry campaign as an example of omnichannle advertising. This week we'll look at a men's fragrance, Brit Rhythm to further our understanding of co-ordinated cross channel advertising. 
 
-Burberry Brit Rhythm. ![] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Omnichannel_Advertising_Brit_Rhythm.pdf)
+[Burberry Brit Rhythm.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Omnichannel_Advertising_Brit_Rhythm.pdf)
 
 ## D&AD Winners 2016
 
