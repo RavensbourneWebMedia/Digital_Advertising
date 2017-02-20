@@ -14,7 +14,7 @@
 
 In the last lecture we looked at the My Burberry campaign as an example of omnichannle advertising. This week we'll look at a men's fragrance, Brit Rhythm to further our understanding of co-ordinated cross channel advertising. 
 
-Burberry Brit Rhythm. [TO DO: Add presentation here...]
+Burberry Brit Rhythm. ![] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Omnichannel_Advertising_Brit_Rhythm.pdf)
 
 ## D&AD Winners 2016
 
@@ -100,4 +100,6 @@ Now that you have your two projects, analyse and comment on the way in which the
 
 * What media was used to explain the project? 
 
-* 
+* What were the key points of the project and how were they presented? Through images of text? Concisely or through long form writing? 
+
+Finally comment on how the presentation styles that you have found in your chosen D&AD projects could be applied to your project to help clarify your campaign. 
