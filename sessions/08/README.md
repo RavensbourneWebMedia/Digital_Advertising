@@ -1,12 +1,12 @@
 # Week 8
 
-### Today, Thursday 2nd March 2017
+## Today, Thursday 2nd March 2017
 
 1. Review: Hand Ins for Course & D&AD
 * What is a Reserach Folder? 
 * Tutorials.
 
-#### Your [homework](#homework) and [blog](#blog)
+### Your [homework](#homework) and [blog](#blog)
 
 
 # Review: Hand Ins for Course & D&AD
@@ -16,7 +16,7 @@ We have talked briefly about a research folder that should accompany your projec
 Let's look at some examples from last years students. 
 
 
-# Tutorials 
+## Tutorials 
 
 I would like to dedicate the rest of the session to tutorials. 
 
@@ -32,7 +32,7 @@ We will be reviewing the work that we have been doing each week on the course in
 * Any **articles** that have helped inform your work. 
 * **Campaign identity** including colour pallets, fonts, layouts, media chioces, grahic style and image making. 
 
-### Homework & ### Blog (Combined this week)
+### Homework & Blog (Combined this week)
 
 You have 14 days until summative. Lets really step up a gear and focus on what you want to achieve with the rest of the unit. 
 
@@ -42,7 +42,7 @@ In order to do this, we are going to use a [**productivity planner**](https://gi
 * Use the sheets at the end of the pack to plan out tasks for each of the days of the next week. Make these achievable tasks. Some easy, some hard. 
 * Each day work through the tasks you have set yourself. Asign any incomplete tasks to another day. 
 
-**Blog**
+### Blog 
 
 * Blog about what you have planned for each day of the week. Add the sheets that you have set yourself. 
 * Reflect at the end of the week about this process, did it work well? Not so well?
