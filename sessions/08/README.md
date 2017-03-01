@@ -9,11 +9,23 @@
 ### Your [homework](#homework) and [blog](#blog)
 
 
-# Review: Hand Ins for Course & D&AD
+## Review: Hand Ins for Course & D&AD
+
+Let's review the hand ins for this [digital advertsing course.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) 
+
+In addition, let's think about the hand ins for your D&AD awards. Find your [brief](https://www.dandad.org/en/d-ad-new-blood-awards/) and look at the deliverables. We will discuss these in tutorials later. 
+
+## What is a Research Folder
 
 We have talked briefly about a research folder that should accompany your project work. 
 
 Let's look at some examples from last years students. 
+
+[Innocent Sekajja](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Innocent%20Sekajja_106690_assignsubmission_file_Research-Crimewatch-Innocent%20Sekajja.pdf)
+
+[Liam Parker](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Liam%20Parker_106694_assignsubmission_file_WWF%20Research%20Folder.pdf)
+
+[Matthew Starr](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Matthew%20Starr_106689_assignsubmission_file_ProjectResearch.pdf)
 
 
 ## Tutorials 
