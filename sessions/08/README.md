@@ -15,7 +15,7 @@ Let's review the hand ins for this [digital advertsing course.](https://github.c
 
 In addition, let's think about the hand ins for your D&AD awards. Find your [brief](https://www.dandad.org/en/d-ad-new-blood-awards/) and look at the deliverables. We will discuss these in tutorials later. 
 
-## What is a Research Folder
+## What is a Research Folder?
 
 We have talked briefly about a research folder that should accompany your project work. 
 
