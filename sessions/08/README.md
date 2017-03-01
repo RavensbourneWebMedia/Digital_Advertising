@@ -11,6 +11,8 @@
 
 ## Review: Hand Ins for Course & D&AD
 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/08/keep-calm-and-meet-deadline-1.png)
+
 Let's review the hand ins for this [digital advertsing course.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) 
 
 In addition, let's think about the hand ins for your D&AD awards. Find your [brief](https://www.dandad.org/en/d-ad-new-blood-awards/) and look at the deliverables. We will discuss these in tutorials later. 
