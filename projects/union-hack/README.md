@@ -108,11 +108,11 @@ Students will use the moodle links to submit:
 
 This blog log will contain posts on:
 
-* Week 1: Seth Godin's How to Get Your Ideas to Spread.
-* Week 2: Moodboards. 
-* Week 3: TBC
-* Week 4: TBC
-* Week 5: TBC
-* Week 6: TBC
+* Week 1: [Seth Godin's How to Get Your Ideas to Spread.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/01#homework)
+* Week 2: [Moodboards.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/02#homework)
+* Week 3: [Rory Sutherland's Life Lessons from an Ad Man](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/03#homework)
+* Week 4: [Reflective: Course Work so far.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/04#homework) 
+* Week 5: [Reflective: Formative Feedback](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/05#homework)
+* Week 6: [Analyse 2 previous D&AD New Blood 2016 Winners.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/07#homework)
 * Week 7: TBC
 * Week 8: TBC
