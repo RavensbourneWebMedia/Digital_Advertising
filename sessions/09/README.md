@@ -30,7 +30,7 @@ Last week you worked with the productivity planner to map out the remaining task
 
 Tweak *all* your work in this unit so that you can **present** it next week during the *summative assessment*. 
 
-Check the :ballot_box_with_check: [**checklist**](../10/#checklist) :ballot_box_with_check: for everything you have to hand in!
+Check the [deliverables for the unit](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) 
 
 ### Blog
 
