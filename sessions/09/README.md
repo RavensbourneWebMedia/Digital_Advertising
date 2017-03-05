@@ -20,7 +20,7 @@ This week we will look at viral marketing and how you can create campaign elemen
 
 Last week you worked with the productivity planner to map out the remaining tasks you needed to finish for this project. This week we will review that work and make a final list of tasks before summative next week. 
 
-![Productivity Planner](https://drive.google.com/open?id=0B0FP625GojKHRlJRZWQ4cjVvSFk)
+![Productivity Planner](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/09/Weekly_Planner_Image.jpg)
 
 [Download Here](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/08/Productivity%20Planner.pdf)
 
