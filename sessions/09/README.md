@@ -30,14 +30,16 @@ Last week you worked with the productivity planner to map out the remaining task
 
 Tweak *all* your work in this unit so that you can **present** it next week during the *summative assessment*. 
 
-Check the [deliverables for the unit](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) 
+Check the [deliverables for the unit](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) and make sure that you have everything prepaired for hand in on Sunday 19th March. 
 
 ### Blog
 
-#### `How to {YOUR CSS TRICK HERE}`
+Make a New Weekly Planner documenting the work that you need to do this week. 
 
-Polish up your **CSS trick demo** and write a *how to* post for anyone to learn it. 
+Use your blog post to reflect on the process of completeing the work that you have on your planner. 
 
-Publish it to GitHub / Medium.
+Add images, show your project development and comment on the work that you have undertaken to get your project to summative presentation. 
 
-This will become part of a series of tutorials that we'll publish on the Web Media official site next year!
+Make sure that you also work on your Research Folder. 
+
+Good Luck. 
