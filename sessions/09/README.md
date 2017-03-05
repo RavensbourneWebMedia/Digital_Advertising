@@ -22,7 +22,7 @@ Last week you worked with the productivity planner to map out the remaining task
 
 ![Productivity Planner](https://drive.google.com/open?id=0B0FP625GojKHRlJRZWQ4cjVvSFk)
 
-![Download Here](https://drive.google.com/open?id=0B0FP625GojKHRlJRZWQ4cjVvSFk)
+![Download Here](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/08/Productivity%20Planner.pdf)
 
 # Homework
 
