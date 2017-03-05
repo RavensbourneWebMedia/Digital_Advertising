@@ -18,8 +18,9 @@ This week we will look at viral marketing and how you can create campaign elemen
 
 # Tutorials
 
-1. Go through the :ballot_box_with_check: [**checklist**](../10/#checklist) :ballot_box_with_check: for everything you have to hand in next week.
-* Use the [Productivity Planner](https://drive.google.com/open?id=0B0FP625GojKHRlJRZWQ4cjVvSFk) to plan the final sprint!
+Last week you worked with the productivity planner to map out the remaining tasks you needed to finish for this project. This week we will review that work and make a final list of tasks before summative next week. 
+
+![Productivity Planner](https://drive.google.com/open?id=0B0FP625GojKHRlJRZWQ4cjVvSFk)
 
 [![](assets/weekly-planner.png)](https://drive.google.com/open?id=0B0FP625GojKHRlJRZWQ4cjVvSFk)
 
