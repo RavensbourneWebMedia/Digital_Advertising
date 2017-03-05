@@ -11,6 +11,8 @@
 
 This week we will look at viral marketing and how you can create campaign elements that people will share organically. 
 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/09/Viral_Marketing_Image.jpg)
+
 [Full lecture notes.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/09/Digital_Advertising-viralmarketing.compressed.pdf)
 
 
