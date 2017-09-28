@@ -107,6 +107,6 @@ This blog log will contain posts on:
 * Week 3: TBC
 * Week 4: [Reflective: Course Work so far.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/04#homework) 
 * Week 5: [Reflective: Formative Feedback](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/05#homework)
-* Week 6: [Analyse 2 previous D&AD New Blood 2016 Winners.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/07#homework)
+* Week 6: Analyse 2 previous D&AD New Blood 2016 Winners.
 * Week 7: TBC
 * Week 8: TBC
