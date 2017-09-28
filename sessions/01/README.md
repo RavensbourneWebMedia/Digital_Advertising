@@ -21,7 +21,7 @@
 
 # A Brief History of Advertising
 
-What is [Advertising](https://en.wikipedia.org/wiki/Advertising)
+### What is [Advertising](https://en.wikipedia.org/wiki/Advertising)
 
 What are **your thoughts?**
 
