@@ -1,73 +1,76 @@
-# Week 4
+# Week 5
 
-### Today, Thursday 2nd February 2017
+### Today, Thursday 9th February 2017
 
-1. Recap of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
-* Lecture: [Multi Channel vs Omni Channel Advertising](#multi-channel-vs-omni-channel-advertising)
-* Workshop: [Creating a Campaign Plan](#creating-a-campaign-plan) 
-* Mini Presenation: [The Degree Show](#the-degree-show)
+[Formative assessment](#formative-assessment):
+
+Everyone will present their digital advertising project and receive feedback from the group. 
+
+Feedback on presentations will be recorded on the [digital advertising google doc.](https://docs.google.com/document/d/1YLvNO6PSzHLUitCzTJX9EclrltAGnBiOaG2gW9MT9x0/edit#)
 
 ### Your [homework](#homework) and [blog](#blog)
 
 
-## Looking back to last week
+# Formative assessment
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Think_Small.jpg)
+#### Today
 
-As there was a tube strike last week, I thought that I would quickly go over the deliverables for the course so that we all know what is expected for formative **next week** and summative at the end of term. 
+You will present your digital advertising projects, either individually or in your teams of two. 
 
-All deliverables for this course can be found on the [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) page. 
+You will have 10mins max to present your work.
 
+Remember, this is a formative presentation, which gives you a chance to ask any questions about your work that might help you push forwards over the next 4 weeks.
 
-## Multi Channel vs Omni Channel Advertising
+Explain how your concept relates to your chosen brief and how it appeals to the interests and needs of your target audience.
 
-![] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/04/Omni-channel_image_small.jpg)
+After each presentation we will give **verbal feedback**.  
 
-This weeks lecture will focus around the differnt types of advertising campagin that include delivery to lots of separate channels. 
+#### After today
 
-To contextualise this practice we will look at a Burberry campaign and talk though:
+We will type up the feedback and share it with you via the Google docs above.
 
-1. The target audiences. 
-* The campaign idea. The core creative concept including the campaign slogan. 
-* The digital touch points. 
-* How to map/communicate ideas for digital touch points. 
-* How the campaign plan works across platforms holistically. 
-
-[Full lecture notes found here.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/04/Multi-Channel_Omni_Channel_Advertising.pdf)
-
-## Creating a Campaign Plan
-
-An campaign or advertising plan lays out exactly how and when a business will reach out to potential customers through various types of media and how they are connected. 
-
-As we are planning advertising campaigns that will appraoch customers through a variety of channels ( multiple digital, digital and physical, digiatl and print) it's important that we communicate how these threads will pull together to make an integrated campaign. 
-
-Some good questions to ask might be:
-
-1. What media/experience will go out in which channel? 
-* How will this work over time? (Will one lead to another? Will they all reinforce each other at the same time? Will there be seasonal variations?) 
-* How does your apprach to multiple channels make sense as a whole campaign?
-* How will I visualise the above points? 
+You will reflect on this feedback (*self-assessment*) and write your thoughts in a blog post. 
 
 
-## The Degree Show
+# Homework
 
-[A quick recap on last week.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/03#the-degree-show)
+As part of your hand in you will need to make:
 
-## Homework
-    
-Continue to work on [Creating a Campaign Plan](#creating-a-campaign-plan). 
+A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will include:
 
-Add your campaign plan to the other pieces you have created and prepair for formative presentations next week. 
+Concise documentation outlining the research stages and physical/online reading and campaign references that have contributed to the project.
 
-Everything you need to know is detailed on the [Digital Advertising Campaign page.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
+Over enhancement week, read two articles or book extracts about digital advertising in preparation for this part of your submission. 
 
 ### Blog 
 
-Blog post: Reflect on the the work that you have created so far for the course touching on:
+1. Reflect on the feedback you received during the formative assessment and write about it. 
 
-1. Your **20 concepts** and your top 3. Then how you chose your leading idea from your shortlisted 3. 
-* The creation of your **elevator pitches:** Did you make more than one revision before reaching your final version? What are you pitches? 
-* The creation of your **pitch document / one pager.** How you worked to digitise this after creating a paper sketch. 
-* The creation of your **moodboard** and whether this has helped steer the look and feel of your campaign. 
-* The **research** that you have gathered on your **target market.** 
-* The creation of your **campaign plan.** 
+Your post should address these questions (in no particular order):
+
+* **ME**:
+	* What worked and what didn't when presenting?
+	* Did I communicate my ideas clearly to the class, why or why not? 
+
+* My **WORK**:
+	* What worked and what didn't?
+	* What should I improve for next time?
+	* Did the campaign grab the attention of people in the room?
+	* How can I make my campaign and pitch have greater impact for summative? 
+
+2. Jot down an action plan for the next 4 weeks (5 including enhancement week): list what you want to do in order to address that feedback that you received. 
+
+3. Plot out the tasks that you have remaining for Summative presentation against the [hand in doc](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) and plot them against the remianing weeks in the course.
+    
+    ### For Enhancement Week
+
+	You have time without any lectures which is great to start putting things in place for the next part of term. Whilst you have some time:
+
+	* Do some research into [invision](https://www.invisionapp.com/), sign up and make an account. 
+	* Look into design libraries that you can borrow to help design your products or prototypes, like [Facebook](https://en.facebookbrand.com/). Don't reinvent the wheel. 
+	* Let me know whether you are interested in being part of the degree show. 
+	* Post some inspiration on the degree show [slack](https://raveweb.slack.com/messages/degree-show/team/jonny/) or [GoogleDoc](https://docs.google.com/document/d/1g9ifo6is4V87J-tVJ6yLE4JzjbYWaRprA6RsJmLjCyc/edit). 
+
+
+
+

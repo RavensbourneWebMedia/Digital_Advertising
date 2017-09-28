@@ -6,6 +6,7 @@
 2. Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
 3. Intro: [D&AD New Blood Briefs](#d&ad-new-blood-briefs)  
 4. Workshop: [Breaking Down A Brief](#workshop-breaking-down-a-brief)
+5. Housekeeping: Where do you blog? What do you host? Pop these in this [googledoc] (https://docs.google.com/spreadsheets/d/1UmrIu1Am9zldfDFPc6O5JpzulP3A7LAZG0EcaJSleXo/edit?usp=sharing)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -13,7 +14,7 @@
 # Welcome
 
 1. [What is this course about?](../../README.md)
-2. [What's the plan?](../../README.md#plan) Make sure you subscribe to the [calendar feed](https://www.google.com/calendar/ical/rave.ac.uk_agop0ff7kdgdc289jdrl5021gs%40group.calendar.google.com/public/basic.ics)! 
+2. [What's the plan?](../../README.md#plan) 
 3. [What can you learn?](../../README.md#learning-goals)
 4. Keeping a **journal** to record your creative process is *extremely* important. Don't let your ideas and thoughts fade away! Think of your project blog as your **digital sketchbook**. More on that [here](https://github.com/RavensbourneWebMedia/Blogging#why-blogging).
 5. Reading lists and perusing the library (I'll also share some PDFs).
