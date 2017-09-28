@@ -175,7 +175,7 @@ Choose the **D&AD Brief** that you will respond to for this unit from the list b
 
 Or write your own brief and:
 
-<li>Create **20 concepts / ideas** for a campaign that responds to your chosen brief. 
+<li>Create _20 concepts / ideas_ for a campaign that responds to your chosen brief. 
 
 <li>Choose the **3 strongest** ideas and explain how they "stand out". 
 
@@ -187,6 +187,6 @@ Or write your own brief and:
 
 <li> Watch Seth Godin’s TED talk on [How to get your ideas to spread.](https://www.ted.com/talks/seth_godin_on_sliced_bread) and reflect on the content of the lecture and key themes. Note your thoughts on the lecture and how this might relate to your own work. 
 
-<li>Choose 3 "stand out" digital advertising campaigns and explain what makes them "remarkable" in comparison to other campaigns. 
+<li>Choose 3 **stand out** digital advertising campaigns and explain what makes them "remarkable" in comparison to other campaigns. 
 
 
