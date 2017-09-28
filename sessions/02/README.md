@@ -59,7 +59,7 @@ Some words of wisdom from creative advertising professionals:
 
 * Always refer back to the brief to avoid creative misjudgement and make sure you answer it. Have your concepts answered the **heart** of your brief that we discovered last session?
 * Don't go with the obvious idea. Other people will go the same way.
-* Insight or rich understanding of the target audience should be a core factor in your work. Will your idea appeal to them? through which channels?
+* Insight or rich understanding of the target audience should be a core factor in your work. Will your idea appeal to them? Through which channels?
 * Know what has been done before by the brand and its competitors.
 * Test your idea on people to see if they would actually do it / react to it. 
 * Focus on distilling the idea and explaining it succinctly. Then elaborate.
@@ -76,8 +76,8 @@ You would think it's time to elaborate on your ideas and turn them into visuals.
 First we are going to define:
 
 1. **What** is your idea?
-* **Who** is it for?
-* **Why** is it needed or wanted? / What problem does it solve?
+2. **Who** is it for?
+3. **Why** is it needed or wanted? / What problem does it solve?
 
 Your pitches don't have to be statements, they could start with questions or scenarios like, 
 
@@ -91,7 +91,7 @@ Be imaginative.
 
 Develop your answers to the 3 questions above into an *[elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)*: a short and sharp communication that shouldn't take more than 30 seconds to tell!
 
-Write your elevator pitch(es) the GDocs that I have shared with the class under your name. 
+What are your pitches? Let's share these with each other.  
 
 Now that we have condensed your ideas so they are crystal clear, we are going to get visual. 
 
@@ -115,7 +115,7 @@ An example from a 2016 student:
 
 1. Individually, or in your small groups, sketch out a one-page pitch document (15 minutes).
 * Discuss it with your team mate or the person sitting next to you. How does your sketch illustrate your idea? (15 minutes).
-* Share your sketches with me via email. 
+* Photograph your sketches and share your sketches with me via email. 
 
 # Homework
 
@@ -127,7 +127,7 @@ An example from a 2016 student:
 
 3. Digitise your concept one pager, add detail and try to communicate your idea consisely.
 
-4. Bring this ready for tutorials on your idea next week. 
+4. Bring this ready for tutorials on your idea in the next session. 
 
 5. You are free to bring more than one version if you wish but you will be capped at 3. 
 
@@ -136,13 +136,13 @@ An example from a 2016 student:
 
 ![] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/moodboard.jpg) 
 
-Read [How to Make a Moodboard] (https://blog.filestage.io/make-brilliant-mood-board/) and reflect on the article.  
+Read [How to Make a Moodboard](https://blog.filestage.io/make-brilliant-mood-board/) and reflect on the article.  Tough on the following points in your blog post:
 
-What you think creatives can acheive by presenting moodboards to clients? 
+* What you think creatives can acheive by presenting moodboards to clients? 
 
 Now create a moodboard to accompany your concept one pager. 
 
-How does your selection of images / video help contextualise your concept? 
+* How does your selection of images / video help contextualise your concept? 
 
-How does it speak your audience and the brand that you are working with?
+* How does it speak your audience and the brand that you are working with?
 
