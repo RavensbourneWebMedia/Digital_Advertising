@@ -14,7 +14,7 @@
 
 # Lecture Advertising Practices and Principles
 
-This weeks lecture will focus on [Advertising Practices and Principles.] (02/Week 2 Advertising Principles Practices.pdf)
+This weeks lecture will focus on [Advertising Practices and Principles.](02/Week 2 Advertising Principles Practices.pdf)
 
 Lets take a break. 
 
