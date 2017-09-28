@@ -1,68 +1,45 @@
-# Week 8
+# Week 9
 
-## Today, Thursday 2nd March 2017
+### Today, Thursday 9th March 2017
 
-1. Review: Hand Ins for Course & D&AD
-* What is a Reserach Folder? 
-* Tutorials.
+1. Lecturing: [Viral Marketing](#viral-marketing)
+* [Tutorials](#tutorials) on *Your Advertising Campaigns*
 
-### Your [homework](#homework) and [blog](#blog)
+#### Your [homework](#homework) and [blog](#blog)
 
+# Viral Marketing
 
-## Review: Hand Ins for Course & D&AD
+This week we will look at viral marketing and how you can create campaign elements that people will share organically. 
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/08/keep-calm-and-meet-deadline-1.png)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/09/Viral_Marketing_Image.jpg)
 
-Let's review the hand ins for this [digital advertsing course.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) 
-
-In addition, let's think about the hand ins for your D&AD awards. Find your [brief](https://www.dandad.org/en/d-ad-new-blood-awards/) and look at the deliverables. We will discuss these in tutorials later. 
-
-## What is a Research Folder?
-
-We have talked briefly about a research folder that should accompany your project work. 
-
-Let's look at some examples from last years students. 
-
-[Innocent Sekajja](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Innocent%20Sekajja_106690_assignsubmission_file_Research-Crimewatch-Innocent%20Sekajja.pdf)
-
-[Liam Parker](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Liam%20Parker_106694_assignsubmission_file_WWF%20Research%20Folder.pdf)
-
-[Matthew Starr](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Matthew%20Starr_106689_assignsubmission_file_ProjectResearch.pdf)
+[Full lecture notes.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/09/Digital_Advertising-viralmarketing.compressed.pdf)
 
 
-## Tutorials 
+# Tutorials
 
-I would like to dedicate the rest of the session to tutorials. 
+Last week you worked with the productivity planner to map out the remaining tasks you needed to finish for this project. This week we will review that work and make a final list of tasks before summative next week. 
 
-Let's try and see everyone before the end of the session. 
+![Productivity Planner](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/09/Weekly_Planner_Image.jpg)
 
-We will be reviewing the work that we have been doing each week on the course including:
+[Download Here](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/08/Productivity%20Planner.pdf)
 
-1. **Initial Concepts** and how these developed into your final idea. How these relate to your brief. 
-* **Pitch documents** or **one pagers.**
-* **Moodboards** and how you planned a visual identity.  
-* **Target Market Research** and how this has educated you about your audience.  
-* **Campaign Plans** and how your media will work acrss both channels, territories and time. 
-* Any **articles** that have helped inform your work. 
-* **Campaign identity** including colour pallets, fonts, layouts, media chioces, grahic style and image making. 
+# Homework
 
-### Homework & Blog (Combined this week)
+### Prepare summative 
 
-You have 14 days until summative. Lets really step up a gear and focus on what you want to achieve with the rest of the unit. 
+Tweak *all* your work in this unit so that you can **present** it next week during the *summative assessment*. 
 
-In order to do this, we are going to use a [**productivity planner**](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/08/Productivity%20Planner.pdf)
+Check the [deliverables for the unit](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) and make sure that you have everything prepaired for hand in on Sunday 19th March. 
 
-* Task one: Read the proudctivity planner above. 
-* Use the sheets at the end of the pack to plan out tasks for each of the days of the next week. Make these achievable tasks. Some easy, some hard. 
-* Each day work through the tasks you have set yourself. Asign any incomplete tasks to another day. 
+### Blog
 
-### Blog 
+Make a New Weekly Planner documenting the work that you need to do this week. 
 
-* Blog about what you have planned for each day of the week. Add the sheets that you have set yourself. 
-* Reflect at the end of the week about this process, did it work well? Not so well?
-* Reflect on what you achieved this week on your project. How and what did you push forwards?
+Use your blog post to reflect on the process of completeing the work that you have on your planner. 
 
+Add images, show your project development and comment on the work that you have undertaken to get your project to summative presentation. 
 
+Make sure that you also work on your Research Folder. 
 
-
-
+Good Luck. 
