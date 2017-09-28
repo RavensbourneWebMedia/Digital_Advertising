@@ -3,11 +3,11 @@
 ### Monday 16th October 2017
 
 1. [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) 
-* [Why 20 concepts: McDonald's theory.](#why-20-concepts-mcdonalds-theory) 
-* Show and Tell: Top 3 brief concepts.  
-* Creative Concepts: Some pointers from Industry.
-* [Elevator pitch](#elevator-pitch)
-* Pitch Document / one-pager
+2. [Why 20 concepts: McDonald's theory.](#why-20-concepts-mcdonalds-theory) 
+3. Show and Tell: Top 3 brief concepts.  
+4. Creative Concepts: Some pointers from Industry.
+5. [Elevator pitch](#elevator-pitch)
+6. Pitch Document / one-pager
 
 ### Your [homework](#homework) and [blog](#blog)!
 
