@@ -86,4 +86,4 @@ By answering these questions we should be able to build up an idea of who our ta
 
 ### Blog 
 
-**Individually**, watch the TED talk [Rory Sutherland's Life lessons from an ad man] (https://www.ted.com/talks/rory_sutherland_life_lessons_from_an_ad_man#t-15415) and blog about the value that advertising can add to products without changing the products themselves. 
+**Individually**, watch the TED talk [Rory Sutherland's Life lessons from an ad man](https://www.ted.com/talks/rory_sutherland_life_lessons_from_an_ad_man#t-15415) and blog about the value that advertising can add to products without changing the products themselves. 
