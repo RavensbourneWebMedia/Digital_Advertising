@@ -1,6 +1,6 @@
 # Week 1
 
-### Thursday 12th January 2017
+### Monday 2nd October 2017
 
 1. [Welcome](#welcome) :)
 2. Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
@@ -13,10 +13,10 @@
 # Welcome
 
 1. [What is this course about?](../../README.md)
-* [What's the plan?](../../README.md#plan) Make sure you subscribe to the [calendar feed](https://www.google.com/calendar/ical/rave.ac.uk_agop0ff7kdgdc289jdrl5021gs%40group.calendar.google.com/public/basic.ics)! 
-* [What can you learn?](../../README.md#learning-goals)
-* Keeping a **journal** to record your creative process is *extremely* important. Don't let your ideas and thoughts fade away! Think of your project blog as your **digital sketchbook**. More on that [here](https://github.com/RavensbourneWebMedia/Blogging#why-blogging).
-* Reading lists and perusing the library (I'll also share some PDFs).
+2. [What's the plan?](../../README.md#plan) Make sure you subscribe to the [calendar feed](https://www.google.com/calendar/ical/rave.ac.uk_agop0ff7kdgdc289jdrl5021gs%40group.calendar.google.com/public/basic.ics)! 
+3. [What can you learn?](../../README.md#learning-goals)
+4. Keeping a **journal** to record your creative process is *extremely* important. Don't let your ideas and thoughts fade away! Think of your project blog as your **digital sketchbook**. More on that [here](https://github.com/RavensbourneWebMedia/Blogging#why-blogging).
+5. Reading lists and perusing the library (I'll also share some PDFs).
 
 
 # A Brief History of Advertising
