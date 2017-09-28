@@ -53,7 +53,7 @@ A copy of these briefs can be found on the unit page on [moodle] (TODO: Add link
 * Breaking down your work into the following sections; Art-direction, concepting and copywriting, produce several solutions for brief. 
 * Develop the best solutions that address the brief and the demographic so that you have the following documents for assessments.
 
-## For Formative Presentation: Monday 20th November in Lecture hours**
+## For Formative Presentation: Monday 20th November in Lecture hours
 
 Students/teams will outline their chosen brief, their target audience insights and pitch their idea in presentation form.
 
@@ -64,20 +64,20 @@ This should incude:
 * Moodboard.
 * Outline Campaign Plan. 
 
-## For Formative Hand In: Monday 20th November before 4PM**
+## For Formative Hand In: Monday 20th November before 4PM
 
 * A finished client-brief (A single A4 PDF)
 * Initial concept boards and mood-boards that outline the market (Max 3 xA4 PDF)
 * Outline campaign plan (A4 PDF/keynote/PowerPoint)
 * Presentation (A4 PDF/Keynote/PowerPoint)
 
-## For Summative Presentation: Monday 11th December in Lecture hours**
+## For Summative Presentation: Monday 11th December in Lecture hours
 
 Students/teams will give their final pitch in a presentation form.
 
 Those not presenting will note feedback for their peers. 
 
-## For Summative Hand in: Monday 11th December before 4PM**
+## For Summative Hand in: Monday 11th December before 4PM
 
 Students will use the moodle links to submit: 
 
