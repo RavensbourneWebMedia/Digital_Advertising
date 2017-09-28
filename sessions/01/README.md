@@ -86,8 +86,8 @@ Let's take 3 mins to read through our briefs before sharing them.
 
 Now that we have heard each brief, which will you choose? Consider:
 
-<ul><li>Which briefs spark ideas in your minds / seem to be engaging? Advertising is all about the creative idea!
-<li> Which briefs call for a digial response? Are there any breifs that rules this out? 
+* Which briefs spark ideas in your minds / seem to be engaging? Advertising is all about the creative idea!
+* Which briefs call for a digial response? Are there any breifs that rules this out? 
 
 **Words of Wisdon**
 
@@ -156,37 +156,34 @@ Working on your own or in your chosen group of 2:
 
 Choose the **D&AD Brief** that you will respond to for this unit from the list below:
 
-<ul><li>Adobe
-<li>Amazon
-<li>Arjowiggins
-<li>BBC 
-<li>Crowne Plazaa
-<li>Desperados
-<li>Hasbro
-<li>John Lewis
-<li>Monotype
-<li>MUBI
-<li>Nationwide
-<li>Pearson
-<li>Respect for Animals
-<li>Squarespace
-<li>The British Army
-<li>The National Autistic Society
+- Adobe
+- Amazon
+- Arjowiggins
+- BBC 
+- Crowne Plazaa
+- Desperados
+- Hasbro
+- John Lewis
+- Monotype
+- MUBI
+- Nationwide
+- Pearson
+- Respect for Animals
+- Squarespace
+- The British Army
+- The National Autistic Society
 
 Or write your own brief and:
 
-<li>Create _20 concepts / ideas_ for a campaign that responds to your chosen brief. 
-
-<li>Choose the **3 strongest** ideas and explain how they "stand out". 
-
-<li>Detail how these 3 respond to the **heart** of the brief that you've chosen. 
-
-<li>Bring your 3 ideas ready to explain to the class next week. You will have **max 2 minutes** to explain each idea. 
+- Create 20 concepts / ideas for a campaign that responds to your chosen brief. 
+- Choose the **3 strongest ideas** and explain how they "stand out". 
+- Detail how these 3 respond to the **heart** of the brief that you've chosen. 
+- Bring your **3 ideas** ready to explain to the class next week. You will have max **2 minutes** to explain each idea. 
 
 ### Blog 
 
-<li> Watch Seth Godin’s TED talk on [How to get your ideas to spread.](https://www.ted.com/talks/seth_godin_on_sliced_bread) and reflect on the content of the lecture and key themes. Note your thoughts on the lecture and how this might relate to your own work. 
+Watch Seth Godin’s TED talk on [How to get your ideas to spread] (https://www.ted.com/talks/seth_godin_on_sliced_bread) and reflect on the content of the lecture and key themes. Note your thoughts on the lecture and how this might relate to your own work. 
 
-<li>Choose 3 **stand out** digital advertising campaigns and explain what makes them "remarkable" in comparison to other campaigns. 
+Choose 3 **stand out** digital advertising campaigns and explain what makes them "remarkable" in comparison to other campaigns. 
 
 
