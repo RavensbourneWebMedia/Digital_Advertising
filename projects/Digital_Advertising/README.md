@@ -27,21 +27,21 @@ If writing your own or using a bespoke brief, please finalise first with your tu
 This year there were 16 briefs put forward by the following industy leaders:
 
 1. Adobe
-* Amazon
-* Arjowiggins
-* BBC 
-* Crowne Plazaa
-* Desperados
-* Hasbro
-* John Lewis
-* Monotype
-* MUBI
-* Nationwide
-* Pearson
-* Respect for Animals
-* Squarespace
-* The British Army
-* The National Autistic Society
+2. Amazon
+3. Arjowiggins
+4. BBC 
+5. Crowne Plazaa
+6. Desperados
+7. Hasbro
+8. John Lewis
+9. Monotype
+10. MUBI
+11. Nationwide
+12. Pearson
+13. Respect for Animals
+14. Squarespace
+15. The British Army
+16. The National Autistic Society
 
 A copy of these briefs can be found on the unit page on [moodle] (TODO: Add link here)
 
@@ -96,7 +96,7 @@ Students will use the moodle links to submit:
 
 #### 3. A Pitch Presentation (Supplied as **both** PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT). 
 
-> Please remember to supply versions of your presentations that are easily opened for unit assessment. It is your responsibility to make sure that markers can see your work. 
+*  Please remember to supply versions of your presentations that are easily opened for unit assessment. It is your responsibility to make sure that markers can see your work. 
 
 #### 4. A Blog Log (1 x A4 PDF Only) containing links to the blog posts that you have published each week for the course. 
 
