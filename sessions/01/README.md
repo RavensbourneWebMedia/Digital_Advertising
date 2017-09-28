@@ -49,7 +49,7 @@ Why repond to one of the the D&AD briefs?
 * Good opportunity to make a project of a high standard for the degree show. 
 
 
-##The Briefs 
+## The Briefs 
 
 ![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/assets/DAD_Award_New-Blood.jpg) 
 
