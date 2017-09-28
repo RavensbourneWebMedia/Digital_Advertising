@@ -95,9 +95,9 @@ Now that we have heard each brief, which will you choose? Consider:
 
 Wise words from previous advertising industry professionals tackeling D&AD briefs:
 
-<ul><li> **The idea is King.** Spent time thinking about what to suggest for your brief. 
-<li>**Treat Tech with Caution.** This will be key for us as our responses will be digital. Let's make sure we have good reasons for using the web / mobile app / online platforms. Explain these clearly. 
-<li> **Tell A Story** Stories are a powerful tool in human communication. Tap into this wherever possible with your campaign. 
+1. **The idea is King.** Spent time thinking about what to suggest for your brief. 
+2. **Treat Tech with Caution.** This will be key for us as our responses will be digital. Let's make sure we have good reasons for using the web / mobile app / online platforms. Explain these clearly. 
+3. **Tell A Story** Stories are a powerful tool in human communication. Tap into this wherever possible with your campaign. 
 
 We will touch on these points in more depth later in the course but using these early to help craft your concepts will be useful. 
 
