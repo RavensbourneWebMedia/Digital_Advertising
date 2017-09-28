@@ -116,7 +116,7 @@ Before we start, read your brief one more time so it's fresh in your mind.
 
 Reread your brief but think about the **essential** points are, what **specific words communicate** and key pieces of info that **stand out**. Highlight them.
 
-You are not going to break down the brief into just 16 words. These 16 words should communicate what the brief is asking you to do. Imagine you are giving this to someone instead of the full brief. How can you get them to understand what the task is in the same way but in only 16 words? Pull in any of the specific info or words you highlighted to help you.
+You are now going to break down the brief into just 16 words. These 16 words should communicate what the brief is asking you to do. Imagine you are giving this to someone instead of the full brief. How can you get them to understand what the task is in the same way but in only 16 words? Pull in any of the specific info or words you highlighted to help you.
 
 Note down your 16 words only. 
 
