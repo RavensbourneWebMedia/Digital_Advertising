@@ -3,9 +3,9 @@
 ### Thursday 12th January 2017
 
 1. [Welcome](#welcome) :)
-* Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
-* Intro: [D&AD New Blood Briefs](#d&ad-new-blood-briefs)  
-* Workshop: [Breaking Down A Brief](#workshop-breaking-down-a-brief)
+2. Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
+3. Intro: [D&AD New Blood Briefs](#d&ad-new-blood-briefs)  
+4. Workshop: [Breaking Down A Brief](#workshop-breaking-down-a-brief)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -155,8 +155,6 @@ As you work on ideas for your brief, refer back and ask, "Is my idea / campaign 
 
 Working on your own or in your chosen group of 2:
 
-Sign up to take part in the 2017 [D&AD New Blood Competition] (http://www.dandad.org/?next=/). Ravensbourne will pay for your entries if you want to make a submission at the end of the course :).
-
 Choose the **D&AD Brief** that you will respond to for this unit from the list below:
 
 <ul><li>Adobe
@@ -180,15 +178,15 @@ Or write your own brief and:
 
 <li>Create **20 concepts / ideas** for a campaign that responds to your chosen brief. 
 
-<li>Choose the **5 strongest** ideas and explain how they "stand out". 
+<li>Choose the **3 strongest** ideas and explain how they "stand out". 
 
-<li>Detail how these 5 respond to the **heart** of the brief that you've chosen. 
+<li>Detail how these 3 respond to the **heart** of the brief that you've chosen. 
 
-<li>Bring your 5 ideas ready to explain to the class next week. You will have **max 2 minutes** to explain each idea. 
+<li>Bring your 3 ideas ready to explain to the class next week. You will have **max 2 minutes** to explain each idea. 
 
 ### Blog 
 
-<li> Watch Seth Godin’s TED talk on [**How to get your ideas to spread.**] (https://www.ted.com/talks/seth_godin_on_sliced_bread) and reflect on the content of the lecture and key themes. Note your thoughts on the lecture and how this might relate to your own work. 
+<li> Watch Seth Godin’s TED talk on [How to get your ideas to spread.](https://www.ted.com/talks/seth_godin_on_sliced_bread) and reflect on the content of the lecture and key themes. Note your thoughts on the lecture and how this might relate to your own work. 
 
 <li>Choose 3 "stand out" digital advertising campaigns and explain what makes them "remarkable" in comparison to other campaigns. 
 
