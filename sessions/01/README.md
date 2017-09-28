@@ -6,7 +6,7 @@
 2. Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
 3. Intro: [D&AD New Blood Briefs](#d&ad-new-blood-briefs)  
 4. Workshop: [Breaking Down A Brief](#workshop-breaking-down-a-brief)
-5. Housekeeping: Where do you blog? What do you host? Pop these in this [googledoc] (https://docs.google.com/spreadsheets/d/1UmrIu1Am9zldfDFPc6O5JpzulP3A7LAZG0EcaJSleXo/edit?usp=sharing)
+5. Housekeeping: Where do you blog? What do you host? Pop these in this [googledoc](https://docs.google.com/spreadsheets/d/1UmrIu1Am9zldfDFPc6O5JpzulP3A7LAZG0EcaJSleXo/edit?usp=sharing)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
