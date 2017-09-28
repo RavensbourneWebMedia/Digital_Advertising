@@ -14,15 +14,15 @@
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Degree_Show_1_Small.png)
 
-The Ravensbourne Degree Show 2017 will be June. There will be a Web Media private view as part of the degree show. 
+The Ravensbourne Degree Show 2018 will be June. There will be a Web Media private view as part of the degree show. 
 
-In previous years the web media room has looked a little inconsistant whereas the degree show standard is very high. 
+The degree show standard is very high across the university and last years web media year made a real impression with a branded room top to toe. 
 
 There is Ravensbourne budget to help put up your stands and set up the room so I would like to propose that we work together to design the room for this year. 
 
 [![IMAGE ALT TEXT HERE](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/The_degree_show.jpg)](https://www.youtube.com/watch?v=d2dykZFiHmo)
 
-[Examples of stands 2015/2016.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Web_Media_Degree_Show_Mini_Lecture.pdf)
+[Examples of stands 2015/2016.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Web_Media_Degree_Show_Mini_Lecture.pdf)
 
 
 # The Creative Process
@@ -31,7 +31,7 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 
 This weeks lecture will take us through the typical creative process followed in advertising agencies. 
 
-[Advertising Agencies: The Creative Process] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Digital%20Advertising%202016%20Lecture%203%20Creative%20Process.pdf)
+[Advertising Agencies: The Creative Process](/03/Digital%20Advertising%202016%20Lecture%203%20Creative%20Process.pdf)
 
 
 Let's take a break!
