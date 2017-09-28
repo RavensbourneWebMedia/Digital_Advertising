@@ -14,8 +14,6 @@ In particular, you will:
 
 # Plan
 
-### [Subscribe to the calendar!](https://www.google.com/calendar/ical/rave.ac.uk_agop0ff7kdgdc289jdrl5021gs%40group.calendar.google.com/public/basic.ics)
-
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
 [Thursday<br>12.01](sessions/01)| <ul><li>Welcome <li>Lecture: [**A Brief History of Advertising**](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/Brief_History_of_Advertising_2016_Morning_Session.pdf) <li> Intro: DA&D Briefs 2017<li>Workshop: [**Breaking Down The Brief**](#workshop-breaking-down-a-brief) | <ul><li>Select your brief.<li>Create 20 ideas.<li>Choose your top 5, explain why they stand out and how they respond to the "heart" of your brief.  | <ul> <li>Watch Seth Godin’s TED talk on [How to get your ideas to spread](https://www.ted.com/talks/seth_godin_on_sliced_bread) <li> Choose 3 "stand out" digital advertising campaigns and explain what makes them "remarkable". 
