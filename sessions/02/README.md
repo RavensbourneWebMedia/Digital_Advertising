@@ -15,7 +15,7 @@
 # Lecture Advertising Practices and Principles
 
 
-![advertising practices and principles](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/Ideation.JPG "Logo Title Text 1")
+![advertising practices and principles](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/02/Ipod.jpg)
 
 This weeks lecture will focus on [Advertising Practices and Principles.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/02/Week%202%20Advertising%20Principles%20%20Practices.pdf)
 
