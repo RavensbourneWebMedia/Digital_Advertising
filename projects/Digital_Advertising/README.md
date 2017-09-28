@@ -102,8 +102,8 @@ Students will use the moodle links to submit:
 
 This blog log will contain posts on:
 
-* Week 1: [Seth Godin's How to Get Your Ideas to Spread.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/01#homework)
-* Week 2: [Moodboards.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/02#homework)
+* Week 1: [Seth Godin's How to Get Your Ideas to Spread.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/sessions/01#homework)
+* Week 2: [Moodboards.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/sessions/02#homework)
 * Week 3: TBC
 * Week 4: [Reflective: Course Work so far.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/04#homework) 
 * Week 5: [Reflective: Formative Feedback](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/05#homework)
