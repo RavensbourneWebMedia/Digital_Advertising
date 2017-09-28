@@ -69,6 +69,8 @@ We are going to focus on the last 2 pieces of this advice and work on clear comm
 
 # Elevator pitch
 
+![Interactive events concepts 1](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/02/tenor%202.gif)
+
 ### What are the next steps?
 
 You would think it's time to elaborate on your ideas and turn them into visuals. Not quite!
