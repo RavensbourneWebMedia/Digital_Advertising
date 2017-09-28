@@ -7,12 +7,15 @@
 * Show and Tell: Top 3 brief concepts.  
 * Creative Concepts: Some pointers from Industry.
 * [Elevator pitch](#elevator-pitch)
-* [Pitch Document / one-pager]
+* Pitch Document / one-pager
 
 ### Your [homework](#homework) and [blog](#blog)!
 
 
 # Lecture Advertising Practices and Principles
+
+
+![advertising practices and principles](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/Ideation.JPG "Logo Title Text 1")
 
 This weeks lecture will focus on [Advertising Practices and Principles.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/02/Week%202%20Advertising%20Principles%20%20Practices.pdf)
 
