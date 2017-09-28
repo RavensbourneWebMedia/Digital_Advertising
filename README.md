@@ -12,6 +12,8 @@ In particular, you will:
 * Learn how to **evaluate and refine** your ideas into a creatively compelling and clearly communicated campaign. 
 * Leanr how the use of the web and social media can help to **spread creative ideas** quickly around the globe. 
 
+If you would like to read the full unit brief, this can be found on [moodle](TO:DO Add link to Moodle)
+
 # Plan
 
 When | In class | Homework | Blog 
@@ -35,11 +37,11 @@ Thursday<br>16.02| <ul><li>**Enhancement Week**|
 By the end of this course, you will be able to:
 
 1. Use your web-skills to make a **whole marketing campaign** conveying one strong storytelling message. 
-* Use your knowledge of advertising and marketing to create integratied concepts for conventional and new media applications.
-* Use self-initiative and good judgement to produce work to a high professional standard that balances academic and competition requirements.
-* Use editorial judgement to select strong ideas, the correct platform and approach for commercial advertising campaigns.
-* Design an integrated solutions that combine ideas with cross-media strategies, Web 2.0 and traditional technologies in a compelling integrated campaign.
-* Apply art-direction and copywriting skills associated with advertising and marketing to your web based projects.
+2. Use your knowledge of advertising and marketing to create integratied concepts for conventional and new media applications.
+3. Use self-initiative and good judgement to produce work to a high professional standard that balances academic and competition requirements.
+4. Use editorial judgement to select strong ideas, the correct platform and approach for commercial advertising campaigns.
+5. Design an integrated solutions that combine ideas with cross-media strategies, Web 2.0 and traditional technologies in a compelling integrated campaign.
+6. Apply art-direction and copywriting skills associated with advertising and marketing to your web based projects.
 
 
 
