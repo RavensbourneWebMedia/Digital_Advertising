@@ -51,8 +51,6 @@ Why repond to one of the the D&AD briefs?
 
 ## The Briefs 
 
-![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/assets/DAD_Award_New-Blood.jpg) 
-
 This year we will work with 16 briefs put forward by the following industy leaders:
 
 1. Adobe
@@ -92,6 +90,8 @@ Now that we have heard each brief, which will you choose? Consider:
 <li> Which briefs call for a digial response? Are there any breifs that rules this out? 
 
 **Words of Wisdon**
+
+![] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/01/assets/ogilvy_quote.jpg)
 
 Wise words from previous advertising industry professionals tackeling D&AD briefs:
 
