@@ -53,7 +53,7 @@ What was the most challenging thing about describing your ideas?
 
 What was the most challenging part of coming up with your concepts? 
 
-#Creative Concepts: Some pointers from Industry.
+## Creative Concepts: Some pointers from Industry.
 
 Some words of wisdom from creative advertising professionals:
 
