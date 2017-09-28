@@ -1,6 +1,6 @@
 # Week 7
 
-### Today, Thursday 23rd February 2017
+### Monday 27th November 
 
 1. Lecture: [Omnichannel Advertising Campaigns.](#OmnichannelAdvertisingCampaigns.)
 *  Lecture: D&AD Winners 2016

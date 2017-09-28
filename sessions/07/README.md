@@ -1,6 +1,6 @@
 # Week 9
 
-### Today, Thursday 9th March 2017
+### Monday 4th December
 
 1. Lecturing: [Viral Marketing](#viral-marketing)
 * [Tutorials](#tutorials) on *Your Advertising Campaigns*

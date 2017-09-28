@@ -1,6 +1,6 @@
 # Week 3
 
-### Today, Thursday 26th January 2017
+###  Monday 30th October 2017
 
 1. Overview of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
 * Mini Presenation: [The Degree Show](#the-degree-show)

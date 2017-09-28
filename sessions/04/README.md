@@ -1,6 +1,6 @@
 # Week 4
 
-### Today, Thursday 2nd February 2017
+### Monday 13th November
 
 1. Recap of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
 * Lecture: [Multi Channel vs Omni Channel Advertising](#multi-channel-vs-omni-channel-advertising)

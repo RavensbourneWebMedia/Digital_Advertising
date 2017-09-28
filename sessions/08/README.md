@@ -1,6 +1,6 @@
 # Week 10
 
-### Today, Wednesday 2nd December 2015
+### Monday 11th December
 
 1. [**Summative presentations**](#summative-presentations)
 * Final [hand-in](#hand-in-package) of [project work](#projects), [presentations](#presentations) and [blog posts](#blog-posts) 
