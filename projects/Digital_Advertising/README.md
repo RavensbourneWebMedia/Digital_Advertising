@@ -2,7 +2,7 @@
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Think_Small.jpg) 
 
-###This is a **individual** or **team project for two** about creating a *digital advertising campaign*.
+### This is a **individual** or **team project for two** about creating a *digital advertising campaign*.
 
 During the course you will choose an industry brief and produce a creative campaign that is...
 
