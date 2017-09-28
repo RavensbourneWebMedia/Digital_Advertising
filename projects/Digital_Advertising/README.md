@@ -24,7 +24,7 @@ If writing your own or using a bespoke brief, please finalise first with your tu
 
 ![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/assets/DAD_Award_New-Blood.jpg) 
 
-This year there are 16 briefs put forward by the following industy leaders:
+This year there were 16 briefs put forward by the following industy leaders:
 
 1. Adobe
 * Amazon
@@ -43,9 +43,7 @@ This year there are 16 briefs put forward by the following industy leaders:
 * The British Army
 * The National Autistic Society
 
-You will need to sign up for the [D&AD New Blood Competition] (http://www.dandad.org/?next=/) to enter and view the briefs from home before you make a submission at the end of term. 
-
-Ravensbourne will be able to cover the cost of your entry if you choose to submit an entry. 
+A copy of these briefs can be found on the unit page on [moodle] (TODO: Add link here)
 
 **Note**, some briefs may be more relevant than others as we will be working toward making a **digital campaign or product** as a response. 
 
@@ -55,7 +53,7 @@ Ravensbourne will be able to cover the cost of your entry if you choose to submi
 * Breaking down your work into the following sections; Art-direction, concepting and copywriting, produce several solutions for brief. 
 * Develop the best solutions that address the brief and the demographic so that you have the following documents for assessments.
 
-##**For Formative Presentation: Thursday 9th Feb 2017 in Lecture hours**
+##**For Formative Presentation: Monday 20th November in Lecture hours**
 
 Students/teams will outline their chosen brief, their target audience insights and pitch their idea in presentation form.
 
@@ -66,22 +64,20 @@ This should incude:
 * Moodboard.
 * Outline Campaign Plan. 
 
-Students will then have some time to modify their projects to reflect any feedback before the formative online submission. 
-
-##**For Formative Hand In: Sunday 12th Feb 2017 before 23:50PM**
+##**For Formative Hand In: Monday 20th November before 4PM**
 
 * A finished client-brief (A single A4 PDF)
 * Initial concept boards and mood-boards that outline the market (Max 3 xA4 PDF)
 * Outline campaign plan (A4 PDF/keynote/PowerPoint)
 * Presentation (A4 PDF/Keynote/PowerPoint)
 
-##**For Summative Presentation: Thursday 16th March 2017 in Lecture hours**
+##**For Summative Presentation: Monday 11th December in Lecture hours**
 
 Students/teams will give their final pitch in a presentation form.
 
 Those not presenting will note feedback for their peers. 
 
-##**For Summative Hand in: Sunday 19th March 2017 before 23:50PM**
+##**For Summative Hand in: Monday 11th December before 4PM**
 
 Students will use the moodle links to submit: 
 
@@ -100,8 +96,6 @@ Students will use the moodle links to submit:
 
 ####3. A Pitch Presentation (Supplied as **both** PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT). 
 
-> This may be modified after summative presentation to reflect any feedback received in the session. 
-
 > Please remember to supply versions of your presentations that are easily opened for unit assessment. It is your responsibility to make sure that markers can see your work. 
 
 ####4. A Blog Log (1 x A4 PDF Only) containing links to the blog posts that you have published each week for the course. 
@@ -110,7 +104,7 @@ This blog log will contain posts on:
 
 * Week 1: [Seth Godin's How to Get Your Ideas to Spread.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/01#homework)
 * Week 2: [Moodboards.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/02#homework)
-* Week 3: [Rory Sutherland's Life Lessons from an Ad Man](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/03#homework)
+* Week 3: TBC
 * Week 4: [Reflective: Course Work so far.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/04#homework) 
 * Week 5: [Reflective: Formative Feedback](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/05#homework)
 * Week 6: [Analyse 2 previous D&AD New Blood 2016 Winners.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/07#homework)
