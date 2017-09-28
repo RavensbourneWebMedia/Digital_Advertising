@@ -47,7 +47,7 @@ Also show us your sketches/scribbled concepts for your 20 ideas. Tell us how you
 
 You will have 6 minutes per team / individual. 
 
-# Reflection: 
+**Reflection:** 
 
 What was the most challenging thing about describing your ideas? 
 
