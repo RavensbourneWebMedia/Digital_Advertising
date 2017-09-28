@@ -24,9 +24,9 @@ When | In class | Homework | Blog
 [Monday<br>13.11](sessions/04) |  <ul> <li> TBC |<ul> <li>TBC | <ul> <li>TBC 
 [Monday<br>20.11](sessions/05)| <ul><li>**Formative assessment**: In class.<li>Formative Assessment: Moodle submission. | <ul> <li> Gather and reflect on your formative feedback.<li> Make a plan showing how you will modify your project over the next 4 weeks. | Formative Assessment. 
 [Monday<br>27.11](sessions/07)| <ul> <li>TBC | <ul> <li>TBC | <ul> <li>TBC 
-[TBC<br>TBC](sessions/08)| <ul> <li>TBC <li>Tutorials |  <ul> <li>TBC | <ul> <li>TBC
+[TBC](sessions/08)| <ul> <li>TBC <li>Tutorials |  <ul> <li>TBC | <ul> <li>TBC
 [Monday<br>04.12](sessions/09)| <ul><li>Recap of Summative Submissions<li>How to submit a DA&D project.<li> Summative Prep / last tutorials | <ul><li>Prepare summative (tweak your work) | <ul><li>TBC
-[Monday<br>11.12](sessions/10) Sunday 19.03| <ul><li>**Summative assessment**: In class. <li> Summative assessment: Moodle submission. | <ul><li>Prepare and tweak your written submissions based on summative assessment. | Check all blog posts are complete.
+[Monday<br>11.12](sessions/10)| <ul><li>**Summative assessment**: In class. <li> Summative assessment: Moodle submission. | <ul><li>Prepare and tweak your written submissions based on summative assessment. | Check all blog posts are complete.
 
 <!-- <li>Workshop: how to present your work -->
 
