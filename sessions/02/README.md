@@ -1,6 +1,6 @@
 # Week 2
 
-### Today, Thursday 19th January 2017
+### Monday 16th October 2017
 
 1. [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) 
 * [Why 20 concepts: McDonald's theory.](#why-20-concepts-mcdonalds-theory) 
@@ -14,7 +14,7 @@
 
 # Lecture Advertising Practices and Principles
 
-This weeks lecture will focus on [Advertising Practices and Principles.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/Week%202%20Advertising%20Principles%20%20Practices.pdf)!
+This weeks lecture will focus on [Advertising Practices and Principles.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/Week%202%20Advertising%20Principles%20%20Practices.pdf)
 
 Lets take a break. 
 
