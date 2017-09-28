@@ -91,7 +91,7 @@ Now that we have heard each brief, which will you choose? Consider:
 
 **Words of Wisdon**
 
-! [] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/01/assets/ogilvy_quote.jpg)
+![alt text](assets/ogilvy_quote.jpg)
 
 Wise words from previous advertising industry professionals tackeling D&AD briefs:
 
