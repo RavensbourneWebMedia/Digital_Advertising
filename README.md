@@ -50,7 +50,7 @@ By the end of this course, you will be able to:
 * **Participate** in class lectures, tutorials and workshops. We'll make sure that your ideas have space to be heard and that nobody makes you feel uncomfortable about sharing them.
 * **Present** your work during formative and summative assessments. If you can't make it those days then you'll record your presentation and upload it to YouTube (or similar).
 * **Be responsible** for what happens in class. Organise with your peers to get class information and material that you may have missed.
-* **Meet the deadlines**. If you submit your work after a deadline, your grade will be capped at D- (bare pass).
+* **Meet the deadlines**. If you submit your work after a deadline, your grade will be capped. Please see the brief for new details. 
 
 
 ### License
