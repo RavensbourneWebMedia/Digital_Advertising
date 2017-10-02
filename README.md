@@ -12,7 +12,7 @@ In particular, you will:
 * Learn how to **evaluate and refine** your ideas into a creatively compelling and clearly communicated campaign. 
 * Leanr how the use of the web and social media can help to **spread creative ideas** quickly around the globe. 
 
-If you would like to read the full unit brief, this can be found on [moodle](TO:DO Add link to Moodle)
+If you would like to read the full unit brief, this can be found [here.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/01/assets/WEB14304%20Digital%20Advertising%202017-2018%20Brief.pdf)
 
 # Plan
 
