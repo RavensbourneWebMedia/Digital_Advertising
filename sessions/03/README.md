@@ -24,6 +24,8 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 
 [Examples of stands 2015/2016.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Web_Media_Degree_Show_Mini_Lecture.pdf)
 
+[Example of Graphic Design Show 2017](https://www.youtube.com/watch?v=_sENq4tLHuw)
+
 
 # The Creative Process
 
@@ -92,4 +94,4 @@ By answering these questions we should be able to build up an idea of who our ta
 * How can value be added to products by changing thier perception?
 * What is badge value and how can this be used to change the value of a product?
 * How can peoples actions be nudged by a products design or interface? 
-
+* What are your opinions about Rory Sutherlands TED presentation? 
