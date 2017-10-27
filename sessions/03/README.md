@@ -2,7 +2,7 @@
 
 ###  Monday 30th October 2017
 
-1. Overview of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
+1. Overview of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising)
 * Mini Presenation: [The Degree Show](#the-degree-show)
 * Mini Lecture: [The Creative Process](#the-creative-process)   
 * Mini Lecture: [Advertising Agency Structure](#advertising-agency-structure)
@@ -24,7 +24,7 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 
 [Examples of stands 2015/2016.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Web_Media_Degree_Show_Mini_Lecture.pdf)
 
-[Example of Graphic Design Show 2017](https://www.youtube.com/watch?v=_sENq4tLHuw)
+[Example of Graphic Design Show 2017](https://www.youtube.com/watch?v=_sENq4tLHuw) 
 
 
 # The Creative Process
