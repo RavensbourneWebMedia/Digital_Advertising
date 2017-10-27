@@ -69,7 +69,7 @@ Each brief set by industry should have some insight into who they want you to ta
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Magritte_TheSonOfMan.jpg )
 
-####Some useful pointers / questions to ask yourself might be: 
+#### Some useful pointers / questions to ask yourself might be: 
 
 1. **Understand the problem that you solve.** Take another look at your campaign or product and ask, “what problem does this solve?” Once you have this, then start to think about who might be suffering from that problem? In what scenarios?
 * **Paint a picture of the customer.** Start to list all of the different types of people who might suffer from your problem and then try and build up a picture of those people. Do they play golf? **nope** Do they live in a flat share in Bristol? **Yep** Are they married? Do they shop at Asda? Ect...
@@ -86,4 +86,4 @@ By answering these questions we should be able to build up an idea of who our ta
 
 ### Blog 
 
-**Individually**, watch the TED talk XXXX  XXXXX and blog about the value that advertising can add to products without changing the products themselves. 
+**Individually**, watch the TED talk [Rory Sutherland, life Lessons of an Ad Man] (https://www.ted.com/talks/rory_sutherland_life_lessons_from_an_ad_man#t-976494) and blog about the value that advertising can add to products without changing the products themselves. 
