@@ -44,7 +44,7 @@ Let's take a break!
 
 Our second mini lecture will outline the main departments, job roles and key responsibilities undertaken within most advertising agencies. 
 
-[The Advertising Agency](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/The%20Advertising-Agency.pdf)
+[The Advertising Agency](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/03/The%20Advertising-Agency.pdf)
 
 Are any of these roles positions that you would consider for the future? 
 
