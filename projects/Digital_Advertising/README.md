@@ -104,7 +104,7 @@ This blog log will contain posts on:
 
 * Week 1: [Seth Godin's How to Get Your Ideas to Spread.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/01#homework)
 * Week 2: [Moodboards.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/02#homework)
-* Week 3: TBC
+* Week 3: [Rory Sutherland's Life Lessons of an Ad Man](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#blog)
 * Week 4: [Reflective: Course Work so far.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/04#homework) 
 * Week 5: [Reflective: Formative Feedback](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/05#homework)
 * Week 6: Analyse 2 previous D&AD New Blood 2016 Winners.
