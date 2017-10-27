@@ -22,7 +22,7 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 
 [![IMAGE ALT TEXT HERE](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/The_degree_show.jpg)](https://www.youtube.com/watch?v=d2dykZFiHmo)
 
-[Examples of stands 2015/2016.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/Web_Media_Degree_Show_Mini_Lecture.pdf)
+[Examples of stands 2016/2017.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/03/Web_Media_Degree_Show_Mini_Lecture.pdf)
 
 [Example of Graphic Design Show 2017](https://www.youtube.com/watch?v=_sENq4tLHuw) 
 
