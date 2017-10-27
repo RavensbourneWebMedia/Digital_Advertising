@@ -29,7 +29,7 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 
 # The Creative Process
 
-[![](assets/the-creative-process.jpg)](https://dribbble.com/shots/1826840--lunchtimedrawings-The-Creative-Process)
+[![](assets/the-creative-process.jpg)](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/03/Digital%20Advertising%202016%20Lecture%203%20Creative%20Process.pdf)
 
 This weeks lecture will take us through the typical creative process followed in advertising agencies. 
 
