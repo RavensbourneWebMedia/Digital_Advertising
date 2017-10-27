@@ -3,9 +3,9 @@
 ###  Monday 30th October 2017
 
 1. Overview of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising)
-* Mini Presenation: [The Degree Show](#the-degree-show)
-* Mini Lecture: [The Creative Process](#the-creative-process)   
-* Mini Lecture: [Advertising Agency Structure](#advertising-agency-structure)
+* Mini Presenation: [The Degree Show](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#the-degree-show)
+* Mini Lecture: [The Creative Process](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#the-creative-process)   
+* Mini Lecture: [Advertising Agency Structure](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#advertising-agency-structure)
 * Tutorials: Elevator Pitches, Pitch Documents and Moodboards. 
 
 ### Your [homework](#homework) and [blog](#blog)!
