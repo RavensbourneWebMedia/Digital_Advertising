@@ -21,7 +21,7 @@ All deliverables for this course can be found on the [Digital Advertising Campai
 
 ## Multi Channel vs Omni Channel Advertising
 
-![] (https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/04/Omni-channel_image_small.jpg)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/04/Omni-channel_image_small.jpg)
 
 This weeks lecture will focus around the differnt types of advertising campagin that include delivery to lots of separate channels. 
 
