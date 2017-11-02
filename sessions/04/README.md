@@ -2,7 +2,7 @@
 
 ### Monday 13th November
 
-1. Recap of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
+1. Recap of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising)
 * Lecture: [Multi Channel vs Omni Channel Advertising](#multi-channel-vs-omni-channel-advertising)
 * Workshop: [Creating a Campaign Plan](#creating-a-campaign-plan) 
 * Mini Presenation: [The Degree Show](#the-degree-show)
@@ -27,13 +27,13 @@ This weeks lecture will focus around the differnt types of advertising campagin 
 
 To contextualise this practice we will look at a Burberry campaign and talk though:
 
-1. The target audiences. 
+* The target audiences. 
 * The campaign idea. The core creative concept including the campaign slogan. 
 * The digital touch points. 
 * How to map/communicate ideas for digital touch points. 
 * How the campaign plan works across platforms holistically. 
 
-[Full lecture notes found here.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/04/Multi-Channel_Omni_Channel_Advertising.pdf)
+[Full lecture notes found here.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/04/Multi-Channel_Omni_Channel_Advertising.pdf)
 
 ## Creating a Campaign Plan
 
@@ -51,7 +51,7 @@ Some good questions to ask might be:
 
 ## The Degree Show
 
-[A quick recap on last week.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/sessions/03#the-degree-show)
+[A quick recap on last week.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#the-degree-show)
 
 ## Homework
     
@@ -59,7 +59,7 @@ Continue to work on [Creating a Campaign Plan](#creating-a-campaign-plan).
 
 Add your campaign plan to the other pieces you have created and prepair for formative presentations next week. 
 
-Everything you need to know is detailed on the [Digital Advertising Campaign page.] (https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack)
+Everything you need to know is detailed on the [Digital Advertising Campaign page.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising)
 
 ### Blog 
 
