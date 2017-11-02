@@ -2,7 +2,7 @@
 
 ### Monday 13th November
 
-1. Recap of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising)
+* Recap of Digital Advertising Submissions: [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising)
 * Lecture: [Multi Channel vs Omni Channel Advertising](#multi-channel-vs-omni-channel-advertising)
 * Workshop: [Creating a Campaign Plan](#creating-a-campaign-plan) 
 * Mini Presenation: [The Degree Show](#the-degree-show)
@@ -14,7 +14,7 @@
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Think_Small.jpg)
 
-As there was a tube strike last week, I thought that I would quickly go over the deliverables for the course so that we all know what is expected for formative **next week** and summative at the end of term. 
+As there were low numbers last week, I thought that I would quickly go over the deliverables for the course so that we all know what is expected for formative **next week**. We can individually catch up about summative deliverables if you would like to cover this section. 
 
 All deliverables for this course can be found on the [Digital Advertising Campaign](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) page. 
 
@@ -32,6 +32,8 @@ To contextualise this practice we will look at a Burberry campaign and talk thou
 * The digital touch points. 
 * How to map/communicate ideas for digital touch points. 
 * How the campaign plan works across platforms holistically. 
+
+I will be pitching this campaign to you and explaining the rational between the different sections that have been included but you could also see this as a exercise in how you clearly explain the different components of a digital advertising campaign: The creative idea, the touchpoints and the campaign strategy (how the campaign works over channels and time). 
 
 [Full lecture notes found here.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/04/Multi-Channel_Omni_Channel_Advertising.pdf)
 
