@@ -43,7 +43,7 @@ As we are planning advertising campaigns that will appraoch customers through a 
 
 Some good questions to ask might be:
 
-1. What media/experience will go out in which channel? 
+* What media/experience will go out in which channel? 
 * How will this work over time? (Will one lead to another? Will they all reinforce each other at the same time? Will there be seasonal variations?) 
 * How does your apprach to multiple channels make sense as a whole campaign?
 * How will I visualise the above points? 
