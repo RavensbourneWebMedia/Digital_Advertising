@@ -43,6 +43,14 @@ An campaign or advertising plan lays out exactly how and when a business will re
 
 As we are planning advertising campaigns that will appraoch customers through a variety of channels ( multiple digital, digital and physical, digiatl and print) it's important that we communicate how these threads will pull together to make an integrated campaign. 
 
+## Campaign Plan Examples
+
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/04/Campaign_Plan_1.png)
+
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/04/Campaign_Plan_2.png)
+
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/04/Campaign_Plan_3.png)
+
 Some good questions to ask might be:
 
 * What media/experience will go out in which channel? 
