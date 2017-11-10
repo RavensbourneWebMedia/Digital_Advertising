@@ -49,14 +49,15 @@ As we are planning advertising campaigns that will appraoch customers through a 
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/04/Campaign_Plan_2.png)
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/04/Campaign_Plan_3.png)
+Now, let's break out the session and brainstorm your campaign plans. First, make a list all of your campaing touch points ie. which channels you will be using for your campaign. These should be justified against your target audience ie. you should have found a reason why these are good ways to make contact with your tartget audience. 
 
-Some good questions to ask might be:
+Now that you have this, ask yourself the following questions:
 
-* What media/experience will go out in which channel? 
-* How will this work over time? (Will one lead to another? Will they all reinforce each other at the same time? Will there be seasonal variations?) 
-* How does your apprach to multiple channels make sense as a whole campaign?
-* How will I visualise the above points? 
+* Which media/experience will go out in which channel? 
+* How will you release this content / expereinces over time? (Will one lead to another? Will they all reinforce each other at the same time? Will there be seasonal variations? Are there events or markers you are trying to hit in the year?) 
+* How does your apprach to multiple channels make sense as a whole campaign? 
+* Where will traffic / customer attention be channeled? What is the "call to action"?
+* How can you visualise the above points? Now start to make these sketches. 
 
 
 ## The Degree Show
