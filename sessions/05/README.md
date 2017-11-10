@@ -40,7 +40,9 @@ A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will includ
 
 Concise documentation outlining the research stages and physical/online reading and campaign references that have contributed to the project.
 
-Over enhancement week, read two articles or book extracts about digital advertising in preparation for this part of your submission. 
+Over the next week, read two articles or book extracts about digital advertising in preparation for this part of your submission. 
+
+!!!ADD LIST OF BOOKS & ARTICLES HERE!!!
 
 ### Blog 
 
