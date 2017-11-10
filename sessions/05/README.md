@@ -62,14 +62,14 @@ Your post should address these questions (in no particular order):
 
 3. Plot out the tasks that you have remaining for Summative presentation against the [hand in doc](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) and plot them against the remianing weeks in the course.
     
-    ### For Enhancement Week
+    ### For Next Time, Monday 27th November:
 
 	You have time without any lectures which is great to start putting things in place for the next part of term. Whilst you have some time:
 
 	* Do some research into [invision](https://www.invisionapp.com/), sign up and make an account. 
 	* Look into design libraries that you can borrow to help design your products or prototypes, like [Facebook](https://en.facebookbrand.com/). Don't reinvent the wheel. 
 	* Let me know whether you are interested in being part of the degree show. 
-	* Post some inspiration on the degree show [slack](https://raveweb.slack.com/messages/degree-show/team/jonny/) or [GoogleDoc](https://docs.google.com/document/d/1g9ifo6is4V87J-tVJ6yLE4JzjbYWaRprA6RsJmLjCyc/edit). 
+	
 
 
 
