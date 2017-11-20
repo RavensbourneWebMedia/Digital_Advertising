@@ -19,7 +19,7 @@ You will present your digital advertising projects, either individually or in yo
 
 You will have 10mins max to present your work.
 
-Remember, this is a formative presentation, which gives you a chance to ask any questions about your work that might help you push forwards over the next 4 weeks.
+Remember, this is a formative presentation, which gives you a chance to ask any questions about your work that might help you push forwards over the next 2 weeks.
 
 Explain how your concept relates to your chosen brief and how it appeals to the interests and needs of your target audience.
 
