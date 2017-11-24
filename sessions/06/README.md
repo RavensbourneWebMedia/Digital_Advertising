@@ -18,9 +18,9 @@ Before we start:
 
 What is multi-channel advertising? 
 
-What is omni-channel advertising? 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/04/Omni-channel_image_small.jpg)
 
-What are your thoughts? 
+What is omni-channel advertising? 
 
 Remember: You can also see these presentations as a way of presenting an advertising campaign. We'll talk about this afterwards. 
 
