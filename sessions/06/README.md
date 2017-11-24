@@ -85,7 +85,7 @@ Ealier we saw that some D&AD winners used video to explain their ideas. What wil
 
 One thing the example projects have in common is a clear visual identity. This can be show in a brand or campaign guideline: 
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/06/studentwork_capstone2014_cook1.jpg)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/06/Brooklands_03_guidelines_1250.jpg)
 
 **Does your campaign have an identity?**
 
