@@ -103,9 +103,9 @@ For each of your campaign touch points, design a visual, prototype, diagram or v
 
 ### Blog 
 
-Navigate to the [D&AD New Blood 2016 Winners](https://www.dandad.org/en/d-ad-new-blood-awards-pencil-winners/) and find **two** projects that have relevance to your project. They could:
+Navigate to the [D&AD New Blood Winners Page](https://www.dandad.org/search/?q=&type=archive&disciplines=&programmes=New+Blood+Awards&awards=Black+Pencil&awards=White+Pencil&awards=Yellow+Pencil&awards=Graphite+Pencil&awards=Wood+Pencil&years=2017) and find **two** projects that have relevance to your project. They could:
 
-* Be written by the same company that issued your brief. 
+* Be answering a brief written by the same company that issued your brief. 
 
 * Be from a similar type of company to the one that set your brief (eg, a non profit or charity). 
 
