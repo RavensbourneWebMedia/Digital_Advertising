@@ -63,6 +63,10 @@ Elevator Pitch: Crimewatch 'Eye' works within the maps application and existing 
 
 Elevator Pitch: We follow the story of Cece, an ambitious young creative embarking on her biggest challenge yet: the Creative Cloud mountain. Without her tools, Cece’s task is impossible.
 
+## Tutorial Sessions
+
+The rest of the session will be time for one on one tutorials. 
+
 # Homework
 
 ### Telling Visual Campaign Stories 
@@ -71,7 +75,7 @@ This weeks homework will focus around the question:
 
 **How will you illustrate your digial advertising campaign ideas?**
 
-Ealier we saw that some 2016 D&AD winners used video to explain their ideas. What will you use to show yours? 
+Ealier we saw that some D&AD winners used video to explain their ideas. What will you use to show yours? 
 
 * Making a digital product as part of your pitch? Could you make an **invision prototype?** Or could you use **Keynote?** Will this sit on the relevant device? An iOS app on an iPhone?
 
