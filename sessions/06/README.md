@@ -14,7 +14,30 @@
 
 In the last lecture we looked at the My Burberry campaign as an example of omnichannle advertising. This week we'll look at a men's fragrance, Brit Rhythm to further our understanding of co-ordinated cross channel advertising. 
 
+Before we start:
+
+What is multi-channel advertising? 
+
+What is omni-channel advertising? 
+
+What are your thoughts? 
+
+Remember: You can also see these presentations as a way of presenting an advertising campaign. We'll talk about this afterwards. 
+
 [Burberry Brit Rhythm.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/07/Omnichannel_Advertising_Brit_Rhythm.pdf)
+
+What did you notice about the presentation? What sections were used to explain the camapign from start to finish? 
+
+These were the sections within the presentation, you could use these as a template moving forwards:
+
+1. The background of the project - intro to the brief. 
+2. Target Market Research - Reasons to buy, Key selling points, customer behaviours. 
+3. The campaign idea - the slogan - core points (digitally lead, bottle icon, UGC, live music link). 
+4. The visual aesthetic  - of the campaign, moodpboard leading to graphics. 
+5. Campaign touch points (with your visual aesthetic) - What are your creative marketing ideas?? BE CREATIVE! (Brit Rhythm Tattoos, 3 gig in 3 cities, Instagram, .com. 
+6. The Campaign Plan - How do you touch point work together? Over time? To build suspense? Across the world? With key events for your company? 
+
+Brand these slides! Design your advertising campaigns and touch points. Be creative! 
 
 ## D&AD Winners 2016
 
