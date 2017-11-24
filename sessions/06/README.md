@@ -34,7 +34,7 @@ These were the sections within the presentation, you could use these as a templa
 2. Target Market Research - Reasons to buy, Key selling points, customer behaviours. 
 3. The campaign idea - the slogan - core points (digitally lead, bottle icon, UGC, live music link). 
 4. The visual aesthetic  - of the campaign, moodpboard leading to graphics. 
-5. Campaign touch points (with your visual aesthetic) - What are your creative marketing ideas?? BE CREATIVE! (Brit Rhythm Tattoos, 3 gig in 3 cities, Instagram, .com. 
+5. Campaign touch points (with your visual aesthetic) - What are your creative marketing ideas?? BE CREATIVE! (Brit Rhythm Tattoos, 3 gig in 3 cities, Instagram, .com.)
 6. The Campaign Plan - How do you touch point work together? Over time? To build suspense? Across the world? With key events for your company? 
 
 Brand these slides! Design your advertising campaigns and touch points. Be creative! 
