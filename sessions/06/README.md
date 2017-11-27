@@ -3,7 +3,8 @@
 ### Monday 27th November 
 
 1. Lecture: [Omnichannel Advertising Campaigns.](#OmnichannelAdvertisingCampaigns.)
-*  Presentation: Previous D&AD Winners
+2.  Presentation: Previous D&AD Winners. 
+3. Tutorial Time. 
 
 ### Your [homework](#homework) and [blog](#blog)
 
