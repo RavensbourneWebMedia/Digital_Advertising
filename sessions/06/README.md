@@ -39,7 +39,7 @@ These were the sections within the presentation, you could use these as a templa
 
 Brand these slides! Design your advertising campaigns and touch points. Be creative! 
 
-## D&AD Winners 2016
+## D&AD Winners 
 
 Let's take a look at some examples of sucessful projects from last year to judge presentation style and overall project standard. These are just a chosen few, but you will look further at these projects for your blog post this week. 
 
