@@ -3,8 +3,7 @@
 ### Monday 27th November 
 
 1. Lecture: [Omnichannel Advertising Campaigns.](#OmnichannelAdvertisingCampaigns.)
-*  Lecture: D&AD Winners 2016
-*  Presentation & Workshop: Prototyping in Invison
+*  Presentation: Previous D&AD Winners
 
 ### Your [homework](#homework) and [blog](#blog)
 
