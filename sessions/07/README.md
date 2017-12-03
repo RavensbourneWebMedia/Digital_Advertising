@@ -21,6 +21,16 @@ This week we will look at viral marketing and how you can create campaign elemen
 
 As there was low attendance last week, let's take a look at some examples of sucessful projects from last year to judge presentation style and overall project standard. These are just a chosen few, you could use others more relevant to your work for your profile (last weeks blog post). 
 
+![National autistic society](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/07/National_Autistic_Society.jpg]
+
+[Perspectives](https://www.dandad.org/awards/new-blood/2017/the-national-autistic-society/3122/perspectives/) - For The National Autistic Society
+
+
+
+
+
+
+
 # Review Summative Hand Ins
 
 Let's quickly review what you will need to hand in [next week.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising#for-summative-presentation-monday-11th-december-in-lecture-hours)
