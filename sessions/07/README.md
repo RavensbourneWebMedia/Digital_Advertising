@@ -39,9 +39,7 @@ Let's quickly review what you will need to hand in [next week.](https://github.c
 
 # Tutorials & Workshop Time
 
-Next week you will present your summative work. 
-
-Last week you worked with the productivity planner to map out the remaining tasks you needed to finish for this project. This week we will review that work and make a final list of tasks before summative next week. 
+Next week you will present your summative work. Let's take some time this afternoon to take stock of what you have left to do with the Productivity Planner:
 
 ![Productivity Planner](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/09/Weekly_Planner_Image.jpg)
 
