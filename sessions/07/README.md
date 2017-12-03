@@ -31,7 +31,7 @@ As there was low attendance last week, let's take a look at some examples of suc
 
 ![Abode](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/07/Adobe.jpg)
 
-[Make Up Your Own Mind] (https://www.dandad.org/awards/new-blood/2017/adobe/3186/make-up-your-own-mind/) - Adobe
+[Make Up Your Own Mind](https://www.dandad.org/awards/new-blood/2017/adobe/3186/make-up-your-own-mind/) - Adobe
 
 
 
