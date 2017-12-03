@@ -33,14 +33,6 @@ As there was low attendance last week, let's take a look at some examples of suc
 
 [Make Up Your Own Mind](https://www.dandad.org/awards/new-blood/2017/adobe/3186/make-up-your-own-mind/) - Adobe
 
-
-
-
-
-
-
-
-
 # Review Summative Hand Ins
 
 Let's quickly review what you will need to hand in [next week.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising#for-summative-presentation-monday-11th-december-in-lecture-hours)
@@ -61,11 +53,11 @@ Last week you worked with the productivity planner to map out the remaining task
 
 Tweak *all* your work in this unit so that you can **present** it next week during the *summative assessment*. 
 
-Check the [deliverables for the unit](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) and make sure that you have everything prepaired for hand in on Sunday 19th March. 
+Check the [deliverables for the unit](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) and make sure that you have everything prepaired for hand in next Monday. 
 
 ### Blog
 
-Make a New Weekly Planner documenting the work that you need to do this week. 
+Make a Weekly Planner documenting the work that you need to do this week. 
 
 Use your blog post to reflect on the process of completeing the work that you have on your planner. 
 
