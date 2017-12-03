@@ -25,6 +25,12 @@ As there was low attendance last week, let's take a look at some examples of suc
 
 [Perspectives](https://www.dandad.org/awards/new-blood/2017/the-national-autistic-society/3122/perspectives/) - For The National Autistic Society
 
+[![Desperados]](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/07/Desperados.jpg)
+
+[Party Power] (https://www.dandad.org/awards/new-blood/2017/desperados/3052/party-power/) - Desperados
+
+
+
 
 
 
