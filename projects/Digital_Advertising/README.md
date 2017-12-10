@@ -107,6 +107,6 @@ This blog log will contain posts on:
 * Week 3: [Rory Sutherland's Life Lessons of an Ad Man](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#blog)
 * Week 4: [Reflective: Course Work so far.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/04#homework) 
 * Week 5: [Reflective: Formative Feedback](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/05#homework)
-* Week 6: Analyse 2 previous D&AD New Blood 2016 Winners.
+* Week 6: Analyse 2 previous D&AD New Blood Winners.
 * Week 7: [Make a Weekly Planner documenting the work that you need to do this week](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/07#blog) Use your blog post to reflect on the process of completeing the work that you have on your planner.
 
