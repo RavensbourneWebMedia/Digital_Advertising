@@ -14,19 +14,19 @@ In particular, you will:
 
 If you would like to read the full unit brief, this can be found [here.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/01/assets/WEB14304%20Digital%20Advertising%202017-2018%20Brief.pdf)
 
-# Plan for Stan
+# Plan the unit
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Monday<br>02.10](sessions/01)| <ul><li>Welcome <li>Lecture: [**A Brief History of Advertising**](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/Brief_History_of_Advertising_2016_Morning_Session.pdf) <li> Intro: DA&D Briefs 2017<li>Workshop: [**Breaking Down The Brief**](#workshop-breaking-down-a-brief) | <ul><li>Select your brief.<li>Create 20 ideas.<li>Choose your top 5, explain why they stand out and how they respond to the "heart" of your brief.  | <ul> <li>Watch Seth Godin’s TED talk on [How to get your ideas to spread](https://www.ted.com/talks/seth_godin_on_sliced_bread) <li> Choose 3 "stand out" digital advertising campaigns and explain what makes them "remarkable". 
-[Monday<br>16.10](sessions/02)| <ul><li> [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) <li>Show and Tell <li>Industry Pointers. <li>[Elevator pitches](#elevator-pitch) <li>Pitch Document/One Pagers| <ul><li>Pitch Document/One Pagers| <ul><li>Moodboards
-[Monday<br>30.10](sessions/03)| <ul><li>Overview of Digital Advertising Submissions. <li>Mini Presenation: The Degree Show.<li>Mini Lecture: The Creative Process.<li>Mini Lecture: Advertising Agency Structure.<li>Tutorials. | <ul><li>Researching Target Markets | <ul><li>TBC
-[Monday<br>13.11](sessions/04) |  <ul> <li> TBC |<ul> <li>TBC | <ul> <li>TBC 
-[Monday<br>20.11](sessions/05)| <ul><li>**Formative assessment**: In class.<li>Formative Assessment: Moodle submission. | <ul> <li> Gather and reflect on your formative feedback.<li> Make a plan showing how you will modify your project over the next 4 weeks. | Formative Assessment. 
-[Monday<br>27.11](sessions/07)| <ul> <li>TBC | <ul> <li>TBC | <ul> <li>TBC 
+[Monday<br>01.10.18](sessions/01)| <ul><li>Welcome <li>Lecture: [**A Brief History of Advertising**](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/Brief_History_of_Advertising_2016_Morning_Session.pdf) <li> Intro: DA&D Briefs 2017<li>Workshop: [**Breaking Down The Brief**](#workshop-breaking-down-a-brief) | <ul><li>Select your brief.<li>Create 20 ideas.<li>Choose your top 5, explain why they stand out and how they respond to the "heart" of your brief.  | <ul> <li>Watch Seth Godin’s TED talk on [How to get your ideas to spread](https://www.ted.com/talks/seth_godin_on_sliced_bread) <li> Choose 3 "stand out" digital advertising campaigns and explain what makes them "remarkable". 
+[Monday<br>15.10.18](sessions/02)| <ul><li> [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) <li>Show and Tell <li>Industry Pointers. <li>[Elevator pitches](#elevator-pitch) <li>Pitch Document/One Pagers| <ul><li>Pitch Document/One Pagers| <ul><li>Moodboards
+[Monday<br>29.10.18](sessions/03)| <ul><li>Overview of Digital Advertising Submissions. <li>Mini Presenation: The Degree Show.<li>Mini Lecture: The Creative Process.<li>Mini Lecture: Advertising Agency Structure.<li>Tutorials. | <ul><li>Researching Target Markets | <ul><li>TBC
+[Monday<br>12.11.18](sessions/04) |  <ul> <li> TBC |<ul> <li>TBC | <ul> <li>TBC 
+[Monday<br>19.11.18](sessions/05)| <ul><li>**Formative assessment**: In class.<li>Formative Assessment: Moodle submission. | <ul> <li> Gather and reflect on your formative feedback.<li> Make a plan showing how you will modify your project over the next 4 weeks. | Formative Assessment. 
+[Monday<br>26.11.18](sessions/07)| <ul> <li>TBC | <ul> <li>TBC | <ul> <li>TBC 
 [TBC](sessions/08)| <ul> <li>TBC <li>Tutorials |  <ul> <li>TBC | <ul> <li>TBC
-[Monday<br>04.12](sessions/09)| <ul><li>Recap of Summative Submissions<li>How to submit a DA&D project.<li> Summative Prep / last tutorials | <ul><li>Prepare summative (tweak your work) | <ul><li>TBC
-[Monday<br>11.12](sessions/10)| <ul><li>**Summative assessment**: In class. <li> Summative assessment: Moodle submission. | <ul><li>Prepare and tweak your written submissions based on summative assessment. | Check all blog posts are complete.
+[Monday<br>03.12.18](sessions/09)| <ul><li>Recap of Summative Submissions<li>How to submit a DA&D project.<li> Summative Prep / last tutorials | <ul><li>Prepare summative (tweak your work) | <ul><li>TBC
+[Monday<br>10.12.18](sessions/10)| <ul><li>**Summative assessment**: In class. <li> Summative assessment: Moodle submission. | <ul><li>Prepare and tweak your written submissions based on summative assessment. | Check all blog posts are complete.
 
 <!-- <li>Workshop: how to present your work -->
 
