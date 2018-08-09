@@ -14,7 +14,7 @@ In particular, you will:
 
 If you would like to read the full unit brief, this can be found [here.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/01/assets/WEB14304%20Digital%20Advertising%202017-2018%20Brief.pdf)
 
-# Plan
+# Plan for Stan
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
