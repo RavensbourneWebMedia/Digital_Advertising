@@ -17,7 +17,7 @@ If you would like to read the full unit brief, this can be found [here.](https:/
 # Plan for the unit
 
 When | In class | Homework | Blog 
----- | -------- | -------- | ----
+---- | --------- | -------- | ----
 [Monday<br>01.10.18](sessions/01)| <ul><li>Welcome <li>Lecture: [**A Brief History of Advertising**](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/Brief_History_of_Advertising_2016_Morning_Session.pdf) <li> Intro: DA&D Briefs 2017<li>Workshop: [**Breaking Down The Brief**](#workshop-breaking-down-a-brief) | <ul><li>Select your brief.<li>Create 20 ideas.<li>Choose your top 5, explain why they stand out and how they respond to the "heart" of your brief.  | <ul> <li>Watch Seth Godin’s TED talk on [How to get your ideas to spread](https://www.ted.com/talks/seth_godin_on_sliced_bread) <li> Choose 3 "stand out" digital advertising campaigns and explain what makes them "remarkable". 
 [Monday<br>15.10.18](sessions/02)| <ul><li> [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) <li>Show and Tell <li>Industry Pointers. <li>[Elevator pitches](#elevator-pitch) <li>Pitch Document/One Pagers| <ul><li>Pitch Document/One Pagers| <ul><li>Moodboards
 [Monday<br>29.10.18](sessions/03)| <ul><li>Overview of Digital Advertising Submissions. <li>Mini Presenation: The Degree Show.<li>Mini Lecture: The Creative Process.<li>Mini Lecture: Advertising Agency Structure.<li>Tutorials. | <ul><li>Researching Target Markets | <ul><li>TBC
