@@ -1,57 +1,53 @@
 <!--# Web Design principles-->
 
-### During this project you will produce an integrated advertising campaign that will champion your ideas, intelligence, communication and web media skills. 
+# Unit Overview
 
-In particular, you will:
+![Spotify Ad Campaign](Assets/Spotify_Advert.png)
 
-* Examine the history behind and operational structure of an advertising agecy and understand the different roles and skills that go into making a campaign.  
-* Explore best practices when **researching markets**, clients and products to ensure the creation of targeted campaigns.
-* Learn how to pull apart and **understand a brief** under a time constraint and produce a number of creative responses quickly. 
-* Learn how to develop your ideas from an **elevator pitch** (one liner) into a **pitch document** and then into a **creative visualisation**.
-* Learn how to ulitise **story telling** to enhance a product story and add authenticity to your pitch. 
-* Learn how to **evaluate and refine** your ideas into a creatively compelling and clearly communicated campaign. 
-* Leanr how the use of the web and social media can help to **spread creative ideas** quickly around the globe. 
+### During this project you will produce an integrated advertising campaign that will champion your ideas, intelligence, communication and web media skills to potential employers, where: 
 
-# Plan
 
-### [Subscribe to the calendar!](https://www.google.com/calendar/ical/rave.ac.uk_agop0ff7kdgdc289jdrl5021gs%40group.calendar.google.com/public/basic.ics)
+* You ​will work​ ​​individually​ ​​or​ ​in​ ​​teams​ ​of​ ​two​ ​​emulating​ ​a copywriter/art-director​ ​team. 
+* After​ ​briefing,​ ​you ​will​ ​**research​ ​the​ ​target market​** ​around​ ​the client​ ​and​ ​product.
+* You will think​ ​about​ ​**art-direction,​ ​concept​ ​and​ ​copywriting​** ​and​ ​produce​ ​a number solutions​ ​for​ ​your​ ​brief.
+* You will develop​ ​the​ ​most​ ​**innovative​ ​solutions​** ​that​ ​address​ ​the​ ​**brief​** ​and​ ​the **target demographic**.
+* You will pitch​ ​your research, ideation, chosen concept and branding direction ​at​ ​​**formative​ ​​stage​** ​for​ ​tutor​ ​and​ ​peer​ ​comment​.
+* You will deliver​ ​a​ ​cross-media​ ​campaign​ ​solution​ ​for​ ​​**summative​ ​​stage** comprising of ​**a)​ ​campaign ​visuals,​ b) campaign touchpoints and c) a web​ enabled solution​.**
+
+
+# Plan for the unit
 
 When | In class | Homework | Blog 
----- | -------- | -------- | ----
-[Thursday<br>12.01](sessions/01)| <ul><li>Welcome <li>Lecture: [**A Brief History of Advertising**](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/Brief_History_of_Advertising_2016_Morning_Session.pdf) <li> Intro: DA&D Briefs 2017<li>Workshop: [**Breaking Down The Brief**](#workshop-breaking-down-a-brief) | <ul><li>Select your brief.<li>Create 20 ideas.<li>Choose your top 5, explain why they stand out and how they respond to the "heart" of your brief.  | <ul> <li>Watch Seth Godin’s TED talk on [**How to get your ideas to spread.**] (https://www.ted.com/talks/seth_godin_on_sliced_bread) <li> Choose 3 "stand out" digital advertising campaigns and explain what makes them "remarkable". 
-[Thursday<br>19.01](sessions/02)| <ul><li> [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) <li>Show and Tell <li>Industry Pointers. <li>[Elevator pitches](#elevator-pitch) <li>Pitch Document/One Pagers| <ul><li>Pitch Document/One Pagers| <ul><li>Moodboards
-[Thursday<br>26.01](sessions/03)| <ul><li>Overview of Digital Advertising Submissions. <li>Mini Presenation: The Degree Show.<li>Mini Lecture: The Creative Process.<li>Mini Lecture: Advertising Agency Structure.<li>Tutorials. | <ul><li>Researching Target Markets | <ul><li>Rory Sutherland's Life lessons from an ad man
-[Thursday<br>02.02](sessions/04) Sunday |  <ul> <li> TBC |<ul> <li>TBC | <ul> <li>TBC 
-[Thursday<br>09.02](sessions/05) Sunday 12.02| <ul><li>**Formative assessment**: In class.<li>Formative Assessment: Moodle submission. | <ul> <li> Gather and reflect on your formative feedback.<li> Make a plan showing how you will modify your project over the next 4 weeks. | Formative Assessment. 
-Thursday<br>16.02| <ul><li>**Enhancement Week**| 
-[Thursday<br>23.02](sessions/07)| <ul> <li>TBC | <ul> <li>TBC | <ul> <li>TBC 
-[Thursday<br>02.03](sessions/08)| <ul> <li>TBC <li>Tutorials |  <ul> <li>TBC | <ul> <li>TBC
-[Thursday<br>09.03](sessions/09)| <ul><li>Recap of Summative Submissions<li>How to submit a DA&D project.<li> Summative Prep / last tutorials | <ul><li>Prepare summative (tweak your work) | <ul><li>TBC
-[Thursday<br>16.03](sessions/10) Sunday 19.03| <ul><li>**Summative assessment**: In class. <li> Summative assessment: Moodle submission. | <ul><li>Prepare and tweak your written submissions based on summative assessment. | Check all blog posts are complete.
-
-<!-- <li>Workshop: how to present your work -->
-
+---- | --------- | ----- | ----
+[Monday<br>01.10.18](sessions/01)| <ul><li>Welcome <li>Intro to the brief<li>Holiday project presentations<li>Library Session| <ul> <li>Research folders| <ul> <li>Innovation & Advertising 
+[Monday<br>15.10.18](sessions/02)| <ul><li> Research presentations <li>Research share <li>Campaign lecture <li>Class brainstorms: touchpoints & innovation| <ul><li>Concept Sketchnoting| <ul><li>Target Market motivations
+[Monday<br>29.10.18](sessions/03)| <ul><li>Campaign concept share <li>Decision matrixes<li>Target market analysis<li>Creative touchpoints<li>Elevator pitches<li>Concept one pagers | <ul><li>Create campaign touchpoints | <ul><li>TBC
+[Monday<br>12.11.18](sessions/04) |  <ul> <li> Intro: Campaign Plans<li>Omni & multi channel advertising<li>Branding workshop |<ul> <li>Campaign branding<li>Formative presentations | <ul><li>The creative process 
+[Monday<br>19.11.18](sessions/05)| <ul><li>**Formative assessment**<li>Formative presentations<li>Self assessment<li>Online upload<li>Course feedback session| <ul> <li>Plan web based touch point<li> | <li>Reflect on presentation feedback. 
+[Monday<br>26.11.18](sessions/07)| <ul> <li>Formative feedback tutorials<li>Workshop:Campaign plan| <ul> <li>Campaign plan mock ups| <ul> <li>TBC 
+[Monday<br>03.12.18](sessions/09)| <ul><li>Class share:Campaign Plans<li>Recap of Summative Submissions<li> Project tutorials: Make action plans| <ul><li>Prepare summative| <ul><li> Summative prep
+[Monday<br>10.12.18](sessions/10)| <ul><li>**Summative assessment**<li>Summative presentations<li>Online submission|  | 
 
 # Learning goals
 
 By the end of this course, you will be able to:
 
-1. Use your web-skills to make a **whole marketing campaign** conveying one strong storytelling message. 
-* Use your knowledge of advertising and marketing to create integratied concepts for conventional and new media applications.
-* Use self-initiative and good judgement to produce work to a high professional standard that balances academic and competition requirements.
-* Use editorial judgement to select strong ideas, the correct platform and approach for commercial advertising campaigns.
-* Design an integrated solutions that combine ideas with cross-media strategies, Web 2.0 and traditional technologies in a compelling integrated campaign.
-* Apply art-direction and copywriting skills associated with advertising and marketing to your web based projects.
-
-
+1. Show that you have built upon initial knowledge of advertising and marketing to create ideas, concepts, conventional media and new media applications. 
+2. Use self-initiative and develop good judgement in the presentation of work to a high professional standard that balances academic and competition requirements. 
+3. Use editorial judgement on the selection of ideas, platform and approach for commercial use. 
+4. Design an integrated solution that combines ideas with cross-media strategies, Web 2.0 and traditional technologies in a compelling integrated campaign. 
+5. Demonstrate art-direction and copywriting skills associated with advertising and marketing. 
+6. Show the application of entrepreneurial attributes and behaviour in project work, skills development and own personal promotion. 
 
 # Rules of the road
+
+![Spotify Ad Campaign](/Assets/5-22-13-photo.jpg)
 
 * **Be present**. If you happen to be late or absent, make sure you email me about it before a session starts. 
 * **Participate** in class lectures, tutorials and workshops. We'll make sure that your ideas have space to be heard and that nobody makes you feel uncomfortable about sharing them.
 * **Present** your work during formative and summative assessments. If you can't make it those days then you'll record your presentation and upload it to YouTube (or similar).
 * **Be responsible** for what happens in class. Organise with your peers to get class information and material that you may have missed.
-* **Meet the deadlines**. If you submit your work after a deadline, your grade will be capped at D- (bare pass).
+* **Meet the deadlines**. If you submit your work after a deadline, your grade will be capped. Please see the brief for new details. 
 
 
 ### License

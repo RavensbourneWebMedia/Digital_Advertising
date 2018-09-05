@@ -1,6 +1,6 @@
 # Week 5
 
-### Today, Thursday 9th February 2017
+### Monday 20th November 
 
 [Formative assessment](#formative-assessment):
 
@@ -19,7 +19,7 @@ You will present your digital advertising projects, either individually or in yo
 
 You will have 10mins max to present your work.
 
-Remember, this is a formative presentation, which gives you a chance to ask any questions about your work that might help you push forwards over the next 4 weeks.
+Remember, this is a formative presentation, which gives you a chance to ask any questions about your work that might help you push forwards over the next 2 weeks.
 
 Explain how your concept relates to your chosen brief and how it appeals to the interests and needs of your target audience.
 
@@ -40,7 +40,9 @@ A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will includ
 
 Concise documentation outlining the research stages and physical/online reading and campaign references that have contributed to the project.
 
-Over enhancement week, read two articles or book extracts about digital advertising in preparation for this part of your submission. 
+Over the next week, read two articles or book extracts about digital advertising in preparation for this part of your submission. 
+
+Please reference the digital advertising brief for titles or work with the library to find relevant titles. 
 
 ### Blog 
 
@@ -58,18 +60,16 @@ Your post should address these questions (in no particular order):
 	* Did the campaign grab the attention of people in the room?
 	* How can I make my campaign and pitch have greater impact for summative? 
 
-2. Jot down an action plan for the next 4 weeks (5 including enhancement week): list what you want to do in order to address that feedback that you received. 
+2. Jot down an action plan for the next 2 weeks: list what you want to do in order to address that feedback that you received. 
 
-3. Plot out the tasks that you have remaining for Summative presentation against the [hand in doc](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/master/projects/union-hack) and plot them against the remianing weeks in the course.
+3. Plot out the tasks that you have remaining for Summative presentation against the [hand in doc](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising) and plot them against the remianing weeks in the course.
     
-    ### For Enhancement Week
-
-	You have time without any lectures which is great to start putting things in place for the next part of term. Whilst you have some time:
+    ### For Next Time, Monday 27th November:
 
 	* Do some research into [invision](https://www.invisionapp.com/), sign up and make an account. 
 	* Look into design libraries that you can borrow to help design your products or prototypes, like [Facebook](https://en.facebookbrand.com/). Don't reinvent the wheel. 
 	* Let me know whether you are interested in being part of the degree show. 
-	* Post some inspiration on the degree show [slack](https://raveweb.slack.com/messages/degree-show/team/jonny/) or [GoogleDoc](https://docs.google.com/document/d/1g9ifo6is4V87J-tVJ6yLE4JzjbYWaRprA6RsJmLjCyc/edit). 
+	
 
 
 

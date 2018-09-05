@@ -1,0 +1,128 @@
+# Digital Advertising in the Interactive Age
+
+![Spotify Ad Campaign](assets/Spotify_Ad_Campaign.jpg) 
+
+### This is a **individual** or **team project for two** about creating a *digital advertising campaign*.
+
+The​ ​currency​ ​of​ ​advertising​ ​is​ ​ideas​ ​and​ ​the​ ​key​ ​to success​ ​is​ ​the​ ​ability​ ​to​ ​generate​ ​ideas​ ​and​ ​solutions​ ​that​ ​sell​ ​the products whilst reaching out to a specific, identified consumer.​ ​As a result you will need to​ ​generate​ ​ideas​ ​and​ ​solutions​ ​whilst demonstrating how these ideas have been:
+
+1. **Targeted:** ​produced​ ​for a specific target audience ​(concepts ​cannot​ ​be​ ​for​ ​a general​ ​audience).
+2. **Editorialised:**  ​developed so that​ ​the​ ​most​ ​appropriate​ angles ​to the​ ​market/product/client​ ​have been exploited.
+3. **Optimised:** ​​researched and delivered through​ ​the​ ​most effective​ touch points for the ​​targeted​ ​audience. 
+4. **Integrated:** delivered with a clear strategy about how all touch points work together to create an integrated advertising campaign. 
+
+### Integrating digital into the campaign
+
+​​As​ ​web​ ​media specialists,​ ​student​ ​solutions​ ​to​ ​the brief​ ​need ​to integrate **at least one​** ​sophisticated​ ​digital touch point​ ​to​ ​impress​ ​employers.​ ​For this students will need​ ​to​ research​ ​digital innovation within the advertising industry (in the past this has been chatbots, snapchat,​ geolocation filters, ​virtual​ ​reality​ ​and interactive​ ​billboards)​.​ ​This​ ​year​ ​it​ ​will be​ ​something​ ​different.​ ​Whatever​ ​solution​ ​students find,​ ​consider: 
+
+1. Innovation in the web connected industries and how this could be unitised to create “news” stories.
+2. Viral​ ​marketing and social media and how this can be used to propel advertising campaigns to audiences.
+3. How​ ​to​ ​enhance​ ​brand​ ​identity​ ​through web enabled products and services.
+4. Making​ ​use​ ​of​ ​traditional​ ​online​ ​advertising​ ​(i.e.​ ​banner​ ​ads,​ ​bespoke apps,​ ​and​ ​videos)
+5. Using​ ​your​ ​web-skills​ ​to​ ​make​ ​the​ ​WHOLE​ ​campaign​ ​work​ ​with​ ​one message.
+6. Using prototyping and mockups to support any web based solutions put forward. 
+
+
+## The brief
+
+TODO
+
+## The Process: The Double Diamond
+
+Both this course, your class and homework tasks will follow the double diamond creative process where we will discover,define, develop and deliver your advertising campaign over the unit. 
+
+![](/assets/) TODO - add image
+
+## Deliverables
+
+Throughout the unit students will build up a portfolio of project work consisting of: 
+
+### Part A: Research Record Folder (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
+
+Students will upload a research pack consisting of an annotated bibliography showing a minimum of 8 research sources. Each source must be accompanied by EITHER a 100min - 200max word summary OR a video explanation (max 1min) detailing the sources contribution to current advertising practice or the value taken from the piece for the students project development. Of the 8 research sources: 
+
+* 2 must be chosen from the unit reading list. 
+* 2 must address current digital trends within the advertising industry. 
+* 2 must address insight into the briefs target audience, their motivations, habits, behaviours and drivers.
+* 2 must be selected from a fellow students annotated bibliography. 
+
+In the case of submitting video explanations, the research source title must be clearly stated at the start of each video explainer. All videos must also be accompanied by a Ravensbourne referenced bibliography.
+
+### Part B: A Campaign Branding Booklet (12 x A4 PDF Max and supporting files):
+
+The campaign branding booklet will document your campaigns development in terms of the creative idea, campaign touchpoints as well as the campaign brand aesthetic and should be delivered to a high visual design standard. This should include: 
+
+* Detail of the three remarkable advertising campaigns chosen as part of your holiday research. 
+* Detail of your initial 12 concepts for your campaign. 
+* Detail of the concepts you chose to develop further and why (clear editorial decision making should be shown here). 
+* Campaign mood boarding.
+* A finished campaign one pager.
+* Detail of your campaign touch point development, both physical and digital and why these are appropriate for target audience and campaign.
+* Detail of the web media solutions/touch points chosen to support your campaign including functionality & any prototyping. (prototyping source files may be supplied separately to the booklet)
+* Campaign branding experimentation. 
+* Final campaign brand guidelines including: font, colour pallets, image moods, choice of models/images, logo size & restrictions etc.
+
+### Part C: A Pitch Presentation (Supplied as both PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT): 
+
+The pitch presentation should sell your final campaign idea pitch style to your brand or briefing company and as a result should be clear in concept, creative execution, research and purpose.  Presentations should also be branded to a high standard as outlined in your campaign branding booklet. This presentation should include: 
+
+* The finished client-brief: A condensed slide outlining the problem that you are being asked to solve. No copies of full briefs please. 
+* Your campaign proposal: What is the creative idea/solution to the problem. 
+* Justification of creative concept: How does your campaign idea appeal to or  address your target market? 
+* An overview of all campaign touchpoints suggested to launch your campaign, both physical and digital (at least one web media solution).
+* Technical specifications/prototypes of an innovative web based touch point and how it integrates with the whole campaign: Answer: Why are you using this web solution? What does it bring to your campaign? How have you integrated the web technologies into your campaign? What is the functionality of your web based solution? 
+* Justification of touch point choice. How have you identified the most suitable platforms for your campaign in order for it to be effective?
+* A visual campaign plan detailing how your touch points work together to create an integrated advertising campaign: Answer: What media/experience will go out in which channel? How will this work over time? How does your approach to multiple channels make sense as a whole campaign?
+
+### Part D: A blog post log (A4 PDF) containing your blog posts in full, including supporting images. Please download/copy your posts into .PDF form, they will not be accepted as links.
+
+# Assessments :sparkles:
+
+## Formative Parts 1: Pitch Presentation in Lecture hours: Monday 19th November 
+
+Students/teams will present their work to date on their digital advertising campaign for tutor and peer review including: 
+
+* A condensed chosen client-brief outlining the problem to be solved. 
+* A research record summary detailing how reading resources have contributed to project based work. 
+* 12 initial concepts and a justification for the idea chosen to take forward. 
+* An elevator pitch for your chosen concept.
+* A pitch one pager for your chosen concept.
+* Creative mood boards.
+* An initial idea of campaign brand. 
+* An online of creative outputs for the campaign and a justification of why they are appropriate for the brief and target audience. 
+* An outline campaign plan.
+
+## Formative Part 2: An online upload on Monday 19th November before 4pm of: 
+
+**Part A: Research Record Folder** (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
+
+**Work to date on Part B: A Campaign Branding Booklet** (12 x A4 PDF Max and supporting files).
+
+These hand ins must be accompanied by a self assessment sheet as this will be the basis for tutor formative feedback.
+
+## Summative Assessment Part 1: Part C Pitch Presentation in Lecture hours: Monday 10th December 2018 
+
+Summative presentation should sell your final campaign idea pitch style to your brand or briefing company and as a result should be clear in concept, creative execution, research and purpose.  Presentations should also be branded to a high standard as outlined in your campaign branding booklet. This presentation should include: 
+
+* The finished client-brief: A condensed slide outlining the problem that you are being asked to solve.
+* Your campaign proposal: What is the creative idea/solution to the problem. 
+* Concept visuals: How will you communicate your campaign with images/typography.
+* Justification of creative concept: How does your campaign idea appeal to or  address your target market? 
+* An overview of all campaign touchpoints suggested to launch your campaign, both physical and digital (at least one web media solution).
+* Technical specifications/prototypes of an innovative web based touch point and how it integrates with the whole campaign: Answer: How have you integrated the web technologies into your campaign? What is the functionality of your web based solution? 
+* Justification of touch point choice. How have you identified the most suitable platforms for your campaign in order for it to be effective?
+* A visual campaign plan detailing how your touch points work together to create an integrated advertising campaign: Answer: What media/experience will go out in which channel? How will this work over time? How does your approach to multiple channels make sense as a whole campaign?
+
+## Summative Assessment Parts 2: An online upload on Monday 10th December before 4pm of:
+
+**Part A: Research Record Folder** (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
+
+**Part B: A Campaign Branding Booklet** (12 x A4 PDF Max and supporting files).
+
+**Part C: A Pitch Presentation** (Supplied as both PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT).
+
+**Part D: A blog post log** (A4 PDF) containing your blog posts in full, including supporting images. Please download/copy your posts into .PDF form, they will not be accepted as links.
+
+Please remember to supply versions of your presentations/hand ins that are easily opened for unit assessment. It is a student responsibility to make sure that markers can see your work.
+
+
