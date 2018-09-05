@@ -31,7 +31,7 @@
 
 # Holiday Project Presentations
 
-![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Think_Small.jpg)
+![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/SethGodin.jpg)
 
 Over the holidays you were set a task: To watch [Seth Godins Ideas Worth Spreading](https://www.ted.com/talks/seth_godin_on_sliced_bread)
 
