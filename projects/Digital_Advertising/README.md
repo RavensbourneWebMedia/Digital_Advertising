@@ -1,6 +1,6 @@
 # Digital Advertising Campaign
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/Think_Small.jpg) 
+![](/assets/Spotify_Ad_Campaign.jpg) 
 
 ### This is a **individual** or **team project for two** about creating a *digital advertising campaign*.
 
