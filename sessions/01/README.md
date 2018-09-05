@@ -1,15 +1,15 @@
 # Week 1
 
-### Monday 2nd October 2017
+### Monday 1st October 2018
 
 1. [Welcome](#welcome) :)
 2. Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
-3. Intro: [D&AD New Blood Briefs](#d&ad-new-blood-briefs)  
-4. Workshop: [Breaking Down A Brief](#workshop-breaking-down-a-brief)
-5. Housekeeping: Where do you blog? What do you host? Pop these in this [googledoc](https://docs.google.com/spreadsheets/d/1UmrIu1Am9zldfDFPc6O5JpzulP3A7LAZG0EcaJSleXo/edit?usp=sharing)
+3. Holiday Project Presentations: 3 remarkable Advertising Campaigns
+4. Intro: Industry Briefs for the Unit
+5. Workshop: [Breaking Down A Brief](#workshop-breaking-down-a-brief)
+6. Housekeeping: Where do you blog? What do you host? Pop these in this [googledoc](https://docs.google.com/spreadsheets/d/1UmrIu1Am9zldfDFPc6O5JpzulP3A7LAZG0EcaJSleXo/edit?usp=sharing)
 
 ### Your [homework](#homework) and [blog](#blog)!
-
 
 # Welcome
 
@@ -27,6 +27,12 @@
 What are **your thoughts?**
 
  [Advertising Presentation](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/Brief_History_of_Advertising_2016_Morning_Session.pdf)
+
+
+# Holiday Project Presentations
+
+Over the holidays you were set a task: To watch Seth Godins
+
 
 
 # D&AD New Blood Briefs
