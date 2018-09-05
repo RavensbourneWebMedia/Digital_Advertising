@@ -15,8 +15,6 @@
 * You will deliver​ ​a​ ​cross-media​ ​campaign​ ​solution​ ​for​ ​​**summative​ ​​stage** comprising of ​**a)​ ​campaign ​visuals,​ b) campaign touchpoints and c) a web​ enabled solution​.**
 
 
-If you would like to read the full unit brief, this can be found [here.](TODO:ADD Final Brief here)
-
 # Plan for the unit
 
 When | In class | Homework | Blog 
@@ -30,19 +28,20 @@ When | In class | Homework | Blog
 [Monday<br>03.12.18](sessions/09)| <ul><li>Class share:Campaign Plans<li>Recap of Summative Submissions<li> Project tutorials: Make action plans| <ul><li>Prepare summative| <ul><li> Summative prep
 [Monday<br>10.12.18](sessions/10)| <ul><li>**Summative assessment**<li>Summative presentations<li>Online submission|  | 
 
-
 # Learning goals
 
 By the end of this course, you will be able to:
 
-1. Use your web-skills to make a **whole marketing campaign** conveying one strong storytelling message. 
-2. Use your knowledge of advertising and marketing to create integratied concepts for conventional and new media applications.
-3. Use self-initiative and good judgement to produce work to a high professional standard that balances academic and competition requirements.
-4. Use editorial judgement to select strong ideas, the correct platform and approach for commercial advertising campaigns.
-5. Design an integrated solutions that combine ideas with cross-media strategies, Web 2.0 and traditional technologies in a compelling integrated campaign.
-6. Apply art-direction and copywriting skills associated with advertising and marketing to your web based projects.
+1. Show that you have built upon initial knowledge of advertising and marketing to create ideas, concepts, conventional media and new media applications. 
+2. Use self-initiative and develop good judgement in the presentation of work to a high professional standard that balances academic and competition requirements. 
+3. Use editorial judgement on the selection of ideas, platform and approach for commercial use. 
+4. Design an integrated solution that combines ideas with cross-media strategies, Web 2.0 and traditional technologies in a compelling integrated campaign. 
+5. Demonstrate art-direction and copywriting skills associated with advertising and marketing. 
+6. Show the application of entrepreneurial attributes and behaviour in project work, skills development and own personal promotion. 
 
 # Rules of the road
+
+![Spotify Ad Campaign](/Assets/5-22-13-photo.jpg)
 
 * **Be present**. If you happen to be late or absent, make sure you email me about it before a session starts. 
 * **Participate** in class lectures, tutorials and workshops. We'll make sure that your ideas have space to be heard and that nobody makes you feel uncomfortable about sharing them.
