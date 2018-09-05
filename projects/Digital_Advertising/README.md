@@ -1,6 +1,6 @@
 # Digital Advertising in the Interactive Age
 
-![](/assets/Spotify_Ad_Campaign.jpg) 
+![Spotify Ad Campaign](assets/Spotify_Ad_Campaign.jpg) 
 
 ### This is a **individual** or **team project for two** about creating a *digital advertising campaign*.
 
