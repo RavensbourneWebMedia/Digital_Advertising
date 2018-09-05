@@ -78,7 +78,7 @@ The pitch presentation should sell your final campaign idea pitch style to your 
 
 # Assessments :sparkles:
 
-## Formative Parts 1: Pitch Presentation in Lecture hours: Monday 19th November. 
+## Formative Parts 1: Pitch Presentation in Lecture hours: Monday 19th November 
 
 Students/teams will present their work to date on their digital advertising campaign for tutor and peer review including: 
 
@@ -94,50 +94,35 @@ Students/teams will present their work to date on their digital advertising camp
 
 ## Formative Part 2: An online upload on Monday 19th November before 4pm of: 
 
-Part A: Research Record Folder (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
+**Part A: Research Record Folder** (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
 
-Work to date on Part B: A Campaign Branding Booklet (12 x A4 PDF Max and supporting files).
+**Work to date on Part B: A Campaign Branding Booklet** (12 x A4 PDF Max and supporting files).
 
 These hand ins must be accompanied by a self assessment sheet as this will be the basis for tutor formative feedback.
 
+## Summative Assessment Part 1: Part C Pitch Presentation in Lecture hours: Monday 10th December 2018 
 
+Summative presentation should sell your final campaign idea pitch style to your brand or briefing company and as a result should be clear in concept, creative execution, research and purpose.  Presentations should also be branded to a high standard as outlined in your campaign branding booklet. This presentation should include: 
 
-## For Summative Presentation: Monday 11th December in Lecture hours
+* The finished client-brief: A condensed slide outlining the problem that you are being asked to solve.
+* Your campaign proposal: What is the creative idea/solution to the problem. 
+* Concept visuals: How will you communicate your campaign with images/typography.
+* Justification of creative concept: How does your campaign idea appeal to or  address your target market? 
+* An overview of all campaign touchpoints suggested to launch your campaign, both physical and digital (at least one web media solution).
+* Technical specifications/prototypes of an innovative web based touch point and how it integrates with the whole campaign: Answer: How have you integrated the web technologies into your campaign? What is the functionality of your web based solution? 
+* Justification of touch point choice. How have you identified the most suitable platforms for your campaign in order for it to be effective?
+* A visual campaign plan detailing how your touch points work together to create an integrated advertising campaign: Answer: What media/experience will go out in which channel? How will this work over time? How does your approach to multiple channels make sense as a whole campaign?
 
-Students/teams will give their final pitch in a presentation form.
+## Summative Assessment Parts 2: An online upload on Monday 10th December before 4pm of:
 
-Those not presenting will note feedback for their peers. 
+**Part A: Research Record Folder** (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
 
-## For Summative Hand in: Monday 11th December before 4PM
+**Part B: A Campaign Branding Booklet** (12 x A4 PDF Max and supporting files).
 
-Students will use the moodle links to submit: 
+**Part C: A Pitch Presentation** (Supplied as both PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT).
 
-#### 1. A Campaign Proposal (4 x A4 PDF Max) that will include:
+**Part D: A blog post log** (A4 PDF) containing your blog posts in full, including supporting images. Please download/copy your posts into .PDF form, they will not be accepted as links.
 
-* The finished client-brief: A condensed online of the problem that you are being asked to solve. No full D&AD briefs please ;)
-* Your Campaign Proposal: What is the **creative idea**. 
-* Concept visuals: How will you communicate this with **images/typography**. 
-* Outline of solutions: How is this designed to address your **target market**.
-* Technical specifications of the **web solution** and how it integrates with the whole campaign: How have you integrated the web/web technologies into your campaign. What is this functionality. 
-* Campaign plan: What media/experience will go out in which channel? How will this work over time? How does your apprach to multiple channels make sense as a whole campaign? 
+Please remember to supply versions of your presentations/hand ins that are easily opened for unit assessment. It is a student responsibility to make sure that markers can see your work.
 
-#### 2. A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will include:
-
-* Concise documentation outlining the research stages and physical/online reading and campaign references that have contributed to the project.
-
-#### 3. A Pitch Presentation (Supplied as **both** PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT). 
-
-*  Please remember to supply versions of your presentations that are easily opened for unit assessment. It is your responsibility to make sure that markers can see your work. 
-
-#### 4. A Blog Log (1 x A4 PDF Only) containing links to the blog posts that you have published each week for the course. 
-
-This blog log will contain posts on:
-
-* Week 1: [Seth Godin's How to Get Your Ideas to Spread.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/01#homework)
-* Week 2: [Moodboards.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/02#homework)
-* Week 3: [Rory Sutherland's Life Lessons of an Ad Man](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#blog)
-* Week 4: [Reflective: Course Work so far.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/04#homework) 
-* Week 5: [Reflective: Formative Feedback](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/05#homework)
-* Week 6: Analyse 2 previous D&AD New Blood Winners.
-* Week 7: [Make a Weekly Planner documenting the work that you need to do this week](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/07#blog) Use your blog post to reflect on the process of completeing the work that you have on your planner.
 
