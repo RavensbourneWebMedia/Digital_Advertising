@@ -6,12 +6,12 @@
 
 The​ ​currency​ ​of​ ​advertising​ ​is​ ​ideas​ ​and​ ​the​ ​key​ ​to success​ ​is​ ​the​ ​ability​ ​to​ ​generate​ ​ideas​ ​and​ ​solutions​ ​that​ ​sell​ ​the products whilst reaching out to a specific, identified consumer.​ ​As a result you will need to​ ​generate​ ​ideas​ ​and​ ​solutions​ ​whilst demonstrating how these ideas have been:
 
-1. **Targeted:** ​​–​ ​produced​ ​for a specific target audience ​(concepts ​cannot​ ​be​ ​for​ ​a general​ ​audience).
-2. **Editorialised:** ​​-​ ​developed so that​ ​the​ ​most​ ​appropriate​ angles ​to the​ ​market/product/client​ ​have been exploited.
-3. **Optimised:** ​​–​  researched and delivered through​ ​the​ ​most effective​ touch points for the ​​targeted​ ​audience. 
+1. **Targeted:** ​produced​ ​for a specific target audience ​(concepts ​cannot​ ​be​ ​for​ ​a general​ ​audience).
+2. **Editorialised:**  ​developed so that​ ​the​ ​most​ ​appropriate​ angles ​to the​ ​market/product/client​ ​have been exploited.
+3. **Optimised:** ​​researched and delivered through​ ​the​ ​most effective​ touch points for the ​​targeted​ ​audience. 
 4. **Integrated:** delivered with a clear strategy about how all touch points work together to create an integrated advertising campaign. 
 
-###Integrating digital into the campaign
+### Integrating digital into the campaign
 
 ​​As​ ​web​ ​media specialists,​ ​student​ ​solutions​ ​to​ ​the brief​ ​need ​to integrate **at least one​** ​sophisticated​ ​digital touch point​ ​to​ ​impress​ ​employers.​ ​For this students will need​ ​to​ research​ ​digital innovation within the advertising industry (in the past this has been chatbots, snapchat,​ geolocation filters, ​virtual​ ​reality​ ​and interactive​ ​billboards)​.​ ​This​ ​year​ ​it​ ​will be​ ​something​ ​different.​ ​Whatever​ ​solution​ ​students find,​ ​consider: 
 
