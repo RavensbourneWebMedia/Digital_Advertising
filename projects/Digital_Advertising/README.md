@@ -37,7 +37,7 @@ Both this course, your class and homework tasks will follow the double diamond c
 
 Throughout the unit students will build up a portfolio of project work consisting of: 
 
-**Part A: Research Record Folder** (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
+### Part A: Research Record Folder (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
 
 Students will upload a research pack consisting of an annotated bibliography showing a minimum of 8 research sources. Each source must be accompanied by EITHER a 100min - 200max word summary OR a video explanation (max 1min) detailing the sources contribution to current advertising practice or the value taken from the piece for the students project development. Of the 8 research sources: 
 
@@ -48,7 +48,7 @@ Students will upload a research pack consisting of an annotated bibliography sho
 
 In the case of submitting video explanations, the research source title must be clearly stated at the start of each video explainer. All videos must also be accompanied by a Ravensbourne referenced bibliography.
 
-**Part B: A Campaign Branding Booklet** (12 x A4 PDF Max and supporting files):
+### Part B: A Campaign Branding Booklet (12 x A4 PDF Max and supporting files):
 
 The campaign branding booklet will document your campaigns development in terms of the creative idea, campaign touchpoints as well as the campaign brand aesthetic and should be delivered to a high visual design standard. This should include: 
 
@@ -62,7 +62,7 @@ The campaign branding booklet will document your campaigns development in terms 
 * Campaign branding experimentation. 
 * Final campaign brand guidelines including: font, colour pallets, image moods, choice of models/images, logo size & restrictions etc.
 
-**Part C: A Pitch Presentation** (Supplied as both PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT): 
+### Part C: A Pitch Presentation (Supplied as both PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT): 
 
 The pitch presentation should sell your final campaign idea pitch style to your brand or briefing company and as a result should be clear in concept, creative execution, research and purpose.  Presentations should also be branded to a high standard as outlined in your campaign branding booklet. This presentation should include: 
 
@@ -74,28 +74,33 @@ The pitch presentation should sell your final campaign idea pitch style to your 
 * Justification of touch point choice. How have you identified the most suitable platforms for your campaign in order for it to be effective?
 * A visual campaign plan detailing how your touch points work together to create an integrated advertising campaign: Answer: What media/experience will go out in which channel? How will this work over time? How does your approach to multiple channels make sense as a whole campaign?
 
-**Part D: A blog post log** (A4 PDF) containing your blog posts in full, including supporting images. Please download/copy your posts into .PDF form, they will not be accepted as links.
+### Part D: A blog post log (A4 PDF) containing your blog posts in full, including supporting images. Please download/copy your posts into .PDF form, they will not be accepted as links.
 
-## The brief :sparkle
+# Assessments :sparkles:
+
+## Formative Parts 1: Pitch Presentation in Lecture hours: Monday 19th November. 
+
+Students/teams will present their work to date on their digital advertising campaign for tutor and peer review including: 
+
+* A condensed chosen client-brief outlining the problem to be solved. 
+* A research record summary detailing how reading resources have contributed to project based work. 
+* 12 initial concepts and a justification for the idea chosen to take forward. 
+* An elevator pitch for your chosen concept.
+* A pitch one pager for your chosen concept.
+* Creative mood boards.
+* An initial idea of campaign brand. 
+* An online of creative outputs for the campaign and a justification of why they are appropriate for the brief and target audience. 
+* An outline campaign plan.
+
+## Formative Part 2: An online upload on Monday 19th November before 4pm of: 
+
+Part A: Research Record Folder (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
+
+Work to date on Part B: A Campaign Branding Booklet (12 x A4 PDF Max and supporting files).
+
+These hand ins must be accompanied by a self assessment sheet as this will be the basis for tutor formative feedback.
 
 
-## For Formative Presentation: Monday 20th November in Lecture hours
-
-Students/teams will outline their chosen brief, their target audience insights and pitch their idea in presentation form.
-
-This should incude:
-
-* The concept elevator pitch. 
-* Initial concept boards/pitch one pager. 
-* Moodboard.
-* Outline Campaign Plan. 
-
-## For Formative Hand In: Monday 20th November before 4PM
-
-* A finished client-brief (A single A4 PDF)
-* Initial concept boards and mood-boards that outline the market (Max 3 xA4 PDF)
-* Outline campaign plan (A4 PDF/keynote/PowerPoint)
-* Presentation (A4 PDF/Keynote/PowerPoint)
 
 ## For Summative Presentation: Monday 11th December in Lecture hours
 
