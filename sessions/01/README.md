@@ -14,7 +14,7 @@
 # Welcome
 
 1. [What is this course about?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md)
-2. [What's the plan?](../../../../README.md#plan) 
+2. [What's the plan?](../../../README.md#plan) 
 3. [What can you learn?](../../README.md#learning-goals)
 4. Keeping a **journal** to record your creative process is *extremely* important. Don't let your ideas and thoughts fade away! Think of your project blog as your **digital sketchbook**. More on that [here](https://github.com/RavensbourneWebMedia/Blogging#why-blogging).
 5. Reading lists and perusing the library (I'll also share some PDFs).
