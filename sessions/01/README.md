@@ -150,7 +150,7 @@ Bring your list of innovations to the next session on 15th October.
 
 # Library Session
 
-![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Double-Diamond.png)
+![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Rave_Library.jpg)
 
 Sessions 1 and 2 will be research intensive and it's important to lay the foundations of your projects correctly so that you can make camapigns that are targeted and optimised for the intended audeince. 
 
