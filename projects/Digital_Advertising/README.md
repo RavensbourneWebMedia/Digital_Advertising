@@ -1,57 +1,83 @@
-# Digital Advertising Campaign
+# Digital Advertising in the Interactive Age
 
 ![](/assets/Spotify_Ad_Campaign.jpg) 
 
 ### This is a **individual** or **team project for two** about creating a *digital advertising campaign*.
 
-During the course you will choose an industry brief and produce a creative campaign that is:
+The​ ​currency​ ​of​ ​advertising​ ​is​ ​ideas​ ​and​ ​the​ ​key​ ​to success​ ​is​ ​the​ ​ability​ ​to​ ​generate​ ​ideas​ ​and​ ​solutions​ ​that​ ​sell​ ​the products whilst reaching out to a specific, identified consumer.​ ​As a result you will need to​ ​generate​ ​ideas​ ​and​ ​solutions​ ​whilst demonstrating how these ideas have been:
 
-1. **Targeted:** Your campaign will target a specific audience. Your project cannot be for everyone or a general audience. 
+1. **Targeted:** ​​–​ ​produced​ ​for a specific target audience ​(concepts ​cannot​ ​be​ ​for​ ​a general​ ​audience).
+2. **Editorialised:** ​​-​ ​developed so that​ ​the​ ​most​ ​appropriate​ angles ​to the​ ​market/product/client​ ​have been exploited.
+3. **Optimised:** ​​–​  researched and delivered through​ ​the​ ​most effective​ touch points for the ​​targeted​ ​audience. 
+4. **Integrated:** delivered with a clear strategy about how all touch points work together to create an integrated advertising campaign. 
 
-2. **Editorialised:** You will determine and develop the most appropriate ideas to the market/product/client. 
+###Integrating digital into the campaign
 
-3. **Optimised:** You will use methods to find out (and measure) the most effective methods of communication with a targeted audience, users or customers.
+​​As​ ​web​ ​media specialists,​ ​student​ ​solutions​ ​to​ ​the brief​ ​need ​to integrate **at least one​** ​sophisticated​ ​digital touch point​ ​to​ ​impress​ ​employers.​ ​For this students will need​ ​to​ research​ ​digital innovation within the advertising industry (in the past this has been chatbots, snapchat,​ geolocation filters, ​virtual​ ​reality​ ​and interactive​ ​billboards)​.​ ​This​ ​year​ ​it​ ​will be​ ​something​ ​different.​ ​Whatever​ ​solution​ ​students find,​ ​consider: 
 
-4. **Integrated:** You will research and choose the best (online, offline, traditional or new) methods to reach the audience you are targeting. 
+1. Innovation in the web connected industries and how this could be unitised to create “news” stories.
+2. Viral​ ​marketing and social media and how this can be used to propel advertising campaigns to audiences.
+3. How​ ​to​ ​enhance​ ​brand​ ​identity​ ​through web enabled products and services.
+4. Making​ ​use​ ​of​ ​traditional​ ​online​ ​advertising​ ​(i.e.​ ​banner​ ​ads,​ ​bespoke apps,​ ​and​ ​videos)
+5. Using​ ​your​ ​web-skills​ ​to​ ​make​ ​the​ ​WHOLE​ ​campaign​ ​work​ ​with​ ​one message.
+6. Using prototyping and mockups to support any web based solutions put forward. 
 
-## Choosing a brief
 
-For this project it is recommended that you respond to one of the 16 D&AD New Blood Briefs but you are also welcome to respond to a brief that you have from an industry contact or write one yourself. 
+## The brief
 
-If writing your own or using a bespoke brief, please finalise first with your tutor. 
+TODO
 
-## D&AD New Blood Briefs 
+## The Process: The Double Diamond
 
-![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/assets/DAD_Award_New-Blood.jpg) 
+Both this course, your class and homework tasks will follow the double diamond creative process where we will discover,define, develop and deliver your advertising campaign over the unit. 
 
-This year there were 16 briefs put forward by the following industy leaders:
+![](/assets/) TODO - add image
 
-1. Adobe
-2. Amazon
-3. Arjowiggins
-4. BBC 
-5. Crowne Plazaa
-6. Desperados
-7. Hasbro
-8. John Lewis
-9. Monotype
-10. MUBI
-11. Nationwide
-12. Pearson
-13. Respect for Animals
-14. Squarespace
-15. The British Army
-16. The National Autistic Society
+## Deliverables
 
-A copy of these briefs can be found on the unit page on [moodle] (TODO: Add link here)
+Throughout the unit students will build up a portfolio of project work consisting of: 
 
-**Note**, some briefs may be more relevant than others as we will be working toward making a **digital campaign or product** as a response. 
+**Part A: Research Record Folder** (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
 
-## The Process
+Students will upload a research pack consisting of an annotated bibliography showing a minimum of 8 research sources. Each source must be accompanied by EITHER a 100min - 200max word summary OR a video explanation (max 1min) detailing the sources contribution to current advertising practice or the value taken from the piece for the students project development. Of the 8 research sources: 
 
-* Decide on a brief. Research the target market. 
-* Breaking down your work into the following sections; Art-direction, concepting and copywriting, produce several solutions for brief. 
-* Develop the best solutions that address the brief and the demographic so that you have the following documents for assessments.
+* 2 must be chosen from the unit reading list. 
+* 2 must address current digital trends within the advertising industry. 
+* 2 must address insight into the briefs target audience, their motivations, habits, behaviours and drivers.
+* 2 must be selected from a fellow students annotated bibliography. 
+
+In the case of submitting video explanations, the research source title must be clearly stated at the start of each video explainer. All videos must also be accompanied by a Ravensbourne referenced bibliography.
+
+**Part B: A Campaign Branding Booklet** (12 x A4 PDF Max and supporting files):
+
+The campaign branding booklet will document your campaigns development in terms of the creative idea, campaign touchpoints as well as the campaign brand aesthetic and should be delivered to a high visual design standard. This should include: 
+
+* Detail of the three remarkable advertising campaigns chosen as part of your holiday research. 
+* Detail of your initial 12 concepts for your campaign. 
+* Detail of the concepts you chose to develop further and why (clear editorial decision making should be shown here). 
+* Campaign mood boarding.
+* A finished campaign one pager.
+* Detail of your campaign touch point development, both physical and digital and why these are appropriate for target audience and campaign.
+* Detail of the web media solutions/touch points chosen to support your campaign including functionality & any prototyping. (prototyping source files may be supplied separately to the booklet)
+* Campaign branding experimentation. 
+* Final campaign brand guidelines including: font, colour pallets, image moods, choice of models/images, logo size & restrictions etc.
+
+**Part C: A Pitch Presentation** (Supplied as both PDF and PPT/KEYNOTE/GOOGLE SLIDES ECT): 
+
+The pitch presentation should sell your final campaign idea pitch style to your brand or briefing company and as a result should be clear in concept, creative execution, research and purpose.  Presentations should also be branded to a high standard as outlined in your campaign branding booklet. This presentation should include: 
+
+* The finished client-brief: A condensed slide outlining the problem that you are being asked to solve. No copies of full briefs please. 
+* Your campaign proposal: What is the creative idea/solution to the problem. 
+* Justification of creative concept: How does your campaign idea appeal to or  address your target market? 
+* An overview of all campaign touchpoints suggested to launch your campaign, both physical and digital (at least one web media solution).
+* Technical specifications/prototypes of an innovative web based touch point and how it integrates with the whole campaign: Answer: Why are you using this web solution? What does it bring to your campaign? How have you integrated the web technologies into your campaign? What is the functionality of your web based solution? 
+* Justification of touch point choice. How have you identified the most suitable platforms for your campaign in order for it to be effective?
+* A visual campaign plan detailing how your touch points work together to create an integrated advertising campaign: Answer: What media/experience will go out in which channel? How will this work over time? How does your approach to multiple channels make sense as a whole campaign?
+
+**Part D: A blog post log** (A4 PDF) containing your blog posts in full, including supporting images. Please download/copy your posts into .PDF form, they will not be accepted as links.
+
+## The brief :sparkle
+
 
 ## For Formative Presentation: Monday 20th November in Lecture hours
 
