@@ -16,7 +16,7 @@ If you would like to read the full unit brief, this can be found [here.](TODO:AD
 # Plan for the unit
 
 When | In class | Homework | Blog 
----- | --------- | -------- | ----
+---- | --------- | ----- | ----
 [Monday<br>01.10.18](sessions/01)| <ul><li>Welcome <li>Intro to the brief<li>Holiday project presentations<li>Library Session<li>| <ul> <li>Research folders<li>| <ul> <li>Innovation & Advertising<li> 
 [Monday<br>15.10.18](sessions/02)| <ul><li> [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) <li>Show and Tell <li>Industry Pointers. <li>[Elevator pitches](#elevator-pitch) <li>Pitch Document/One Pagers| <ul><li>Pitch Document/One Pagers| <ul><li>Moodboards
 [Monday<br>29.10.18](sessions/03)| <ul><li>Overview of Digital Advertising Submissions. <li>Mini Presenation: The Degree Show.<li>Mini Lecture: The Creative Process.<li>Mini Lecture: Advertising Agency Structure.<li>Tutorials. | <ul><li>Researching Target Markets | <ul><li>TBC
