@@ -4,7 +4,7 @@
 
 1. [Welcome](#welcome) :)
 2. Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
-3. Holiday Project Presentations: 3 remarkable Advertising Campaigns
+3. [Holiday Project Presentations](#holiday-project-presentations)
 4. Intro: Industry Briefs for the Unit
 5. Workshop: [Breaking Down A Brief](#workshop-breaking-down-a-brief)
 6. Housekeeping: Where do you blog? What do you host? Pop these in this [googledoc](https://docs.google.com/spreadsheets/d/1UmrIu1Am9zldfDFPc6O5JpzulP3A7LAZG0EcaJSleXo/edit?usp=sharing)
@@ -33,9 +33,14 @@
 
 ![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/SethGodin.jpg)
 
-Over the holidays you were set a task: To watch [Seth Godins Ideas Worth Spreading](https://www.ted.com/talks/seth_godin_on_sliced_bread)
+Over the holidays you were set a task: To watch [Seth Godins Ideas Worth Spreading](https://www.ted.com/talks/seth_godin_on_sliced_bread) and bring the following to the first session to present to class: 
 
+* 3 advertising campaigns that you think are remarkable
+* Your justification for choosing these projects (why do they stand out to you)
 
+Let's share these projects with the class to cover a range of contemporary advertising campaigns. 
+
+Who would like to be first to present? 
 
 # D&AD New Blood Briefs
 
