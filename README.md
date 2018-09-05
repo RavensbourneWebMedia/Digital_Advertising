@@ -2,7 +2,7 @@
 
 # Unit Overview
 
-
+![Spotify Ad Campaign](Assets/Spotify_Advert.png)
 
 ### During this project you will produce an integrated advertising campaign that will champion your ideas, intelligence, communication and web media skills to potential employers, where: 
 
