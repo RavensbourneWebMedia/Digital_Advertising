@@ -8,6 +8,7 @@
 4. Intro: Industry Briefs for the Unit (#industry-briefs-for-the-unit)
 5. Workshop: [Breaking Down A Brief](#workshop-breaking-down-a-brief)
 6. Homework task: Start your [Research Record Folder](#research-record-folder)
+7. [Library Session](#library-session) Researching your target market
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -119,26 +120,40 @@ Now that you have broken down your brief, how do you feel about the brief that y
 
 # Homework
 
-# Research Record Folder
+## Research Record Folder
 
 As we are following the double diamond for this unit, the focus of this session and the next will be discovery. 
 
-![alt text](assets/How_To_Break_Down_A_Brief.jpg)
+![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Double-Diamond.png)
 
 Within this stage of a project it is important to research all areas around the brief and subject thoroughly to bring the right insight to our future work, concepts and designs. 
 
 With this in mind, week 1's homework will be to start your research record folder in the library. 
 
-For the next session on October 15th you will research and bring ready to share with the class the start of your annotated bibliography including: 
+For the next session on **October 15th** you will research and bring ready to share with the class the start of your annotated bibliography including 6 research sources where: 
 
+* 2 must be chosen from the unit reading list. 
+* 2 must address current digital trends within the advertising industry. 
+* 2 must address insight into the briefs target audience, their motivations, habits, behaviours and drivers.
 
+Each source must be accompanied by **EITHER** a 100min - 200max word summary OR a video explanation (max 1min)detailing the sources contribution to current advertising practice or the value taken from the piece for the students project development.
 
-
+This task **MUST** be completed by the next session as you will need to share resources with the rest of the class to move forwards. 
 
 ### Blog 
 
-Watch Seth Godin’s TED talk on [How to get your ideas to spread](https://www.ted.com/talks/seth_godin_on_sliced_bread) and reflect on the content of the lecture and key themes. Note your thoughts on the lecture and how this might relate to your own work. 
+The advertising industry is often a testing ground for the latest innovations and technological advances. In the past this has been chatbots, snapchat,​ geolocation filters, ​virtual​ ​reality​ ​and interactive​ ​billboards but this year these innovations will be different. Search the web and the library high and low for insights into the lastest web based advertising trends. 
 
-Choose 3 **stand out** digital advertising campaigns and explain what makes them "remarkable" in comparison to other campaigns. 
+Once you have found a pool of innovations, write a blog post detailing everything you've found but featuring your **top 3** web based innovations and how they have been used to sell products by industry. 
 
+Bring your list of innovations to the next session on 15th October. 
 
+# Library Session
+
+![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Double-Diamond.png)
+
+Sessions 1 and 2 will be research intensive and it's important to lay the foundations of your projects correctly so that you can make camapigns that are targeted and optimised for the intended audeince. 
+
+To get started we will head to the Library for the last 30mins of the session on how to use Ravensbournes digial resources to research your target audeince. 
+
+Let's get going! 
