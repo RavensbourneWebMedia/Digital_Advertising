@@ -15,10 +15,11 @@
 # Welcome
 
 1. [What is this course about?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md)
-2. [What's the plan?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md#plan-for-the-unit) 
-3. [What can you learn?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md#learning-goals)
-5. The full course [brief](TODO:add brief here).
-6. Examples of past student work. 
+2. The full course [brief](TODO:add brief here).
+3. Examples of past student work. 
+4. [What's the plan?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md#plan-for-the-unit) 
+5. [What can you learn?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md#learning-goals)
+
 
 # A Brief History of Advertising
 
@@ -48,10 +49,16 @@ Who would like to be first to present?
 
 This year you will respond to one of four briefs set by industry, these are: 
 
-* The Adidas Brief
-* The Barcardi Brief
-* The Burger King Brief
-* The Pearsons Brief
+1. The Adidas Brief
+2. The Barcardi Brief
+3. The Burger King Brief
+4. The Pearsons Brief
+
+Let's take 3 mins and read through brief each. I'll number each student and you can read through the corresponding brief. 
+
+Now let's share each brief with the class. Who will share brief 1? 
+
+Now that we've all shared the briefs we will need to decide which to answer before moving forwards. Look at the key points in the brief and the target audeince and think, which will give you the most creative scope moving forwards? Which appeals to you most? 
 
 <!---
 **Note**, some may be more relevant than others as we will be working toward making a **digital campaign or product** as a response. 
@@ -63,7 +70,7 @@ Now that we have heard each brief, which will you choose? Consider:
 * Which briefs spark ideas in your minds / seem to be engaging? Advertising is all about the creative idea!
 * Which briefs call for a digial response? Are there any breifs that rules this out? 
 
---->
+
 
 **Words of Wisdon**
 
@@ -125,6 +132,8 @@ As you work on ideas for your brief, refer back and ask, "Is my idea / campaign 
 
 Now that you have broken down your brief, how do you feel about the brief that you have chosen? Now is the time to stick or twist. 
 
+--->
+
 # Homework
 
 ## Research Record Folder
@@ -137,15 +146,19 @@ Within this stage of a project it is important to research all areas around the 
 
 With this in mind, week 1's homework will be to start your research record folder in the library. 
 
-For the next session on **October 15th** you will research and bring ready to share with the class the start of your annotated bibliography including 6 research sources where: 
+For the next session on **October 15th** you will research and bring ready to share with the class the start of your annotated bibliography including 5 research sources where: 
 
-* 2 must be chosen from the unit reading list. 
+* 1 must be chosen from the unit reading list. 
 * 2 must address current digital trends within the advertising industry. 
 * 2 must address insight into the briefs target audience, their motivations, habits, behaviours and drivers.
 
 Each source must be accompanied by **EITHER** a 100min - 200max word summary OR a video explanation (max 1min)detailing the sources contribution to current advertising practice or the value taken from the piece for the students project development.
 
 This task **MUST** be completed by the next session as you will need to share resources with the rest of the class to move forwards. 
+
+Any questions on the task? Would anyone like to talk through their choice? 
+
+<!---
 
 ### Blog 
 
@@ -154,6 +167,8 @@ The advertising industry is often a testing ground for the latest innovations an
 Once you have found a pool of innovations, write a blog post detailing everything you've found but featuring your **top 3** web based innovations and how they have been used to sell products by industry. 
 
 Bring your list of innovations to the next session on 15th October. 
+
+--->
 
 # Library Session
 
