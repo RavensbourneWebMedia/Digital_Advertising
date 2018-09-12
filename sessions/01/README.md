@@ -5,7 +5,7 @@
 1. [Welcome](#welcome) :)
 2. Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
 3. [Holiday Project Presentations](#holiday-project-presentations)
-4. Intro: Industry Briefs for the Unit (#industry-briefs-for-the-unit)
+4. Intro: [Industry Briefs for the Unit] (#industry-briefs-for-the-unit)
 5. Workshop: [Breaking Down A Brief](#workshop-breaking-down-a-brief)
 6. Homework task: Start your [Research Record Folder](#research-record-folder)
 7. [Library Session](#library-session) Researching your target market
@@ -17,7 +17,8 @@
 1. [What is this course about?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md)
 2. [What's the plan?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md#plan-for-the-unit) 
 3. [What can you learn?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md#learning-goals)
-5. Reading lists and perusing the library.
+5. The full course [brief](TODO:add brief here).
+6. Examples of past student work. 
 
 # A Brief History of Advertising
 
@@ -44,6 +45,13 @@ Who would like to be first to present?
 # Industry Briefs for the Unit
 
 ![alt text](TODO: Add image)
+
+This year you will respond to one of four briefs set by industry, these are: 
+
+* The Adidas Brief
+* The Barcardi Brief
+* The Burger King Brief
+* The Pearsons Brief
 
 <!---
 **Note**, some may be more relevant than others as we will be working toward making a **digital campaign or product** as a response. 
