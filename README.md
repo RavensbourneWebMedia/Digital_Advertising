@@ -17,6 +17,8 @@
 
 # Plan for the unit
 
+TODO: Add class overview Image here
+
 When | In class | Homework 
 ---- | --------- | ----- 
 [Monday<br>01.10.18](sessions/01)| <ul><li>Welcome <li>Intro to the brief<li>Holiday project presentations<li>Library Session| <ul> <li>Research folders
