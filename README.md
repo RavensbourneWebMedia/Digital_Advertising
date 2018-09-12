@@ -17,16 +17,16 @@
 
 # Plan for the unit
 
-When | In class | Homework | Blog 
----- | --------- | ----- | ----
-[Monday<br>01.10.18](sessions/01)| <ul><li>Welcome <li>Intro to the brief<li>Holiday project presentations<li>Library Session| <ul> <li>Research folders| <ul> <li>Innovation & Advertising 
-[Monday<br>15.10.18](sessions/02)| <ul><li> Research presentations <li>Research share <li>Campaign lecture <li>Class brainstorms: touchpoints & innovation| <ul><li>Concept Sketchnoting| <ul><li>Target Market motivations
-[Monday<br>29.10.18](sessions/03)| <ul><li>Campaign concept share <li>Decision matrixes<li>Target market analysis<li>Creative touchpoints<li>Elevator pitches<li>Concept one pagers | <ul><li>Create campaign touchpoints | <ul><li>TBC
-[Monday<br>12.11.18](sessions/04) |  <ul> <li> Intro: Campaign Plans<li>Omni & multi channel advertising<li>Branding workshop |<ul> <li>Campaign branding<li>Formative presentations | <ul><li>The creative process 
-[Monday<br>19.11.18](sessions/05)| <ul><li>**Formative assessment**<li>Formative presentations<li>Self assessment<li>Online upload<li>Course feedback session| <ul> <li>Plan web based touch point<li> | <li>Reflect on presentation feedback. 
-[Monday<br>26.11.18](sessions/07)| <ul> <li>Formative feedback tutorials<li>Workshop:Campaign plan| <ul> <li>Campaign plan mock ups| <ul> <li>TBC 
-[Monday<br>03.12.18](sessions/09)| <ul><li>Class share:Campaign Plans<li>Recap of Summative Submissions<li> Project tutorials: Make action plans| <ul><li>Prepare summative| <ul><li> Summative prep
-[Monday<br>10.12.18](sessions/10)| <ul><li>**Summative assessment**<li>Summative presentations<li>Online submission|  | 
+When | In class | Homework 
+---- | --------- | ----- 
+[Monday<br>01.10.18](sessions/01)| <ul><li>Welcome <li>Intro to the brief<li>Holiday project presentations<li>Library Session| <ul> <li>Research folders
+[Monday<br>15.10.18](sessions/02)| <ul><li> Research presentations <li>Research share <li>Campaign lecture <li>Class brainstorms: touchpoints & innovation| <ul><li>Concept Sketchnoting| 
+[Monday<br>29.10.18](sessions/03)| <ul><li>Campaign concept share <li>Decision matrixes<li>Target market analysis<li>Creative touchpoints<li>Elevator pitches<li>Concept one pagers | 
+[Monday<br>12.11.18](sessions/04) |  <ul> <li> Intro: Campaign Plans<li>Omni & multi channel advertising<li>Branding workshop |<ul> <li>Campaign branding<li>Formative presentations 
+[Monday<br>19.11.18](sessions/05)| <ul><li>**Formative assessment**<li>Formative presentations<li>Self assessment<li>Online upload<li>Course feedback session| <ul> <li>Plan web based touch point<li> 
+[Monday<br>26.11.18](sessions/07)| <ul> <li>Formative feedback tutorials<li>Workshop:Campaign plan| <ul> <li>Campaign plan mock ups
+[Monday<br>03.12.18](sessions/09)| <ul><li>Class share:Campaign Plans<li>Recap of Summative Submissions<li> Project tutorials: Make action plans| <ul><li>Prepare summative
+[Monday<br>10.12.18](sessions/10)| <ul><li>**Summative assessment**<li>Summative presentations<li>Online submission|
 
 # Learning goals
 
