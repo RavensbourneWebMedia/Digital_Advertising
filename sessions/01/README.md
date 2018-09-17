@@ -45,7 +45,7 @@ Who would like to be first to present?
 
 # Industry Briefs for the Unit
 
-![alt text](TODO: Add image)
+![Lightbulb moment](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Lightbulb.jpg)
 
 This year you will respond to one of four briefs set by industry, these are: 
 
