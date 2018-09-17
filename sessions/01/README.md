@@ -5,10 +5,9 @@
 1. [Welcome](#welcome) :)
 2. Lecture & Discussion: [A Brief History of Advertising](#a-brief-history-of-advertising)
 3. [Holiday Project Presentations](#holiday-project-presentations)
-4. Intro: [Industry Briefs for the Unit] (#industry-briefs-for-the-unit)
-5. Workshop: [Breaking Down A Brief](#workshop-breaking-down-a-brief)
-6. Homework task: Start your [Research Record Folder](#research-record-folder)
-7. [Library Session](#library-session) Researching your target market
+4. Intro: [Industry Briefs for the Unit](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2018/19/sessions/01#industry-briefs-for-the-unit)
+5. Homework task: Start your [Research Record Folder](#research-record-folder)
+6. [Library Session](#library-session) Researching your target market
 
 ### Your [homework](#homework) and [blog](#blog)!
 
