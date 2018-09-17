@@ -17,7 +17,7 @@
 
 # Plan for the unit
 
-TODO: Add class overview Image here
+See the course poster as a visual [here.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/Assets/Amy%20Jackson-Bruce%20PGcert_Poster-Layout-final-ish.pdf) 
 
 When | In class | Homework 
 ---- | --------- | ----- 
