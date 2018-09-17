@@ -49,10 +49,10 @@ Who would like to be first to present?
 
 This year you will respond to one of four briefs set by industry, these are: 
 
-1. The Adidas Brief
-2. The Barcardi Brief
-3. The Burger King Brief
-4. The Pearsons Brief
+1. [The Adidas Brief](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/adidas_Brief_New_Blood_Awards_2018.pdf)
+2. [The Barcardi Brief](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Bacardi_Brief_New_Blood_Awards_2018.pdf)
+3. [The Burger King Brief](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Burger_King_Brief_New_Blood_Awards_2018.pdf)
+4. [The Pearsons Brief](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Pearson_Brief_New_Blood_Awards_2018.pdf)
 
 Let's take 3 mins and read through brief each. I'll number each student and you can read through the corresponding brief. 
 
