@@ -60,6 +60,8 @@ Now let's share each brief with the class. Who will share brief 1?
 
 Now that we've all shared the briefs we will need to decide which to answer before moving forwards. Look at the key points in the brief and the target audeince and think, which will give you the most creative scope moving forwards? Which appeals to you most? 
 
+10mins to decide on your brief. 
+
 <!---
 **Note**, some may be more relevant than others as we will be working toward making a **digital campaign or product** as a response. 
 
