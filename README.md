@@ -23,7 +23,7 @@ When | In class | Homework
 ---- | --------- | ----- 
 [Monday<br>01.10.18](sessions/01)| <ul><li>Welcome <li>Intro to the brief<li>Holiday project presentations<li>Library Session| <ul> <li>Research folders
 [Monday<br>15.10.18](sessions/02)| <ul><li> Research presentations <li>Research share <li>Campaign lecture <li>Class brainstorms: touchpoints & innovation| <ul><li>Concept Sketchnoting| 
-[Monday<br>29.10.18](sessions/03)| <ul><li>Campaign concept share <li>Decision matrixes<li>Target market analysis<li>Creative touchpoints<li>Elevator pitches<li>Concept one pagers | Creative Touch Points
+[Monday<br>29.10.18](sessions/03)| <ul><li>Campaign concept share <li>Decision matrixes<li>Target market analysis<li>Creative touchpoints<li>Elevator pitches<li>Concept one pagers |<li>Creative Touch Points
 [Monday<br>12.11.18](sessions/04) |  <ul> <li> Intro: Campaign Plans<li>Omni & multi channel advertising<li>Branding workshop |<ul> <li>Campaign branding<li>Formative presentations 
 [Monday<br>19.11.18](sessions/05)| <ul><li>**Formative assessment**<li>Formative presentations<li>Self assessment<li>Online upload<li>Course feedback session| <ul> <li>Plan web based touch point<li> 
 [Monday<br>26.11.18](sessions/07)| <ul> <li>Formative feedback tutorials<li>Workshop:Campaign plan| <ul> <li>Campaign plan mock ups
