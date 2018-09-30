@@ -12,7 +12,7 @@
 * You will think​ ​about​ ​**art-direction,​ ​concept​ ​and​ ​copywriting​** ​and​ ​produce​ ​a number solutions​ ​for​ ​your​ ​brief.
 * You will develop​ ​the​ ​most​ ​**innovative​ ​solutions​** ​that​ ​address​ ​the​ ​**brief​** ​and​ ​the **target demographic**.
 * You will pitch​ ​your research, ideation, chosen concept and branding direction ​at​ ​​**formative​ ​​stage​** ​for​ ​tutor​ ​and​ ​peer​ ​comment​.
-* You will deliver​ ​a​ ​cross-media​ ​campaign​ ​solution​ ​for​ ​​**summative​ ​​stage** comprising of ​**a)​ ​campaign ​visuals,​ b) campaign touchpoints and c) a web​ enabled solution​.**
+* You will deliver a cross-media campaign solution for **summative stage** comprising of **a) campaign visuals, b) campaign touchpoints and c) at least one web  enabled touchpoint /solution.**
 
 
 # Plan for the unit
