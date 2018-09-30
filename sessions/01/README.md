@@ -14,7 +14,7 @@
 # Welcome
 
 1. [What is this course about?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md)
-2. The full course [brief](TODO:add brief here).
+2. The full course [brief](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/WEB14304%20Digital%20Advertising%202018-2019%20Brief%202018-09-21.pdf).
 3. Examples of past student work. 
 4. [What's the plan?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md#plan-for-the-unit) 
 5. [What can you learn?](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/README.md#learning-goals)
