@@ -26,7 +26,7 @@
 
 ### What is [Advertising](https://en.wikipedia.org/wiki/Advertising)
 
- [Advertising Presentation](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/01/Brief_History_of_Advertising_2016_Morning_Session.pdf)
+ [Advertising Presentation](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/History_of_Advertising_Lecture.pdf)
 
 
 # Holiday Project Presentations
@@ -139,9 +139,9 @@ Now that you have broken down your brief, how do you feel about the brief that y
 
 ## Research Record Folder
 
-As we are following the double diamond for this unit, the focus of this session and the next will be discovery. 
+As we are following the principles of the double diamond for this unit: dicover, define, develop, deliver. The focus of this session and the next will be discovery. 
 
-![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Double-Diamond.png)
+![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/01/assets/Digital_Advertising_Poster.png)
 
 Within this stage of a project it is important to research all areas around the brief and subject thoroughly to bring the right insight to our future work, concepts and designs. 
 
