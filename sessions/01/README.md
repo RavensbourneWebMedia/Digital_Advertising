@@ -177,6 +177,7 @@ Bring your list of innovations to the next session on 15th October.
 
 Sessions 1 and 2 will be research intensive and it's important to lay the foundations of your projects correctly so that you can make camapigns that are targeted and optimised for the intended audeince. 
 
-To get started we will head to the Library for the last 30mins of the session on how to use Ravensbournes digial resources to research your target audeince. 
+To get started with Ravensbourne's digital resources, the library team are going to take you through some research memthods and data finding exercises. 
 
-Let's get going! 
+After 30 mins we will then head to the Library for the last section of the session to research magazines, the reading lists and all of the physical resources that the library can offer. 
+
