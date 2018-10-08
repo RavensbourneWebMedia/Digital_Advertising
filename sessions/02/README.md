@@ -2,7 +2,7 @@
 
 ### Monday 15th October 2018
 
-1. Flipped homework:[Research folder presentations](#Research-Folder-Presentations)    
+1. Flipped homework: [Research folder presentations](#Research-Folder-Presentations)    
 2. [Research Folder Share](Research-Folder-Share)
 3. [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) 
 4. [Breaking down the brief](Breaking-down-the-brief)
@@ -14,7 +14,7 @@
 
 ### Your [homework](#homework) !
 
-#Research Folder Presentations
+# Research Folder Presentations
 
 Add image here... 
 
@@ -26,7 +26,7 @@ Last week you were asked to prepare an annotated bibliography including 5 resear
 
 This week we will start by sharing your insights gained from 1 x article on **current digital trends** and 1 x article on your **target audience** with the class. 
 
-#Research Folder Share
+# Research Folder Share
 
 Part of this weeks homework will to be to add the 6th research resource to your research folder. This will then become the foundation of your Digital Advertising investigation. 
 
@@ -46,6 +46,59 @@ This weeks lecture will focus on [Advertising Practices and Principles.](https:/
 
 Lets take a break. 
 
+# Workshop: Breaking Down A Brief
+
+Let's get started by choosing one of the briefs and leaning how to break down the brief. The brief you choose doesn't have to be your final choice!
+
+![alt text](assets/How_To_Break_Down_A_Brief.jpg)
+
+Briefs are essential but they can be overwhelming, so lets deconstruct our brief so get to the **heart** of what we're being asked for. 
+
+Before we start, read your brief one more time so it's fresh in your mind. 
+
+## Task 1: 5 Mins
+
+Reread your brief but think about the **essential** points are, what **specific words communicate** and key pieces of info that **stand out**. Highlight them.
+
+You are now going to break down the brief into just 16 words. These 16 words should communicate what the brief is asking you to do. Imagine you are giving this to someone instead of the full brief. How can you get them to understand what the task is in the same way but in only 16 words? Pull in any of the specific info or words you highlighted to help you.
+
+Note down your 16 words only. 
+
+## Task 2: 2 Mins
+
+From your 16 words, really think again about what the **crucial points** are.
+
+How many words could you shave and still communicate what the brief is asking you to do?
+
+Let's try do it in 8? Ok, let's do it. 
+
+In 8 words, what is the brief asking you to do? Rearrange the ones you have, use 8 new words or mix it up.
+
+## Task 3: 1 Mins
+
+So now you've got it down to the bare bones right? Those 8 words are all gold and they are completely vital. But which ones could you do without?
+
+Try and get it down to just 4 words. Remember, you are trying to communicate as much of the information from the full brief as possible. 
+
+Think about which words carry the most meaning.
+
+## Task 4: 1 Mins
+
+What next? Let's slim it down to 2 words.
+
+Now you have your whole brief squeezed down into 2 words. You have identified the **heart** of your brief. 
+
+It wouldn't be a good idea to use only these words when building your concepts, but now the other words and context of the brief should feel like a luxury. 
+
+As you work on ideas for your brief, refer back and ask, "Is my idea / campaign communicating the 2 word, **heart** of my brief?"
+
+Now that you have broken down your brief, how do you feel about the brief that you have chosen? Now is the time to stick or twist. 
+
+# Intro to Sketchnoting
+
+![alt text](assets/https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Sketchnoting.jpg)
+
+What is Sketchnoting? 
 
 
 # Why 12 Concepts?
