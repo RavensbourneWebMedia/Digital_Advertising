@@ -1,19 +1,44 @@
 # Week 2
 
-### Monday 16th October 2017
+### Monday 15th October 2018
 
-1. [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) 
-2. [Why 20 concepts: McDonald's theory.](#why-20-concepts-mcdonalds-theory) 
-3. Show and Tell: Top 3 brief concepts.  
-4. Creative Concepts: Some pointers from Industry.
-5. [Elevator pitch](#elevator-pitch)
-6. Pitch Document / one-pager
+1. Flipped homework:[Research folder presentations](#Research-Folder-Presentations)    
+2. [Research Folder Share](Research-Folder-Share)
+3. [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) 
+4. [Breaking down the brief](Breaking-down-the-brief)
+5. [Intro to Sketchnoting](Intro-to-Sketchnoting) 
+6. Why 12 concpets: [Mc Donanlds Theory](Mc-Donalds-Theory) 
+7. [Class Discussion](Class-Discussion) What is.... a creative idea, a touchpoint, a campaign plan. 
+8. [Class Brainstorm](Class-Brainstorm) Touchpoints / innovative web technologies. 
+9. Class wrap up. 
 
-### Your [homework](#homework) and [blog](#blog)!
+### Your [homework](#homework) !
 
+#Research Folder Presentations
+
+Add image here... 
+
+Last week you were asked to prepare an annotated bibliography including 5 research sources where:
+
+* 1 must be chosen from the unit reading list.
+* 2 must address current digital trends within the advertising industry.
+* 2 must address insight into the briefs target audience, their motivations, habits, behaviours and drivers.
+
+This week we will start by sharing your insights gained from 1 x article on **current digital trends** and 1 x article on your **target audience** with the class. 
+
+#Research Folder Share
+
+Part of this weeks homework will to be to add the 6th research resource to your research folder. This will then become the foundation of your Digital Advertising investigation. 
+
+Your 6th research sources must be selected from a fellow students annotated bibliography. This means that we will need to share our current work with the class for pooling on Aula. 
+
+ADD AULA IMAGE HERE...
+
+![Access Aula and upload now](https://rave.aula.education)
+
+Can everyone check that you can access each others work? 
 
 # Lecture Advertising Practices and Principles
-
 
 ![advertising practices and principles](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/02/Ipod.jpg)
 
@@ -21,7 +46,9 @@ This weeks lecture will focus on [Advertising Practices and Principles.](https:/
 
 Lets take a break. 
 
-# Why 20 Concepts?
+
+
+# Why 12 Concepts?
 
 ### How do we generate quality ideas?
 
@@ -31,7 +58,7 @@ If you want to have **good ideas** you must [have **many ideas**](https://medium
 
 > We’ve broken the ice with the worst possible idea, and now that the discussion has started, people suddenly get very creative. I call it the *McDonald’s Theory*: people are inspired to come up with good ideas to ward off bad ones.
 
-This is why I've asked you to come up with at least 20 throw away ideas, and whittle them down to a half-decent 5 :)
+This is why I've asked you to come up with at least 12 ideas, we will wittle these down over the coming weeks into the most promising :)
 
 Here are some of my own throw away ideas for interactive events concepts. 
 
@@ -121,30 +148,21 @@ An example from a 2016 student:
 
 # Homework
 
-### Develop your Pitch Document / one-pager
+### This weeks homework will be in 3 parts: 
 
-1. Continue to **develop** your pitch document or start again with a different sketch if you chnage direction. 
+### Part 1: Research Folder
 
-2. Research your target audience and ensure your pitch document is tailored to them. 
+Add the additional research resource to your folder by reading through other students folders and choosing a source best suited to your work and/or project brief. Write an origial summary (note: do not copy the summary of the other student) of the research source detailing the sources contribution to current advertising practice or the value taken from the piece for the your project development. 
 
-3. Digitise your concept one pager, add detail and try to communicate your idea consisely.
+### Part 2: Idea Generation: 
 
-4. Bring this ready for tutorials on your idea in the next session. 
+Using your observations from the breaking down the brief exercise, think about your brief and generate 12 ideas that could solve the brief. 
 
-5. You are free to bring more than one version if you wish but you will be capped at 3. 
+### Part 3: Target Market Insight: 
+
+Review the insights that you have found about your target audience from your research folder and collect the motivations, behaviours, drivers, habits and hangouts of your target audience. If you have no information on their digital habits, find some. Bring these ready to share for the next session. 
 
 
-### Blog 
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/moodboard.jpg) 
 
-Read [How to Make a Moodboard](https://blog.filestage.io/make-brilliant-mood-board/) and reflect on the article.  Touch on the following points in your blog post:
-
-* What you think creatives can acheive by presenting moodboards to clients? 
-
-Now create a moodboard to accompany your concept one pager. 
-
-* How does your selection of images / video help contextualise your concept? 
-
-* How does it speak your audience and the brand that you are working with?
 
