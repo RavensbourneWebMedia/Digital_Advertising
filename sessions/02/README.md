@@ -8,9 +8,8 @@
 4. [Breaking down the brief](Breaking-down-the-brief)
 5. [Intro to Sketchnoting](Intro-to-Sketchnoting) 
 6. Why 12 concpets: [Mc Donanlds Theory](Mc-Donalds-Theory) 
-7. [Class Discussion](Class-Discussion) What is.... a creative idea, a touchpoint, a campaign plan. 
-8. [Class Brainstorm](Class-Brainstorm) Touchpoints / innovative web technologies. 
-9. Class wrap up. 
+7. [Class Discussion and Barinstorm](Class-Discussion-and-Brainstrom) 
+8. Class wrap up. 
 
 ### Your [homework](#homework) !
 
@@ -125,6 +124,12 @@ Here's one of my own throw away ideas for interactive events concepts.
 ![Interactive events concepts 1](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/Ideation.JPG "Logo Title Text 1")
 
 This will be the first part of your homework assignment for this week. Brought back ready to present to the class as a poster for next time. 
+
+# Class Discussion and Brainstorm
+
+
+
+
 
 # Homework
 
