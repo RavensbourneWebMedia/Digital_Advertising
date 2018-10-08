@@ -96,7 +96,7 @@ Now that you have broken down your brief, how do you feel about the brief that y
 
 # Intro to Sketchnoting
 
-![alt text](assets/https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Sketchnoting.jpg)
+![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Sketchnoting.jpg)
 
 What is Sketchnoting? 
 
