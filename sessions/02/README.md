@@ -50,7 +50,7 @@ Lets take a break.
 
 Let's get started by choosing one of the briefs and leaning how to break down the brief. The brief you choose doesn't have to be your final choice!
 
-![alt text](assets/How_To_Break_Down_A_Brief.jpg)
+![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/How_To_Break_Down_A_Brief.jpg)
 
 Briefs are essential but they can be overwhelming, so lets deconstruct our brief so get to the **heart** of what we're being asked for. 
 
