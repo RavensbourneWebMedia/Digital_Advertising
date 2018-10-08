@@ -101,7 +101,7 @@ Sketchnoting was originally developed as a visual form of note taking, where cla
 
 We will be using this as a way to add both visual and written commnication to our digital advertisign concepts for next week. 
 
-Assets for your sketch noting: Download an A3 Sketchnoting grid and print off twice so that you have 12 sections for concepts and an A2 sheet when joined together. 
+Assets for your sketch noting: [Download an A3 Sketchnoting grid](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Assets/Sketchnoting_Grid.pdf) and print off twice so that you have 12 sections for concepts and an A2 sheet when joined together. 
 
 Take these sheets home and fill with Digital Advertising concepts. Bring back as a poster for next week to chat through with the class. 
 
@@ -127,9 +127,25 @@ This will be the first part of your homework assignment for this week. Brought b
 
 # Class Discussion and Brainstorm
 
+We've talked about creative ideas vs the touchpoints of a campaign. 
 
+What is a creative idea? Can anyone give me an example? 
 
+What is a creative touch point? 
 
+# Class Brainstorm 1: Touchpoints
+
+Let's take a moment to pool all of our thoughts about what could make a creative touchpoint for an advertising campaign. 
+
+I will take notes and will share our thoughts on Aula for reference after. 
+
+# Class Brainstorm 1: Innovative Technology in Advertising 2018
+
+Researching innovative technology was a core part of your research folder homework task. 
+
+Lets take a moment to brainstorm innovative technologues for 2018 so we have a pool to share as a class. 
+
+I will upload these to Aula after class. 
 
 # Homework
 
