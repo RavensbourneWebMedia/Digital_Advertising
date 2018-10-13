@@ -8,14 +8,14 @@
 4. [Breaking down the brief](Breaking-down-the-brief)
 5. [Intro to Sketchnoting](Intro-to-Sketchnoting) 
 6. Why 12 concpets: [Mc Donanlds Theory](Mc-Donalds-Theory) 
-7. [Class Discussion and Barinstorm](Class-Discussion-and-Brainstrom) 
+7. [Class Discussion and Brainstorm](Class-Discussion-and-Brainstrom) 
 8. Class wrap up. 
 
 ### Your [homework](#homework) !
 
 # Research Folder Presentations
 
-![Rave Library Image]()
+![Rave Library Image](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Assets/Rave_Library.jpg)
 
 Last week you were asked to prepare an annotated bibliography including 5 research sources where:
 
@@ -29,7 +29,7 @@ This week we will start by sharing your insights gained from 1 x article on **cu
 
 Part of this weeks homework will to be to add the 6th research resource to your research folder. This will then become the foundation of your Digital Advertising investigation. 
 
-Your 6th research sources must be selected from a fellow students annotated bibliography. This means that we will need to share our current work with the class for pooling on Aula. 
+Your 6th research sources must be selected from a fellow students annotated bibliography. This means that we will need to share our current work with the class for pooling on Aula. Please share now. 
 
 ![Aula Education System](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Assets/Aula.jpg)
 
@@ -93,7 +93,7 @@ As you work on ideas for your brief, refer back and ask, "Is my idea / campaign 
 
 # Intro to Sketchnoting
 
-![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Sketchnoting.jpg)
+![alt text](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Assets/Sketchnoting.jpg)
 
 What is Sketchnoting? 
 
