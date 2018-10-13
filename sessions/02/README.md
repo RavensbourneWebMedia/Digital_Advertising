@@ -161,6 +161,8 @@ Using your observations from the breaking down the brief exercise, think about y
 
 ### Part 3: Target Market Insight: 
 
+![Rave Library Image](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Assets/Target_Market.jpg)
+
 Review the insights that you have found about your target audience from your research folder and collect the motivations, behaviours, drivers, habits and hangouts of your target audience. If you have no information on their digital habits, find some. Bring these ready to share for the next session. 
 
 
