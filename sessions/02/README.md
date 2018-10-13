@@ -45,6 +45,8 @@ This weeks lecture will focus on [Advertising Practices and Principles.](ADD PRE
 
 # Class Discussion and Brainstorm
 
+![Apple Think different](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Assets/Picasso_think_Different.jpg)
+
 We've talked about creative ideas vs the touchpoints of a campaign. 
 
 What is a creative idea? Can anyone give me an example? 
