@@ -5,10 +5,10 @@
 1. Flipped homework: [Research folder presentations](#Research-Folder-Presentations)    
 2. [Research Folder Share](Research-Folder-Share)
 3. [Lecture: Advertising Practices & Principles](#lecture-advertising-practices-and-principles) 
-4. [Breaking down the brief](Breaking-down-the-brief)
-5. [Intro to Sketchnoting](Intro-to-Sketchnoting) 
-6. Why 12 concpets: [Mc Donanlds Theory](Mc-Donalds-Theory) 
-7. [Class Discussion and Brainstorm](Class-Discussion-and-Brainstrom) 
+4. [Class Discussion and Brainstorm](Class-Discussion-and-Brainstrom) 
+5. [Breaking down the brief](Breaking-down-the-brief)
+6. [Intro to Sketchnoting](Intro-to-Sketchnoting) 
+7. Why 12 concpets: [Mc Donanlds Theory](Mc-Donalds-Theory) 
 8. Class wrap up. 
 
 ### Your [homework](#homework) !
@@ -43,7 +43,27 @@ Can everyone check that you can access each others work?
 
 This weeks lecture will focus on [Advertising Practices and Principles.](ADD PRESENTATION HERE)
 
-Lets take a break. 
+# Class Discussion and Brainstorm
+
+We've talked about creative ideas vs the touchpoints of a campaign. 
+
+What is a creative idea? Can anyone give me an example? 
+
+What is a creative touch point? 
+
+# Class Brainstorm 1: Touchpoints
+
+Let's take a moment to pool all of our thoughts about what could make a creative touchpoint for an advertising campaign. 
+
+I will take notes and will share our thoughts on Aula for reference after. 
+
+# Class Brainstorm 1: Innovative Technology in Advertising 2018
+
+Researching innovative technology was a core part of your research folder homework task. 
+
+Lets take a moment to brainstorm innovative technologues for 2018 so we have a pool to share as a class. 
+
+I will upload these to Aula after class. 
 
 # Workshop: Breaking Down A Brief
 
@@ -124,28 +144,6 @@ Here's one of my own throw away ideas for interactive events concepts.
 ![Interactive events concepts 1](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/02/Ideation.JPG "Logo Title Text 1")
 
 This will be the first part of your homework assignment for this week. Brought back ready to present to the class as a poster for next time. 
-
-# Class Discussion and Brainstorm
-
-We've talked about creative ideas vs the touchpoints of a campaign. 
-
-What is a creative idea? Can anyone give me an example? 
-
-What is a creative touch point? 
-
-# Class Brainstorm 1: Touchpoints
-
-Let's take a moment to pool all of our thoughts about what could make a creative touchpoint for an advertising campaign. 
-
-I will take notes and will share our thoughts on Aula for reference after. 
-
-# Class Brainstorm 1: Innovative Technology in Advertising 2018
-
-Researching innovative technology was a core part of your research folder homework task. 
-
-Lets take a moment to brainstorm innovative technologues for 2018 so we have a pool to share as a class. 
-
-I will upload these to Aula after class. 
 
 # Homework
 
