@@ -41,7 +41,7 @@ Can everyone check that you can access each others work?
 
 ![advertising practices and principles](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/02/Ipod.jpg)
 
-This weeks lecture will focus on [Advertising Practices and Principles.](ADD PRESENTATION HERE)
+This weeks lecture will focus on [Advertising Practices and Principles](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/02/Assets/The_Principles_of_Advertising.pdf)
 
 # Class Discussion and Brainstorm
 
@@ -51,7 +51,9 @@ We've talked about creative ideas vs the touchpoints of a campaign.
 
 What is a creative idea? Can anyone give me an example? 
 
-What is a creative touch point? 
+What is a creative touch point? What is the difference between a touch point and a digital touch point? 
+
+What is a campaign plan? 
 
 # Class Brainstorm 1: Touchpoints
 
