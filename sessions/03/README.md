@@ -106,7 +106,7 @@ We are going to use these as a reference and expand our ideas by:
 
 # Elevator pitch
 
-Add Elevator Image here. 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/tenor_2.gif)
 
 What are the next steps?
 
