@@ -2,11 +2,11 @@
 
 ###  Monday 29th October 2018
 
-1. Student Presentations: [12 Digital Advertising Concepts](TO DO)
-2. 12 ideas > Top 2 with Decision Matrices [How to make decisions] (TO DO)
-3. Lecture: My Burberry, a Digital Advertising Campaign [My Burberry Lecture] (TO DO)
-4. Class discussion: Target Market Research Insight (TO DO)
-5. Touchpoint ideation: Top 2 concepts
+1. Student Presentations: [#12-Digital-Advertising-Concepts]
+2. 12 ideas > Top 2 with Decision Matrices [#How-to-make-decisions] 
+3. Lecture: My Burberry, a Digital Advertising Campaign [#My-Burberry-Lecture] 
+4. Class discussion: [#Target-Market-Insight] 
+5. [#Touchpoint-Ideation]: Top 2 concepts
 6. Elevator Pitches
 7. Concept One Pagers
 
@@ -81,7 +81,31 @@ Let's split into groups who are considering each brief, Pearsons, Burger King, A
 
 We will pool these with the class at the end of the exercise. 
 
-Time to wrap up our brainstroms and share. 
+Time to wrap up our brainstroms and share with the class. 
+
+# Touchpoint Ideation
+
+We now have a way of focusing on our target market, it's time to think about expanding our 2 top ideas with some creative touch points. 
+
+Remember the touch point/innovative technology brainstorms that we made last week? 
+
+ADD IMAGE HERE
+
+Before we start, please take a photo of your existing sketchnoting grid for your future work. Please work as individuals on this exercise
+
+We are going to use these as a reference and expand our ideas by: 
+
+**Step 1:** Cut out your top 2 ideas from your sketchnoting sheet and tape these to two new sheets of A3 paper. 
+
+**Step 2:** Review your target market insight. 
+
+**Step 3:** Now concept 3 creative touch points for each idea using the class brainstorm as a guide to make sure your touchpoints are innovative and fresh. Sketchnote (draw & annotate) these three touch points. 
+
+**Step 4:** Add a short target market justification next to each touch point showing how you have considered your intel when planning each touch point. 
+
+**Step 5:** Share with the class. :) 
+
+
 
 <!--- 
 
