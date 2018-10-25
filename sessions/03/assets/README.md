@@ -3,38 +3,17 @@
 ###  Monday 29th October 2018
 
 1. Student Presentations: [12 Digital Advertising Concepts](TO DO)
-2. 12 ideas > Top 2 with Decision Matrices [How to make decisions] (TO DO)
-3. Lecture: My Burberry, a Digital Advertising Campaign [My Burberry Lecture] (TO DO)
-4. Class discussion: Target Market Research Insight (TO DO)
-5. Touchpoint ideation: Top 2 concepts
-6. Elevator Pitches
-7. Concept One Pagers
+2. 12 ideas > Top 2 with Decision Matrices [How to make a decision]
+* Mini Presenation: [The Degree Show](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#the-degree-show)
+* Mini Lecture: [The Creative Process](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#the-creative-process)   
+* Mini Lecture: [Advertising Agency Structure](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#advertising-agency-structure)
+* Tutorials: Elevator Pitches, Pitch Documents and Moodboards. 
 
 ### Your [homework](#homework) and [blog](#blog)!
 
 # 12 Digital Advertising Concepts
 
-![](Add image of my old concepts)
 
-Last week you were given a sketchnoting grid and the challenge of coming up with 12 core advertising ideas for your brief, one idea for each slot on your grid to be illustrated and annotated to show your thinking. 
-
-# How to make Decisions
-
-# My Burberry Lecture
-
-# Target Market Insight
-
-![](Add image here)
-
-Last week part of your homework was to review your research folder, focus in on your Target Market research and collect the motivations, behaviours, drivers, habits and hangouts of your target audience to share with the class. 
-
-Let's take 5 mins to collect our insights for each of our projects - teams you may work in pairs here. 
-
-Let's split into groups who are considering each brief, Pearsons, Burger King, Addidas and Bacardi and work together to brainstorm insights on each sheet of paper. [15 mins]
-
-We will pool these with the class at the end of the exercise. 
-
-Time to wrap up our brainstroms and share. 
 
 <!--- 
 
@@ -94,21 +73,6 @@ If would like some more time to work on these docs, let me know any you can have
 
 # Homework
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--- 
-
 It’s time to start researching your target market (if you haven’t already) and to extend your research further if you already have some insights. 
 
 Each brief set by industry should have some insight into who they want you to target. If not, now is your time to decide who you will make your campaigns for. 
@@ -139,5 +103,3 @@ By answering these questions we should be able to build up an idea of who our ta
 * What is badge value and how can this be used to change the value of a product?
 * How can peoples actions be nudged by a products design or interface? 
 * What are your opinions about Rory Sutherlands TED presentation? 
-
---->
