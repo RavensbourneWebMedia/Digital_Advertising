@@ -28,7 +28,7 @@ Ancient peoples used esoteric methods to try to see into the future, but we now 
 
 There are many different forms of decision matrices, but they are all based on having an initial set of criteria against which to evaluate our choices. 
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Decision_Matrix-Small.png =x250 )
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Decision_Matrix-Small.png)
 
 Regarding its physical form, a decision matrix is a table. In the row headings. we have our criteria, in the column headings, we have the concepts we are comparing. Once these are filled each concept can be ranked based on how well it performs against the specified criteria to help aid our choice of which concept to take forwards.  
 
