@@ -14,7 +14,7 @@
 
 # 12 Digital Advertising Concepts
 
-![](Add image of my old concepts)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Ideation.jpg)
 
 Last week you were given a sketchnoting grid and the challenge of coming up with 12 core advertising ideas for your brief, one idea for each slot on your grid to be illustrated and annotated to show your thinking. 
 
@@ -22,13 +22,13 @@ Last week you were given a sketchnoting grid and the challenge of coming up with
 
 Indecisiveness has always been part of the human condition. 
 
-![](Add esoteric image here)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Esoteric_Fortune-Telling.jpg)
 
 Ancient peoples used esoteric methods to try to see into the future, but we now know that there are other ways to make informed choices - by creating a range of options and systematically evaluating them. This is what decision matrices help us to achieve in a design process. 
 
 There are many different forms of decision matrices, but they are all based on having an initial set of criteria against which to evaluate our choices. 
 
-![](Add image of table here)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Decision_Matrix-Small.png)
 
 Regarding its physical form, a decision matrix is a table. In the row headings. we have our criteria, in the column headings, we have the concepts we are comparing. Once these are filled each concept can be ranked based on how well it performs against the specified criteria to help aid our choice of which concept to take forwards.  
 
@@ -40,10 +40,10 @@ In this workshop, you will create a decision matrix (Add matrices link here) to 
 
 **Step 1:** Generate a list of criteria to rate your concepts against, based on the specifics of your brief. If you need to, take a look over your brief again to pull out the core points you were asked to consider?  
 
-* The tasks requirements: Does your concept fit with the client brief? How?  
-* Target Audience: Will your core idea resonate with your target audience? Why?  
-* Feasibility: Could you realistically see your brand adopting this direction? 
-* If your concept remarkable? Remember Seth Godin’s TED talk? Will your concept get people talking? Commenting? Sharing? 
+* **The tasks requirements:** Does your concept fit with the client brief? How?  
+* **Target Audience:** Will your core idea resonate with your target audience? Why?  
+* **Feasibility:** Could you realistically see your brand adopting this direction? 
+* **Is your concept remarkable?** Remember Seth Godin’s TED talk? Will your concept get people talking? Commenting? Sharing? 
 
 Consider how you might measure these criteria - are they objective or subjective? [10 mins]
 
@@ -55,19 +55,16 @@ Consider how you might measure these criteria - are they objective or subjective
 
 **Step 5:** Add up the totals, to see which design concept scores the most highly. You could choose the most high-scoring one or combine the best aspects from several concepts to form a new concept before moving forwards. [5 minutes]
 
-
-
-
-
-
-
-
-
 # My Burberry Lecture
+
+
+
+
+
 
 # Target Market Insight
 
-![](Add image here)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Target_Market.jpg)
 
 Last week part of your homework was to review your research folder, focus in on your Target Market research and collect the motivations, behaviours, drivers, habits and hangouts of your target audience to share with the class. 
 
