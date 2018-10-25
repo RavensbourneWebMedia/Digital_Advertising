@@ -66,7 +66,7 @@ This weeks lecture will focus on The My Burberry Campaign and it's touchpoints. 
 * The core camapign touch points.
 * The digital touch points for this camapgin and how to explain these ideas with a combination of text & visuals.
 
-My Burberry Lecture Notes are available for review. 
+[My Burberry Lecture Notes](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Multi-Channel_Omni_Channel_Advertising.pdf) are available for review. 
 
 
 # Target Market Insight
