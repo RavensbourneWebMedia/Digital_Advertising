@@ -3,12 +3,12 @@
 ###  Monday 29th October 2018
 
 1. Student Presentations: [12 Digital Advertising Concepts](#12-Digital-Advertising-Concepts)
-2. 12 ideas > Top 2 with Decision Matrices [#How-to-make-decisions] 
-3. Lecture: My Burberry, a Digital Advertising Campaign [#My-Burberry-Lecture] 
-4. Class discussion: [#Target-Market-Insight] 
-5. [#Touchpoint-Ideation]: Top 2 concepts
-6. Elevator Pitches
-7. Concept One Pagers
+2. 12 ideas > Top 2 with Decision Matrices: [How to make decisions](#How-to-make-decisions) 
+3. [Lecture: My Burberry](#My-Burberry-Lecture), a Digital Advertising Campaign 
+4. Class discussion: [Target Market Insight](#Target-Market-Insight) 
+5. [Touchpoint Ideation](#Touchpoint-Ideation): Top 2 concepts
+6. [Elevator Pitches](#Elevator-Pitches) 
+7. [Concept One Pagers](#Concept-One-Pagers) 
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -68,7 +68,6 @@ This weeks lecture will focus on The My Burberry Campaign and it's touchpoints. 
 
 [My Burberry Lecture Notes](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Multi-Channel_Omni_Channel_Advertising.pdf) are available for review. 
 
-
 # Target Market Insight
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Target_Market.jpg)
@@ -105,7 +104,49 @@ We are going to use these as a reference and expand our ideas by:
 
 **Step 5:** Share with the class. :) 
 
+# Elevator pitch
 
+Add Elevator Image here. 
+
+What are the next steps?
+
+You would think it's time to elaborate on your ideas and turn them into visuals. Not quite!
+
+First we are going to define:
+
+* What is your idea?
+* Who is it for?
+* Why is it needed or wanted? / What problem does it solve?
+
+Your pitches don't have to be statements, they could start with questions or scenarios like,
+
+Don't you hate it when...
+You are traveling to a new city...
+When walking down a road...
+Be imaginative.
+
+## Your turn
+
+Develop your answers to the 3 questions above into an elevator pitch: a short and sharp communication that shouldn't take more than 30 seconds to tell!
+
+What are your pitches? Let's share these with each other.
+
+Now that we have condensed your ideas so they are crystal clear, we are going to get visual.
+
+# Concept One Pagers
+
+A one page document summarising your idea visually, so that you can talk about it to anyone.
+
+It typically includes:
+
+a catchy title
+a strapline
+Your elevator pitch (answers to the questions above)
+a visualisation of the idea (not necessarily your complete creative but something to contextualise your idea)
+
+Let's see some past student examples :) 
+
+Now let's make our own... Are you familiar with Indesign? You are going to need to learn for your FMP report. 
 
 <!--- 
 
@@ -127,40 +168,6 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 
 --->
 
-# The Creative Process
-
-[![](assets/the-creative-process.jpg)](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/03/Digital%20Advertising%202016%20Lecture%203%20Creative%20Process.pdf)
-
-This weeks lecture will take us through the typical creative process followed in advertising agencies. 
-
-[Advertising Agencies: The Creative Process](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/03/The%20Creative%20Process_2017:18.pdf)
-
-
-Let's take a break!
-
-# Advertising Agency Structure
-
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/master/sessions/03/870da9848fc31d087826c9a719305977.jpg)
-
-Our second mini lecture will outline the main departments, job roles and key responsibilities undertaken within most advertising agencies. 
-
-[The Advertising Agency](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2017/18/sessions/03/The%20Advertising-Agency.pdf)
-
-Are any of these roles positions that you would consider for the future? 
-
-### Tutorials: Elevator Pitches, Pitch Documents and Moodboards. 
-
-For the rest of the session I will do one on one tutorials for everyone working on a separate brief. 
-
-Please have the following ready for your tutorial:
-
-* Your chosen Brief (locked down now)
-* Your top 3 concepts from last week. 
-* Your elevator pitches.
-* Your Pitch Documents/One Pagers. 
-* Your Moodboards. 
-
-If would like some more time to work on these docs, let me know any you can have your tutorial in one of the later slots. 
  
 
 # Homework
