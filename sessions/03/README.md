@@ -139,10 +139,10 @@ A one page document summarising your idea visually, so that you can talk about i
 
 It typically includes:
 
-a catchy title
-a strapline
-Your elevator pitch (answers to the questions above)
-a visualisation of the idea (not necessarily your complete creative but something to contextualise your idea)
+1. A catchy title
+2. A strapline
+3. Your elevator pitch (answers to the questions above)
+4. A visualisation of the idea (not necessarily your complete creative but something to contextualise your idea)
 
 Let's see some past student examples :) 
 
