@@ -57,7 +57,14 @@ Consider how you might measure these criteria - are they objective or subjective
 
 # My Burberry Lecture
 
+![](Add image here)
 
+This weeks lecture will focus on The My Burberry Campaign and it's touchpoints. To contextualise this campaign against our study we will look at a the core steps of the campaign and talk though:
+
+The target audience/audiences for the campaign.
+The campaign idea. The core creative concept including the campaign slogan.
+The core camapign touch points.
+The digital touch points for this camapgin and how to explain these ideas with a combination of text & visuals.
 
 
 
