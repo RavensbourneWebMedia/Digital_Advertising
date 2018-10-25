@@ -2,7 +2,7 @@
 
 ###  Monday 29th October 2018
 
-1. Student Presentations: [#12-Digital-Advertising-Concepts]
+1. Student Presentations: [12 Digital Advertising Concepts](#12-Digital-Advertising-Concepts)
 2. 12 ideas > Top 2 with Decision Matrices [#How-to-make-decisions] 
 3. Lecture: My Burberry, a Digital Advertising Campaign [#My-Burberry-Lecture] 
 4. Class discussion: [#Target-Market-Insight] 
