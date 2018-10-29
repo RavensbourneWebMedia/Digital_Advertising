@@ -109,35 +109,8 @@ We are going to use these as a reference and expand our ideas by:
 
 **Step 5:** Share with the class. :) 
 
-# Elevator pitch
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/tenor_2.gif)
-
-What are the next steps?
-
-You would think it's time to elaborate on your ideas and turn them into visuals. Not quite!
-
-First we are going to define:
-
-* What is your idea?
-* Who is it for?
-* Why is it needed or wanted? / What problem does it solve?
-
-Your pitches don't have to be statements, they could start with questions or scenarios like,
-
-Don't you hate it when...
-You are traveling to a new city...
-When walking down a road...
-Be imaginative.
-
-## Your turn
-
-Develop your answers to the 3 questions above into an elevator pitch: a short and sharp communication that shouldn't take more than 30 seconds to tell!
-
-What are your pitches? Let's share these with each other.
-
-Now that we have condensed your ideas so they are crystal clear, we are going to get visual.
-
+<!--- 
 # Concept One Pagers
 
 What is a concept one pager for an advertising campaign? 
@@ -157,7 +130,7 @@ Now let's make our own... Are you familiar with Indesign? You are going to need 
 
 We could use a template within indesign to start this part of the project? 
 
-<!--- 
+
 
 # The Degree Show
 
@@ -178,6 +151,27 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 --->
 
 # Homework
+
+## Part 1: The Elevator pitch
+
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/tenor_2.gif)
+
+As part 1 of your homework, we're going to think about making an elevator pitch for your advertising campaign. To do this we are going to define:
+
+* What is your campaign idea?
+* Who is it for?
+* Why is it needed or wanted? / What problem does it solve?
+
+Your pitches don't have to be statements, they could start with questions or scenarios like,
+
+Don't you hate it when...
+You are traveling to a new city...
+When walking down a road...
+Be imaginative.
+
+Develop your answers to the 3 questions above into an elevator pitch: a short and sharp communication that shouldn't take more than 30 seconds to tell!
+
+## Part 2: Additional Creative Touch Points
 
 Continue to develop your creative touch points for your advertising camapign. 
 
