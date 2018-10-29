@@ -18,6 +18,8 @@
 
 Last week you were given a sketchnoting grid and the challenge of coming up with 12 core advertising ideas for your brief, one idea for each slot on your grid to be illustrated and annotated to show your thinking. 
 
+Let's display your 12 concepts and then share them with the class. :)
+
 # How to make Decisions
 
 Indecisiveness has always been part of the human condition. 
