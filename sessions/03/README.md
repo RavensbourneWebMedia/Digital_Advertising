@@ -140,6 +140,8 @@ Now that we have condensed your ideas so they are crystal clear, we are going to
 
 # Concept One Pagers
 
+What is a concept one pager for an advertising campaign? 
+
 A one page document summarising your idea visually, so that you can talk about it to anyone.
 
 It typically includes:
@@ -152,6 +154,8 @@ It typically includes:
 Let's see some past student examples :) 
 
 Now let's make our own... Are you familiar with Indesign? You are going to need to learn for your FMP report. 
+
+We could use a template within indesign to start this part of the project? 
 
 <!--- 
 
@@ -173,22 +177,17 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 
 --->
 
- 
-
 # Homework
 
+Continue to develop your creative touch points for your advertising camapign. 
 
+Review the class brainstorms made for a) innovative technology & b) touchpoints and:
 
+If working as an individual - plot 3 more creative touch points for your campaign and make sure these are justified against your target market, taking your touch points up to 6 (3 from class, 3 as homework)
 
+If working as a team - plot 5 more creative touch points for your campaign and make sure these are justified against your target market, taking your touch points up to 8 (3 from class, 5 as homework)
 
-
-
-
-
-
-
-
-
+Come ready to share your ideas next week. 
 
 <!--- 
 
