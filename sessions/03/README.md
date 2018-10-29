@@ -57,6 +57,8 @@ Consider how you might measure these criteria - are they objective or subjective
 
 **Step 5:** Add up the totals, to see which design concept scores the most highly. You could choose the most high-scoring one or combine the best aspects from several concepts to form a new concept before moving forwards. [5 minutes]
 
+**Step 6** Solidify the idea that you will develop for the rest of the session (Teams you can work together to make your final concept here)
+
 # My Burberry Lecture
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/My_Burberry.jpg)
