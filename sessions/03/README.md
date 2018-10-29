@@ -156,7 +156,7 @@ There is Ravensbourne budget to help put up your stands and set up the room so I
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/tenor_2.gif)
 
-As part 1 of your homework, we're going to think about making an elevator pitch for your advertising campaign. To do this we are going to define:
+As part 1 of your homework, you're going to think about making an elevator pitch for your advertising campaign. To do this you will define:
 
 * What is your campaign idea?
 * Who is it for?
