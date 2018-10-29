@@ -59,6 +59,7 @@ Consider how you might measure these criteria - are they objective or subjective
 
 **Step 6** Solidify the idea that you will develop for the rest of the session (Teams you can work together to make your final concept here)
 
+
 # My Burberry Lecture
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/My_Burberry.jpg)
@@ -92,7 +93,7 @@ We now have a way of focusing on our target market, it's time to think about exp
 
 Remember the touch point/innovative technology brainstorms that we made last week? 
 
-ADD IMAGE HERE
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Touchpoints.jpg)
 
 Before we start, please take a photo of your existing sketchnoting grid for your future work. Please work as individuals on this exercise
 
