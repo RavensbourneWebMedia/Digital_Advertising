@@ -95,7 +95,7 @@ Remember the touch point/innovative technology brainstorms that we made last wee
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Touchpoints.jpg)
 
-Before we start, please take a photo of your existing sketchnoting grid for your future work. Please work as individuals on this exercise
+Before we start, please take a photo of your existing sketchnoting grid for your future work. Teams you can work in pairs here on your top ideas. 
 
 We are going to use these as a reference and expand our ideas by: 
 
