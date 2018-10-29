@@ -38,7 +38,7 @@ Regarding its physical form, a decision matrix is a table. In the row headings. 
 
 ## Class Exercise
 
-In this workshop, you will create a decision matrix (Add matrices link here) to help choose between a range of design concepts. (Tip: You could also use this in your FMP)
+In this workshop, you will create a [decision matrix](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/03/assets/Decision%20Matrices%20Template.pdf) to help choose between a range of design concepts. (Tip: You could also use this in your FMP)
 
 **Step 1:** Generate a list of criteria to rate your concepts against, based on the specifics of your brief. If you need to, take a look over your brief again to pull out the core points you were asked to consider?  
 
