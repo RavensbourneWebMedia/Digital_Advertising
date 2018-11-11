@@ -17,9 +17,8 @@ Week 3 Homework share: [Campaign Touch Points](https://github.com/RavensbourneWe
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/Degree_Show_1_Small.png)
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/The_degree_show.jpg)
+[<img src="https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/The_degree_show.jpg">](https://www.youtube.com/watch?v=d2dykZFiHmo)
 
-ADD FIRST VIDEO HERE
 
 [Examples of stands 2017/2018](TODO - Add presentation)
 
