@@ -56,9 +56,29 @@ In preparation, I thought that I would quickly go over the deliverables for the 
 
 All deliverables for this course can be found on the [Digital Advertising Brief](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/Digital_Advertising_Brief.pdf) hosted on Aula.
 
-Next Week for Formative, you will: 
+**Formative Parts 1:** Pitch Presentation in Lecture hours: Monday 19th November.
 
-ADD LIST OF TODO's for NEXT WEEK. 
+You/your team will present your work to date on your digital advertising campaign for tutor and peer review including:
+
+1. A condensed chosen client-brief outlining the problem to be solved.
+2. A research record summary detailing how reading resources have contributed to project based work.
+3. 12 initial concepts and a justification for the idea chosen to take forward.
+4. An elevator pitch for your chosen concept.
+5. A pitch one pager for your chosen concept.
+6. Creative mood boards.
+7. An initial idea of campaign brand.
+8. An online of creative outputs for the campaign and a justification of why they are appropriate for the brief and target audience.
+9. An outline campaign plan.
+
+**Formative Part 2:** An online upload on Monday 19th November before 4pm of:
+
+1. Part A: Research Record Folder (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
+2. Work to date on Part B: A Campaign Branding Booklet (12 x A4 PDF Max and supporting files).
+3. These hand ins must be accompanied by a self assessment sheet as this will be the basis for tutor formative feedback.
+
+Any questions at all on these hand in's? 
+
+Let's take a quick look at your [Self Assessment Sheet] for next week. (We will do this in the lesson next week)
 
 ## Campaign Plans: Past Student Work
 
