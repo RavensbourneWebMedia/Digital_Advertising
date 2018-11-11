@@ -10,7 +10,6 @@
 6. Lecture: [Multi Channel vs Omni Channel Advertising](#multi-channel-vs-omni-channel-advertising)
 7. [Why make a Campaign Plan?](Why-make-a-Campaign-Plan?)
 8. Workshop: [Creating a Campaign Plan](#creating-a-campaign-plan) 
-* Mini Presenation: [The Degree Show](#the-degree-show)
 
 ### Your [homework](#homework) and [blog](#blog)
 
@@ -55,7 +54,7 @@ Next week our session will focus on feedback. You will recieve formative feedbac
 
 In preparation, I thought that I would quickly go over the deliverables for the course so that we all know what is expected for formative **next week**. 
 
-All deliverables for this course can be found on the [Digital Advertising Brief](Add Brief to GIT Here) hosted on Aula.
+All deliverables for this course can be found on the [Digital Advertising Brief](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/Digital_Advertising_Brief.pdf) hosted on Aula.
 
 Next Week for Formative, you will: 
 
