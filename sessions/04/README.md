@@ -7,8 +7,9 @@
 3. [Concept One Pagers](#Concept_One_Pagers)
 4. [Campaign Plans: Past Student Work](#Campaign-Plans-Past-Student-Work)
 5. Recap of Digital Advertising Submissions: [Formative Hand In Review](Formative-Hand-In-Review)
-* Lecture: [Multi Channel vs Omni Channel Advertising](#multi-channel-vs-omni-channel-advertising)
-* Workshop: [Creating a Campaign Plan](#creating-a-campaign-plan) 
+6. Lecture: [Multi Channel vs Omni Channel Advertising](#multi-channel-vs-omni-channel-advertising)
+7. [Why make a Campaign Plan?](Why-make-a-Campaign-Plan?)
+8. Workshop: [Creating a Campaign Plan](#creating-a-campaign-plan) 
 * Mini Presenation: [The Degree Show](#the-degree-show)
 
 ### Your [homework](#homework) and [blog](#blog)
@@ -108,20 +109,15 @@ Now that you have this, ask yourself the following questions:
 * Where will traffic / customer attention be channeled? What is the "call to action"?
 * How can you visualise the above points? Now start to make these sketches. 
 
-
-## The Degree Show
-
-[A quick recap on last week.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/sessions/03#the-degree-show)
-
 ## Homework
     
-**Part 1:** Make a mood board and initial branding of your creative. Choose your images carefully for your brand and target audience. 
+**Part 1:** As a Team: Make a mood board and initial branding of your creative. Choose your images carefully for your brand and target audience. If working as a team, this is a group exercise. 
 
-**Part 2:** Digitise your concept one pager so that this can be a feature of your formative presentation next week. 
+**Part 2:** Digitise your concept one pager so that this can be a feature of your formative presentation next week. If working as a team, this is a group exercise.  
 
-Add Image of one pager here. 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/George_webb.png)
 
-**Part 3:** Continue working on your campaign plan, digitise this if possible and add this to your formative presentation & hand in package. 
+**Part 3:** Continue working on your campaign plan, digitise this if possible and add this to your formative presentation & hand in package. If working as a team, this is a group exercise. 
 
-**Part 4:** Build formative presentation - this should reflect your branding outlined in your moodpboard/initial creative. 
+**Part 4:** Build formative presentation - this should reflect your branding outlined in your moodpboard/initial creative. If working as a team, this is a group exercise. 
 
