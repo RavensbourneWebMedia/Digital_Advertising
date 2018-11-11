@@ -15,12 +15,13 @@ Week 3 Homework share: [Campaign Touch Points](https://github.com/RavensbourneWe
 
 ## The Degree Show
 
-![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/Degree_Show_1_Small.png)
+In June this year it will be your turn to show at the Ravensbourne degree show. Not long to go now...
+
+Let's take a look at a previous year at the show: 
 
 [<img src="https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/The_degree_show.jpg">](https://www.youtube.com/watch?v=d2dykZFiHmo)
 
-
-[Examples of stands 2017/2018](TODO - Add presentation)
+[Examples of stands 2017/2018](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/Web_Media_Degree_Show_Mini_Lectur_2019.pdf)
 
 [Example of Graphic Design Show 2017](https://www.youtube.com/watch?v=_sENq4tLHuw)
 
