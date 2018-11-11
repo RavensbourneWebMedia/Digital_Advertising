@@ -33,6 +33,20 @@ You were set 2 tasks for [homework](https://github.com/RavensbourneWebMedia/Digi
 
 ## Concept One Pagers
 
+What is a concept one pager for an advertising campaign? 
+
+A one page document summarising your idea visually, so that you can talk about it to anyone.
+
+It typically includes:
+
+1. A catchy title
+2. A strapline
+3. Your elevator pitch (answers to the questions above)
+4. A visualisation of the idea (not necessarily your complete creative but something to contextualise your idea)
+
+Let's see some past student examples :) 
+
+Now let's make our own... First on paper, then you will digitise. You might want to work in indesign to create this docuemnt, there are some hand templates here.
 
 ## Formative Hand In Review
 
@@ -101,19 +115,13 @@ Now that you have this, ask yourself the following questions:
 
 ## Homework
     
-Continue to work on [Creating a Campaign Plan](#creating-a-campaign-plan). 
+**Part 1:** Make a mood board and initial branding of your creative. Choose your images carefully for your brand and target audience. 
 
-Add your campaign plan to the other pieces you have created and prepair for formative presentations next week. 
+**Part 2:** Digitise your concept one pager so that this can be a feature of your formative presentation next week. 
 
-Everything you need to know is detailed on the [Digital Advertising Campaign page.](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising)
+Add Image of one pager here. 
 
-### Blog 
+**Part 3:** Continue working on your campaign plan, digitise this if possible and add this to your formative presentation & hand in package. 
 
-Blog post: Reflect on the the work that you have created so far for the course touching on:
+**Part 4:** Build formative presentation - this should reflect your branding outlined in your moodpboard/initial creative. 
 
-1. Your **20 concepts** and your top 3. Then how you chose your leading idea from your shortlisted 3. 
-* The creation of your **elevator pitches:** Did you make more than one revision before reaching your final version? What are you pitches? 
-* The creation of your **pitch document / one pager.** How you worked to digitise this after creating a paper sketch. 
-* The creation of your **moodboard** and whether this has helped steer the look and feel of your campaign. 
-* The **research** that you have gathered on your **target market.** 
-* The creation of your **campaign plan.** 
