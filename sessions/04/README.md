@@ -78,7 +78,7 @@ You/your team will present your work to date on your digital advertising campaig
 
 Any questions at all on these hand in's? 
 
-Let's take a quick look at your [Self Assessment Sheet] for next week. (We will do this in the lesson next week)
+Let's take a quick look at your [Self Assessment Sheet](https://docs.google.com/document/d/1TS4FhHuwKvzrDZR76OnVW_2JtJiQcXXGROtAlcdBI-4/edit?usp=sharing) for next week. (We will do this in the lesson next week)
 
 ## Campaign Plans: Past Student Work
 
