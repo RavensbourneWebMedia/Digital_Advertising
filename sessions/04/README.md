@@ -5,8 +5,8 @@
 1. Mini Lecture: [The Degree Show](The-Degree-Show)
 2. Week 3 Homework share: [Campaign Touch Points Review](#Campaign-Touch-Points-Review) 
 3. [Concept One Pagers](#Concept_One_Pagers)
-4. [Campaign plans Past Student Work](#Campaign-Plans-Past-Student-Work)
-* Recap of Digital Advertising Submissions: [Digital Advertising Campaign]
+4. [Campaign Plans: Past Student Work](#Campaign-Plans-Past-Student-Work)
+5. Recap of Digital Advertising Submissions: [Formative Hand In Review](Formative-Hand-In-Review)
 * Lecture: [Multi Channel vs Omni Channel Advertising](#multi-channel-vs-omni-channel-advertising)
 * Workshop: [Creating a Campaign Plan](#creating-a-campaign-plan) 
 * Mini Presenation: [The Degree Show](#the-degree-show)
@@ -46,7 +46,7 @@ Next Week for Formative, you will:
 
 ADD LIST OF TODO's for NEXT WEEK. 
 
-## Campaign plans Past Student Work
+## Campaign Plans: Past Student Work
 
 This week the focus of the session is going to be on the strategy behind your campaign and it's touchpoinct and how a  campaign plan can help you communicate this in a simple and visual way. 
 
