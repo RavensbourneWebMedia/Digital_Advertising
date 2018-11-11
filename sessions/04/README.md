@@ -15,7 +15,9 @@ Week 3 Homework share: [Campaign Touch Points](https://github.com/RavensbourneWe
 
 ## The Degree Show
 
-![](ADD IMAGE HERE)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/Degree_Show_1_Small.png)
+
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/The_degree_show.jpg)
 
 ADD FIRST VIDEO HERE
 
@@ -25,7 +27,7 @@ ADD FIRST VIDEO HERE
 
 ## Looking back to last week
 
-![](Add Tenor Image here)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/tenor_2.gif)
 
 You were set 2 tasks for homework. Let's share you NEW campaign touch points with the class. :)
 
