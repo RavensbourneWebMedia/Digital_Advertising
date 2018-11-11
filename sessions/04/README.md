@@ -15,7 +15,13 @@ Week 3 Homework share: [Campaign Touch Points](https://github.com/RavensbourneWe
 
 ## The Degree Show
 
+![](ADD IMAGE HERE)
 
+ADD FIRST VIDEO HERE
+
+[Examples of stands 2017/2018](TODO - Add presentation)
+
+[Example of Graphic Design Show 2017](https://www.youtube.com/watch?v=_sENq4tLHuw)
 
 ## Looking back to last week
 
