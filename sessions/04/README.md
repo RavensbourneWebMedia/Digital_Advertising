@@ -80,6 +80,8 @@ Any questions at all on these hand in's?
 
 Let's take a quick look at your [Self Assessment Sheet](https://docs.google.com/document/d/1TS4FhHuwKvzrDZR76OnVW_2JtJiQcXXGROtAlcdBI-4/edit?usp=sharing) for next week. (We will do this in the lesson next week)
 
+This will correolate with the [UAL Grade descriptors.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/UAL_Marking_Criteria.pdf) 
+
 ## Campaign Plans: Past Student Work
 
 This week the focus of the session is going to be on the strategy behind your campaign and it's touchpoinct and how a  campaign plan can help you communicate this in a simple and visual way. 
