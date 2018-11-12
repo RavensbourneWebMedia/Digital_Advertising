@@ -1,23 +1,21 @@
 # Week 5
 
-### Monday 20th November 
+### Monday 19th November 
 
-[Formative assessment](#formative-assessment):
+[A day of feedback](#A-day-of-feedback):
 
-Everyone will present their digital advertising project and receive feedback from the group. 
+1. Class [Formative Presentations](Formative-Presentations)
+2. [Self Assessment Exercise](Self-Assessment-Exercise)
+3. [Presentation Uploads](Upload-Your-Work)
+4. [Course Feedback](Course-Feedback)
 
-Feedback on presentations will be recorded on the [digital advertising google doc.](https://docs.google.com/document/d/1YLvNO6PSzHLUitCzTJX9EclrltAGnBiOaG2gW9MT9x0/edit#)
+### Your [homework](#homework)
 
-### Your [homework](#homework) and [blog](#blog)
-
-
-# Formative assessment
-
-#### Today
+# Formative Presentations
 
 You will present your digital advertising projects, either individually or in your teams of two. 
 
-You will have 10mins max to present your work.
+You will have 15mins max to present your work.
 
 Remember, this is a formative presentation, which gives you a chance to ask any questions about your work that might help you push forwards over the next 2 weeks.
 
@@ -25,51 +23,34 @@ Explain how your concept relates to your chosen brief and how it appeals to the 
 
 After each presentation we will give **verbal feedback**.  
 
+Feedback on presentations will be recorded on the [digital advertising google doc.](https://docs.google.com/document/d/12cPyW-ZOI4fziQb5RYJZzmJhFBu8N8-pYEK7013Qi6A/edit?usp=sharing)
+
 #### After today
 
-We will type up the feedback and share it with you via the Google docs above.
+You will recieve written feedback on your hand in, based on your self assessment. This will include the core points from your presentation feedback from the sheet. 
 
-You will reflect on this feedback (*self-assessment*) and write your thoughts in a blog post. 
+## Self Assessment Exercise
+
+In order to get an understanding of how you see your work, progress and interpretation of the brief, we are asking for your online submission to contain the following: 
+
+1. Part A: Research Record Folder (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
+2. Work to date on Part B: A Campaign Branding Booklet (12 x A4 PDF Max and supporting files).
+3. These hand ins must be accompanied by a [Self Assessment Sheet](https://docs.google.com/document/d/1TS4FhHuwKvzrDZR76OnVW_2JtJiQcXXGROtAlcdBI-4/edit?usp=sharing) as this will be the basis for tutor formative feedback.
+
+This will correolate with the [UAL Grade descriptors.](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/UAL_Marking_Criteria.pdf) 
+
+Please navigate to the self assessment sheet, copy and fill out with short sentence for each point under the marking criteria. Please also give yourself a grade for each hand in point. 
+
+I will then use this as the basis of my feedback and points for improvement. 
+
+## Course Feedback
+
+In order to make the course better we would love to have your honest and professional feedback on the Digital Advertising / Web Media course. 
 
 
 # Homework
 
-As part of your hand in you will need to make:
 
-A Project/Research Folder (4 x A4 PDF Max - Harvard Referenced) that will include:
-
-Concise documentation outlining the research stages and physical/online reading and campaign references that have contributed to the project.
-
-Over the next week, read two articles or book extracts about digital advertising in preparation for this part of your submission. 
-
-Please reference the digital advertising brief for titles or work with the library to find relevant titles. 
-
-### Blog 
-
-1. Reflect on the feedback you received during the formative assessment and write about it. 
-
-Your post should address these questions (in no particular order):
-
-* **ME**:
-	* What worked and what didn't when presenting?
-	* Did I communicate my ideas clearly to the class, why or why not? 
-
-* My **WORK**:
-	* What worked and what didn't?
-	* What should I improve for next time?
-	* Did the campaign grab the attention of people in the room?
-	* How can I make my campaign and pitch have greater impact for summative? 
-
-2. Jot down an action plan for the next 2 weeks: list what you want to do in order to address that feedback that you received. 
-
-3. Plot out the tasks that you have remaining for Summative presentation against the [hand in doc](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2017/18/projects/Digital_Advertising) and plot them against the remianing weeks in the course.
-    
-    ### For Next Time, Monday 27th November:
-
-	* Do some research into [invision](https://www.invisionapp.com/), sign up and make an account. 
-	* Look into design libraries that you can borrow to help design your products or prototypes, like [Facebook](https://en.facebookbrand.com/). Don't reinvent the wheel. 
-	* Let me know whether you are interested in being part of the degree show. 
-	
 
 
 
