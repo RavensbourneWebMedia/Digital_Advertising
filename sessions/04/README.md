@@ -29,7 +29,7 @@ Let's take a look at a previous year at the show:
 
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/04/assets/tenor_2.gif)
 
-You were set 2 tasks for [homework](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2018/19/sessions/03#homework)) Let's share you NEW campaign touch points with the class. :)
+You were set 2 tasks for [homework](https://github.com/RavensbourneWebMedia/Digital_Advertising/tree/Digital_Advertising_2018/19/sessions/03#homework) Let's share you NEW campaign touch points with the class. :)
 
 ## Concept One Pagers
 
