@@ -6,7 +6,7 @@
 
 1. Class [Formative Presentations](Formative-Presentations)
 2. [Self Assessment Exercise](Self-Assessment-Exercise)
-3. [Presentation Uploads](Upload-Your-Work)
+3. [Online Uploads](Upload-Your-Work)
 4. [Course Feedback](Course-Feedback)
 
 ### Your [homework](#homework)
@@ -43,12 +43,29 @@ Please navigate to the self assessment sheet, copy and fill out with short sente
 
 I will then use this as the basis of my feedback and points for improvement. 
 
+## Online Uploads
+
+Your deadline today for online uploads is 4pm. Let's work together to make your formative uploads.
+
+Do you have any questions at all? 
+
 ## Course Feedback
 
 In order to make the course better we would love to have your honest and professional feedback on the Digital Advertising / Web Media course. 
 
+I have made a nearpod, a type of interactive presentation, where you can [feed back your throughts.](https://share.nearpod.com/vsph/ca3qCHNgNu) I will ensure that your names aren't visable. Let's take a moment to fill out the feedback. 
+
+Please join with the code: UPGTC
+
+I will take the class question by question. Please give as much context to your answers as possible. 
 
 # Homework
+
+As part of the session next week we will be thinking about laying out your Digital Advertising branding in indesign. This week you should have shown your formative presentation with an inital idea of your branding. 
+
+Now it's time to refine this look and feel as you will need to bring the following for next week: 
+
+
 
 
 
