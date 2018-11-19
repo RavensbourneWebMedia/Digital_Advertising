@@ -65,7 +65,13 @@ As part of the session next week we will be thinking about laying out your Digit
 
 Now it's time to refine this look and feel as you will need to bring the following for next week: 
 
+1. The Fonts that will be the backbone of your branding
+2. Colour pallets - what will your core colours be? 
+3. Image mood boards to give an idea of brand treatment. 
+4. Any indication of models/images.
+5. Any logos that will feature in your camapign. 
 
+We will need these to make your branding next week. Please bring files ready to work. 
 
 
 
