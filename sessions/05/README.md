@@ -61,6 +61,8 @@ I will take the class question by question. Please give as much context to your 
 
 # Homework
 
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/05/assets/Brand_Guidelines.jpg)
+
 As part of the session next week we will be thinking about laying out your Digital Advertising branding in indesign. This week you should have shown your formative presentation with an inital idea of your branding. 
 
 Now it's time to refine this look and feel as you will need to bring the following for next week: 
