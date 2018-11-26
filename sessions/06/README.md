@@ -6,8 +6,6 @@
 2. [Campaign Branding Booklet Workshop](#Campaign-Branding-Booklet-Workshop)
 3. [Touch point & Campaign Plan review](#Touch-point-&-Campaign-Plan-review)
 4. [Planning your complex digital touch point](#Complex-digital-touch-point)
-2. Presentation: Previous D&AD Winners. 
-3. Tutorial Time. 
 
 ### Your [homework](#homework) and [blog](#blog)
 
