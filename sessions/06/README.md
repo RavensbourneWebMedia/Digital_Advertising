@@ -1,12 +1,48 @@
-# Week 7
+# Week 6
 
-### Monday 27th November 
+### Monday 26th November 2018
 
-1. Lecture: [Omnichannel Advertising Campaigns.](#OmnichannelAdvertisingCampaigns.)
-2.  Presentation: Previous D&AD Winners. 
+1. [Formative Feedback Tutorials](#Formative-Feedback-Tutorials)
+2. [Campaign Branding Booklet Workshop](#Campaign-Branding-Booklet-Workshop)
+3. [Touch point & Campaign Plan review][#Touch-point-&-Campaign-Plan-review]
+4. Planning your 
+2. Presentation: Previous D&AD Winners. 
 3. Tutorial Time. 
 
 ### Your [homework](#homework) and [blog](#blog)
+
+
+## Formative Feedback Tutorials
+
+Last week you presented your work and handed in: 
+
+1. Part A: Research Record Folder (where the bibliography is 4 x A4 PDF Max and Ravensbourne Referenced and videos are supplied as stand alone files).
+2. Work to date on Part B: A Campaign Branding Booklet (12 x A4 PDF Max and supporting files).
+3. A Self Assessment Sheet.
+
+At the end of last week you should have recieved detailed written feedback on your project work to date. 
+
+The first part of today's session will be an opportunity to discuss your feedback and to have any questions that you have answered. 
+
+## Campaign Branding Booklet Workshop
+
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/05/assets/Brand_Guidelines.jpg)
+
+In last weeks homework you were asked to bring the following for this weeks session: 
+
+1. The Fonts that will be the backbone of your branding
+2. Colour pallets - what will your core colours be? 
+3. Image mood boards to give an idea of brand treatment. 
+4. Any indication of models/images.
+5. Any logos that will feature in your camapign. 
+
+How many people have these assets with them for this week? 
+
+
+
+
+
+
 
 ## Omnichannel Advertising Campaigns. 
 
