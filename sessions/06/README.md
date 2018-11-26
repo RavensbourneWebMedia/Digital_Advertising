@@ -9,7 +9,6 @@
 
 ### Your [homework](#homework) and [blog](#blog)
 
-
 ## Formative Feedback Tutorials
 
 Last week you presented your work and handed in: 
@@ -36,7 +35,9 @@ In last weeks homework you were asked to bring the following for this weeks sess
 
 How many people have these assets with them for this week? If not you can work with my files and create the same design as me. 
 
-![](ADD IMAGE HERE)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/06/assets/branding-outline.png)
+
+Let's start by talking about [colour and printing](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/06/assets/Web_Media_Campaign_Branding_Booklet.pdf) quickly. 
 
 ## Touch point & Campaign Plan review
 
@@ -44,7 +45,7 @@ Now that you have seen how to lay out the Campaign Branding Booklet, I would lik
 
 ## Complex digital touch point
 
-![](ADD IMAGE HERE)
+![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/06/assets/post-it-note-walkthrough.png)
 
 # Homework
 
@@ -58,5 +59,7 @@ Now that you have seen how to lay out the Campaign Branding Booklet, I would lik
 * Detail of the web media solutions/touch points chosen to support your campaign including functionality & any prototyping. (prototyping source files may be supplied separately to the booklet)
 * Campaign branding experimentation.
 * Final campaign brand guidelines including: font, colour pallets, image moods, choice of models/images, logo size & restrictions etc. 
+
+2. Refine your digital touch point walkthrough steps, visualise and add to your Campaign Branding Booklet. 
 
 
