@@ -41,11 +41,15 @@ Let's start by talking about [colour and printing](https://github.com/Ravensbour
 
 ## Touch point & Campaign Plan review
 
-Now that you have seen how to lay out the Campaign Branding Booklet, I would like totouch base with you about your camapign touch points and campaign plans. Please take me through each of these in your 10 min tutorial. These must be crystal clear for summative hand in. 
+Now that you have seen how to lay out the Campaign Branding Booklet, I would like to touch base with you about your camapign touch points and campaign plans. Please take me through each of these in your 10 min tutorial. These must be crystal clear for summative hand in. 
 
 ## Complex digital touch point
 
+Your Digital Advertising Brief says you have to have 1 innovative web based touch point as part of your campaign. 
+
 ![](https://github.com/RavensbourneWebMedia/Digital_Advertising/blob/Digital_Advertising_2018/19/sessions/06/assets/post-it-note-walkthrough.png)
+
+In this workshop we will plan out this innovative web based touch point step by step so that it is clear what this adds to your camapign & so that we can visualise this clearly in your Campaign Branding Booklet. Please take some post it notes. :) 
 
 # Homework
 
@@ -61,5 +65,6 @@ Now that you have seen how to lay out the Campaign Branding Booklet, I would lik
 * Final campaign brand guidelines including: font, colour pallets, image moods, choice of models/images, logo size & restrictions etc. 
 
 2. Refine your digital touch point walkthrough steps, visualise and add to your Campaign Branding Booklet. 
+
 
 
