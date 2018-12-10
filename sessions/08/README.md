@@ -4,7 +4,7 @@
 
 1. Quick tutorials/ Final Project Questions
 * [**Summative presentations**](#summative-presentations)
-* Final [hand-in](#hand-in-package) of [project work](#projects), [presentations](#presentations) and [blog posts](#blog-posts) 
+* Final hand-in of project work, presentations and blog posts blog-posts 
 
 
 # Checklist
