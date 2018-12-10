@@ -1,7 +1,10 @@
 # Week 7
 
-### Monday 4th December
+### Monday 3rd December 2018
 
+Open Tutorial Sessions with Steve Price.
+
+<!---
 1. Lecturing: [Viral Marketing](#viral-marketing)
 2. [D&AD Winners Continued](#D&AD-Winners)
 3. Review: Summative Hand ins
@@ -64,3 +67,5 @@ Add images, show your project development and comment on the work that you have 
 Make sure that you also work on your Research Folder. 
 
 Good Luck. 
+
+-->
